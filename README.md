@@ -10,3 +10,6 @@ pip3 install send2trash requests beautifulsoup4 openpyxl  PyPDF2 selenium  pytho
 pip3 install pyobjc-core pyobjc
 pip3 install pyautogui
 
+# Questions
+
+1. python 在不同层级目录import 模块的方法(http://blog.csdn.net/hansel/article/details/8975663)

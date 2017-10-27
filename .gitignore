@@ -1,0 +1,4 @@
+geckodriver.log
+*.pyc
+.DS_Store
+mydata.db
