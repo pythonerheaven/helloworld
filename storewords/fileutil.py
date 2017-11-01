@@ -15,7 +15,7 @@ browser.get('http://account.youdao.com/login?service=dict&back_url=http://dict.y
 editor = browser.find_element_by_id('username')
 editor.send_keys('hujb2014@163.com')
 password = browser.find_element_by_id('password')
-password.send_keys('')
+password.send_keys('storewords')
 login = browser.find_element_by_class_name('login_btn')
 login.click()
 
