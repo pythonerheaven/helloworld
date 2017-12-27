@@ -10,6 +10,10 @@
 pip3 install send2trash requests beautifulsoup4 openpyxl  PyPDF2 selenium  python-docx   imapclient   pyzmail  twilio pillow  python3-xlib
 pip3 install pyobjc-core pyobjc
 pip3 install pyautogui
+pip3 install requests
+pip3 install beautifulsoup4
+pip3 install pymongo
+pip3 install APScheduler
 <<<<<<< HEAD
 pip3 install
 =======
