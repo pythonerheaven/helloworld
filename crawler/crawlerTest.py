@@ -7,7 +7,7 @@ import random
 # https://finviz.com/screener.ashx?v=152&r=7101
 
 crawler = Crawler('/Users/hujiabao/Downloads/fv.txt','##')
-mongodbutil = Mongodbutil('10.173.32.123',27017)
+mongodbutil = Mongodbutil('10.173.32.123',27017,'fiv')
 pos = 0
 while pos < 7101:
     print(pos)

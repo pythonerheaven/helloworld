@@ -18,7 +18,7 @@ sched = BlockingScheduler()
 @sched.scheduled_job('cron',day_of_week='mon-fri',hour='16', minute='39')
 def scheduled_job():
     logging.info('This job is run every weekday at 5pm')
-    crawler = Crawler('/Users/hujiabao/Downloads/fv.txt', '##')
+    crawler = Crawler('/Users/hujiabao/Downloads/fv.txt', '##','fiv')
     mongodbutil = Mongodbutil('10.173.32.123', 27017)
     pos = 0
     while pos < 7101:
