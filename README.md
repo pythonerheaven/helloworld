@@ -16,6 +16,7 @@ pip3 install pymongo
 pip3 install APScheduler
 pip3 install lxml
 pip3 install urllib2
+pip3 install futuquant --upgrade
 <<<<<<< HEAD
 pip3 install
 =======
