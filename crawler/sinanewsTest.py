@@ -9,24 +9,41 @@ import pandas as pd
 sinanews = Sinanews()
 mongodbutil = Mongodbutil('10.173.32.123',27017,'sinanews')
 
-data = pd.read_csv("../src/futuqant/examples/all_stocks/ALL_US.txt", sep=' ', names=['code'])
+MARKET = ['US','HK','SZ','SH']
 
-for indexs in data.index:
-    print(data.loc[indexs].values[0][3:])
+def read_file(market):
+    data = pd.read_csv("../src/futuqant/examples/all_stocks/ALL_" + market + ".txt", sep=' ', names=['code'])
+    return data
 
-    code = data.loc[indexs].values[0][3:]
-    url = 'http://biz.finance.sina.com.cn/usstock/usstock_news.php?symbol=' + code
-    print(url)
+def generate_url(market,code):
+    if market == 'US' :
+        return 'http://stock.finance.sina.com.cn/usstock/quotes/' + code + '.html'
+    if market == 'HK' :
+        return 'http://stock.finance.sina.com.cn/hkstock/quotes/' + code + '.html'
+    if market == 'SH' :
+        return 'http://finance.sina.com.cn/realstock/company/' + str.lower(market) + code + '/nc.shtml'
+    if market == 'SZ' :
+        return 'http://finance.sina.com.cn/realstock/company/' + str.lower(market) + code + '/nc.shtml'
+    else :
+        return "url not found"
 
-    try:
-        sinanews.get_page(code,url)
-        items = sinanews.get_item_array()
-        mongodbutil.insertItems(items)
+for market in MARKET:
+    data = read_file(market)
+    for indexs in data.index:
+        code = data.loc[indexs].values[0][3:]
+        print(code)
+        url = generate_url(market,code)
+        print(url)
 
-        time.sleep(2*random.random())
-    except Exception as err:
-        time.sleep(2 * random.random())
-        print(err)
+        try:
+            sinanews.get_page(code,url)
+            items = sinanews.get_item_array()
+            mongodbutil.insertItems(items)
+
+            time.sleep(2*random.random())
+        except Exception as err:
+            time.sleep(2 * random.random())
+            print(err)
 
 
 #sinanews.get_content('http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-agilent-technologies-inc-december-26-2017/?yptr=yahoo')

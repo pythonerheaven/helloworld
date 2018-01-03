@@ -1,7 +1,8 @@
 import requests
 import bs4
 import sys
-
+import random
+import time
 
 class Sinanews(object):
     def __init__(self):
@@ -14,12 +15,12 @@ class Sinanews(object):
         res.raise_for_status()
         if res.status_code == 200 :
             contentSoup = bs4.BeautifulSoup(res.text,'lxml')
-            elems = contentSoup.select('.xb_list > li')
+            elems = contentSoup.select('#js_ggzx > li,.li_point > ul > li,.col02_22 > ul > li')
             for elem in elems:
                 json = {}
                 json['code'] = code
-                ele = elem.select('.xb_list_r')
-                json['date'] = ele[0].getText().split('|')[1]
+                ele = elem.select('span')
+                json['date'] = ele[0].getText()[1:-1]
                 s = json['date']
                 print(s)
                 ele = elem.select('a')
@@ -27,6 +28,7 @@ class Sinanews(object):
                 print(json['title'])
                 json['href'] = ele[len(ele)-1].attrs['href']
                 ret,content = self.get_content(json['href'])
+                time.sleep(2 * random.random())
                 if ret == 0 :
                     json['content'] = content
                     self.itemArray.append(json)
