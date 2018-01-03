@@ -3,6 +3,7 @@
 得到一个指数下面所有的股票信息
 """
 from futuquant.open_context import *
+import pandas as pd
 
 # 如下数据源由 enum_all_index_stocks 接口生成, 后续请自行手动运行更新
 '''SH INDEX
@@ -1035,19 +1036,40 @@ if __name__ == "__main__":
     api_ip = '10.242.103.18' #''119.29.141.202'
     api_port = 11111
 
-    # enum_all_index(api_ip, api_port)
+    #enum_all_index(api_ip, api_port)
 
-    print('SH.000001 上证指数 \n')
-    print(get_index_stocks(api_ip, api_port, 'SH.000001'))
+    data = pd.read_csv("index_hk.txt", sep=' ',names=['code','name'])
+    for indexs in data.index:
+        print(data.loc[indexs].values[0])
+        print(data.loc[indexs].values[1])
+        ret,df = get_index_stocks(api_ip, api_port, data.loc[indexs].values[0])
+        if ret == 0 :
+            df.to_csv(data.loc[indexs].values[0]+'.txt', index=True, sep=' ', columns=['code', 'lot_size','stock_name'])
+            #for indexs2 in df.index:
+            #    pass
+                # print(df.loc[indexs2].values[0])
+                # print(df.loc[indexs2].values[1])
 
-    print('SZ.399006 创业板指\n')
-    print(get_index_stocks(api_ip, api_port, 'SZ.399006'))
+    # ret, data = get_index_stocks(api_ip, api_port,'US..INX')
+    # if ret == 0 :
+    #     data.to_csv("INX.txt", index=True, sep=' ', columns=['code', 'lot_size','stock_name'])
 
-    print('HK.800000 恒生指数 \n')
-    print(get_index_stocks(api_ip, api_port, 'HK.800000'))
+    # for indexs in data.index:
+    #     print(indexs)
+    #     print(data.loc[indexs].values[0])
+    #     print(data.loc[indexs].values[1])
 
-    print('US..DJI 道琼斯指数\n')
-    print(get_index_stocks(api_ip, api_port, 'US..INX'))
+    # print('SH.000001 上证指数 \n')
+    # print(get_index_stocks(api_ip, api_port, 'SH.000001'))
+    #
+    # print('SZ.399006 创业板指\n')
+    # print(get_index_stocks(api_ip, api_port, 'SZ.399006'))
+    #
+    # print('HK.800000 恒生指数 \n')
+    # print(get_index_stocks(api_ip, api_port, 'HK.800000'))
+    #
+    # print('US..DJI 道琼斯指数\n')
+    # print(get_index_stocks(api_ip, api_port, 'US..INX'))
 
 
 

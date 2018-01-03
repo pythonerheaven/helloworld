@@ -9,9 +9,9 @@ from email.header import Header
 
 class EmailNotification(object):
     """邮件提醒类"""
-    sender = 'your sender email address'
-    password = 'your password'
-    smtpserver = 'your smtp server,such as smtp.163.com'
+    sender = 'hujb2015@163.com'
+    password = 'IlovePython'
+    smtpserver = 'smtp.163.com'
     enable = False
 
     @staticmethod
@@ -44,4 +44,6 @@ class EmailNotification(object):
 
 
 if __name__ == '__main__':
-    pass
+    en = EmailNotification()
+    en.set_enable(True)
+    en.send_email("hujb2000@163.com",'不是垃圾','是我在测死')

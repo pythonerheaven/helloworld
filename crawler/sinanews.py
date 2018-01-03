@@ -25,21 +25,31 @@ class Sinanews(object):
                 json['title'] = ele[len(ele)-1].getText()
                 print(json['title'])
                 json['href'] = ele[len(ele)-1].attrs['href']
-                json['content'] = self.get_content(json['href'])
-                self.itemArray.append(json)
+                ret,content = self.get_content(json['href'])
+                if ret == 0 :
+                    json['content'] = content
+                    self.itemArray.append(json)
 
 
     def get_content(self,url):
         content = ''
-        res = requests.get(url)
+        ret = 1
+        header = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
+        res = requests.get(url,headers=header)
         res.encoding = "utf-8"
-        res.raise_for_status()
+        try:
+            res.raise_for_status()
+        except Exception as err:
+            print(err)
+
         if res.status_code == 200:
             soup = bs4.BeautifulSoup(res.text,'lxml')
-            elems = soup.select('#artibody')
+            elems = soup.select('#artibody,.entry-content')
             if len(elems) > 0 :
                 content = elems[0].getText()
-        return content
+                ret = 0
+        return ret, content
 
 
     def get_item_array(self):
