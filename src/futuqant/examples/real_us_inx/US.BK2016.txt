@@ -1,0 +1,28 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AAOI 1 "Applied Optoelectronics, Inc."  0 STOCK
+1 US.ACLS 1 Axcelis科技设计公司  0 STOCK
+2 US.AEHR 1 "Aehr Test Systems"  0 STOCK
+3 US.AMAT 1 应用材料  0 STOCK
+4 US.COHU 1 科休半导体  0 STOCK
+5 US.CREE 1 克里科技  0 STOCK
+6 US.CYBE 1 数码光学科技  0 STOCK
+7 US.ESIO 1 电子科技工业  0 STOCK
+8 US.IMI 1 "Intermolecular, Inc."  0 STOCK
+9 US.INTT 1 "inTEST Corp."  0 STOCK
+10 US.IPGP 1 IPG光电  0 STOCK
+11 US.KLAC 1 科磊  0 STOCK
+12 US.KLIC 1 库力索法半导体  0 STOCK
+13 US.KOPN 1 高平电子  0 STOCK
+14 US.LRCX 1 拉姆研究  0 STOCK
+15 US.NVMI 1 "Nova Measuring Instruments Ltd."  0 STOCK
+16 US.ON 1 安森美半导体  0 STOCK
+17 US.ORBK 1 奥宝科技  0 STOCK
+18 US.QRVO 1 "Qorvo, Inc."  0 STOCK
+19 US.SEDG 1 "SOLAREDGE TECHNOLOGIES INC"  0 STOCK
+20 US.SPIL 1 矽品  0 STOCK
+21 US.SQNS 1 "Sequans Communications SA"  0 STOCK
+22 US.TER 1 泰瑞达  0 STOCK
+23 US.TRT 1 "Trio-Tech International"  0 STOCK
+24 US.TXN 1 德州仪器  0 STOCK
+25 US.UCTT 1 超科林半导体  0 STOCK
+26 US.UTEK 1 超科技半导体  0 STOCK

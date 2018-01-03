@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00168 2000 青岛啤酒股份  0 STOCK
+1 HK.00236 2000 香港生力啤  0 STOCK
+2 HK.00291 2000 华润啤酒  0 STOCK
+3 HK.00389 2000 通天酒业  0 STOCK
+4 HK.00472 10000 新丝路文旅  0 STOCK
+5 HK.00828 2000 王朝酒业  0 STOCK
+6 HK.00886 3000 银基集团  0 STOCK
+7 HK.01219 1000 天喔国际  0 STOCK
+8 HK.01389 4000 美捷汇控股  0 STOCK
+9 HK.08057 4000 麦迪森控股  0 STOCK

@@ -1,0 +1,10 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000409 100 山东地矿  0 STOCK
+1 SZ.000629 100 *ST钒钛  0 STOCK
+2 SZ.000655 100 金岭矿业  0 STOCK
+3 SZ.000762 100 西藏矿业  0 STOCK
+4 SH.600193 100 创兴资源  0 STOCK
+5 SH.600295 100 鄂尔多斯  0 STOCK
+6 SH.600532 100 宏达矿业  0 STOCK
+7 SH.600882 100 广泽股份  0 STOCK
+8 SH.601969 100 海南矿业  0 STOCK

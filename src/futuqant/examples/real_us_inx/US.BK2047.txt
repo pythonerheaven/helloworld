@@ -1,0 +1,8 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.CAFD 1 "8POINT3 ENERGY PARTNERS LP"  0 STOCK
+1 US.GLBL 1 环球实业  0 STOCK
+2 US.NEP 1 "NextEra Energy Partners LP"  0 STOCK
+3 US.RUN 1 "SUNRUN INC."  0 STOCK
+4 US.SKYS 1 天华阳光  0 STOCK
+5 US.TERP 1 "TerraForm Power"  0 STOCK
+6 US.VSLR 1 "Vivint Solar, Inc."  0 STOCK

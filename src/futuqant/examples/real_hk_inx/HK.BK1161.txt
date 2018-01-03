@@ -1,0 +1,12 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00241 2000 阿里健康  0 STOCK
+1 HK.00493 1000 国美零售  0 STOCK
+2 HK.00598 1000 中国外运  0 STOCK
+3 HK.00636 500 嘉里物流  0 STOCK
+4 HK.00700 100 腾讯控股  0 STOCK
+5 HK.01060 10000 阿里影业  0 STOCK
+6 HK.01169 1000 海尔电器  0 STOCK
+7 HK.02020 1000 安踏体育  0 STOCK
+8 HK.02280 500 慧聪网  0 STOCK
+9 HK.02331 500 李宁  0 STOCK
+10 HK.06123 2000 先达国际物流  0 STOCK

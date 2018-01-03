@@ -1,0 +1,5 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000592 100 平潭发展  0 STOCK
+1 SZ.002679 100 福建金森  0 STOCK
+2 SH.600189 100 吉林森工  0 STOCK
+3 SH.600265 100 ST景谷  0 STOCK

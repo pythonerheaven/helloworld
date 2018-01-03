@@ -1,0 +1,20 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AGU 1 "Agrium, Inc."  0 STOCK
+1 US.AVD 1 美国先锋公司  0 STOCK
+2 US.CF 1 CF实业  0 STOCK
+3 US.CGA 1 中国绿色农业  0 STOCK
+4 US.FMC 1 FMC公司  0 STOCK
+5 US.FNJN 1 "FINJAN HOLDINGS CMN"  0 STOCK
+6 US.ICL 1 "ICL-Israel Chemicals Ltd."  0 STOCK
+7 US.IPI 1 "Intrepid Potash, Inc."  0 STOCK
+8 US.LXU 1 LSB工业材料  0 STOCK
+9 US.MBII 1 "Marrone Bio Innovations, Inc."  0 STOCK
+10 US.MON 1 孟山都  0 STOCK
+11 US.MOS 1 美国美盛  0 STOCK
+12 US.POT 1 加拿大钾肥  0 STOCK
+13 US.RKDA 1 "ARCADIA BIOSCIENCES, INC."  0 STOCK
+14 US.RTK 1 "Rentech Inc"  0 STOCK
+15 US.SMG 1 "Scotts Miracle-Gro Co."  0 STOCK
+16 US.SYT 1 先正达  0 STOCK
+17 US.TNH 1 特拉制氮化学  0 STOCK
+18 US.UAN 1 "CVR Partners LP"  0 STOCK

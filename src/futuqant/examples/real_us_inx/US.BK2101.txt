@@ -1,0 +1,28 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AKS 1 AK钢铁控股公司  0 STOCK
+1 US.ATI 1 阿利根尼  0 STOCK
+2 US.CMC 1 美国工商五金公司  0 STOCK
+3 US.CRS 1 卡朋特科技  0 STOCK
+4 US.FRD 1 "Friedman Industries, Inc."  0 STOCK
+5 US.FSTR 1 LB福斯特  0 STOCK
+6 US.GGB 1 盖尔道钢铁  0 STOCK
+7 US.IIIN 1 Insteel工业  0 STOCK
+8 US.INS 1 "Intelligent Systems Corp."  0 STOCK
+9 US.MT 1 安赛乐米塔尔  0 STOCK
+10 US.NUE 1 纽柯钢铁  0 STOCK
+11 US.NWPX 1 西北管道  0 STOCK
+12 US.OSN 1 奥盛创新  0 STOCK
+13 US.PKX 1 浦项钢铁  0 STOCK
+14 US.RS 1 "Reliance Steel & Aluminum Co."  0 STOCK
+15 US.SCHN 1 史尼泽钢铁  0 STOCK
+16 US.SID 1 巴西国家黑色冶金  0 STOCK
+17 US.SIM 1 "Grupo SIMEC SAB de CV"  0 STOCK
+18 US.STLD 1 "Steel Dynamics, Inc."  0 STOCK
+19 US.TMST 1 "TimkenSteel Corp."  0 STOCK
+20 US.TS 1 泰纳瑞斯钢铁  0 STOCK
+21 US.TX 1 特尔尼翁钢铁  0 STOCK
+22 US.USAP 1 通用不锈钢和合金制品公司  0 STOCK
+23 US.WAB 1 美国西屋制动  0 STOCK
+24 US.WOR 1 "Worthington Industries, Inc."  0 STOCK
+25 US.X 1 美国钢铁  0 STOCK
+26 US.ZEUS 1 "Olympic Steel, Inc."  0 STOCK

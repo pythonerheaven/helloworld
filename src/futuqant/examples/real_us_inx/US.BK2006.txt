@@ -1,0 +1,109 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AAME 1 美国大西洋  0 STOCK
+1 US.ACGL 1 艾奇资本  0 STOCK
+2 US.AEG 1 荷兰全球保险  0 STOCK
+3 US.AEL 1 美国股票投资寿险控股公司  0 STOCK
+4 US.AET 1 安泰保险  0 ETF
+5 US.AFG 1 美国金融集团有限公司  0 STOCK
+6 US.AFH 1 "Atlas Financial Holdings, Inc."  0 STOCK
+7 US.AFL 1 美国家庭寿险  0 STOCK
+8 US.AFSI 1 AFSI保险  0 STOCK
+9 US.AGII 1 阿尔戈国际控股集团有限公司  0 STOCK
+10 US.AGO 1 保证担保有限公司  0 STOCK
+11 US.AHL 1 阿斯彭保险控股有限公司  0 STOCK
+12 US.AIG 1 美国国际集团  0 STOCK
+13 US.AIZ 1 艾斯兰公司  0 STOCK
+14 US.AJG 1 亚瑟加拉格尔有限公司  0 STOCK
+15 US.ALL 1 好事达  0 STOCK
+16 US.AMSF 1 "Amerisafe Inc"  0 STOCK
+17 US.ANAT 1 美国国家保险  0 STOCK
+18 US.AON 1 怡安保险  0 STOCK
+19 US.AWH 1 安奈特保险  0 STOCK
+20 US.AXS 1 埃克斯资本  0 STOCK
+21 US.BCRH 1 "BLUE CAPITAL REINS"  0 STOCK
+22 US.BRO 1 布朗保险经纪  0 STOCK
+23 US.BWINA 1 鲍德温与里昂公司  0 STOCK
+24 US.BWINB 1 "Baldwin & Lyons, Inc."  0 STOCK
+25 US.CB 1 丘博保险  0 STOCK
+26 US.CIA 1 公民保险  0 STOCK
+27 US.CINF 1 辛市金融  0 STOCK
+28 US.CNA 1 CAN金融  0 STOCK
+29 US.CNFR 1 "CONIFER HOLDINGS, INC."  0 STOCK
+30 US.CNO 1 康塞科  0 STOCK
+31 US.CRVL 1 "CorVel Corp."  0 STOCK
+32 US.DGICA 1 多尼戈尔股份  0 STOCK
+33 US.DGICB 1 "Donegal Group, Inc."  0 STOCK
+34 US.EHTH 1 易康  0 STOCK
+35 US.EIG 1 Employers控股  0 STOCK
+36 US.EMCI 1 易安信保险  0 STOCK
+37 US.ERIE 1 伊瑞保险  0 STOCK
+38 US.ESGR 1 恩斯塔  0 STOCK
+39 US.FAC 1 "First Acceptance Corp."  0 STOCK
+40 US.FAF 1 第一美国  0 STOCK
+41 US.FFG 1 FBL金融  0 STOCK
+42 US.FNF 1 富达国民金融  0 STOCK
+43 US.FNFV 1 "Fidelity National Financial Inc"  0 STOCK
+44 US.FNHC 1 "Federated National Holding Co."  0 STOCK
+45 US.GBLI 1 "Global Indemnity Limited Ordinary Shares (Cayman Islands)"  0 STOCK
+46 US.GLRE 1 绿光资本再保公司  0 STOCK
+47 US.GNW 1 通用金融  0 STOCK
+48 US.HALL 1 标志金融服务  0 STOCK
+49 US.HCI 1 "HCI Group, Inc."  0 STOCK
+50 US.HIG 1 美国哈特福德金融  0 STOCK
+51 US.HIIQ 1 "Health Insurance Innovations, Inc."  0 STOCK
+52 US.HMN 1 霍勒斯曼恩  0 STOCK
+53 US.HRTG 1 "Heritage Insurance Holdings, Inc."  0 STOCK
+54 US.IHC 1 独立控股  0 STOCK
+55 US.IPCC 1 "Infinity Property & Casualty Corp."  0 STOCK
+56 US.ITIC 1 投资者不动产  0 STOCK
+57 US.JRVR 1 "JAMES RIVER GROUP HOLDINGS  LT"  0 STOCK
+58 US.KFS 1 汇富金融服务  0 STOCK
+59 US.KINS 1 金石保险  0 STOCK
+60 US.KMPR 1 "Kemper Corp."  0 STOCK
+61 US.L 1 洛斯公司  0 STOCK
+62 US.LFC 1 中国人寿  0 STOCK
+63 US.LNC 1 林肯国民  0 STOCK
+64 US.MBI 1 "MBIA, Inc."  0 STOCK
+65 US.MCY 1 默邱利通用  0 STOCK
+66 US.MET 1 大都会人寿  0 STOCK
+67 US.MHLD 1 "Maiden Holdings Ltd."  0 STOCK
+68 US.MKL 1 "Markel Corp."  0 STOCK
+69 US.MMC 1 威达信集团  0 STOCK
+70 US.NAVG 1 领航者  0 STOCK
+71 US.NGHC 1 "National General Holdings Corp."  0 STOCK
+72 US.NSEC 1 "National Security Group, Inc."  0 STOCK
+73 US.NWLI 1 国家西方人寿保险  0 STOCK
+74 US.ORI 1 "Old Republic International Corp."  0 STOCK
+75 US.OXBR 1 "Oxbridge Re Holdings Ltd."  0 STOCK
+76 US.PFG 1 信安金融  0 STOCK
+77 US.PGR 1 美国前进保险公司  0 STOCK
+78 US.PIH 1 "1347 Property Insurance Holdings, Inc."  0 STOCK
+79 US.PN 1 "PATRIOT NATIONAL, INC."  0 STOCK
+80 US.PRA 1 "ProAssurance Corp."  0 STOCK
+81 US.PRI 1 "Primerica, Inc."  0 STOCK
+82 US.PRU 1 保德信金融  0 STOCK
+83 US.PUK 1 英国保诚  0 STOCK
+84 US.RE 1 安富来再保险集团公司  0 STOCK
+85 US.RGA 1 "Reinsurance Group of America, Inc."  0 STOCK
+86 US.RLI 1 RLI保险  0 STOCK
+87 US.RNR 1 "RenaissanceRe Holdings Ltd."  0 STOCK
+88 US.SAFT 1 "Safety Insurance Group, Inc."  0 STOCK
+89 US.SIGI 1 "Selective Insurance Group, Inc."  0 STOCK
+90 US.SLF 1 永明金融  0 STOCK
+91 US.STFC 1 "State Auto Financial Corp."  0 STOCK
+92 US.THG 1 汉诺威保险  0 STOCK
+93 US.TIPT 1 "Tiptree Inc. Class A"  0 STOCK
+94 US.TMK 1 托马科  0 STOCK
+95 US.TPRE 1 "Third Point Reinsurance Ltd."  0 STOCK
+96 US.TRV 1 旅行者财产险集团  0 STOCK
+97 US.UFCS 1 "United Fire Group, Inc."  0 STOCK
+98 US.UIHC 1 "United Insurance Holdings Corp."  0 STOCK
+99 US.UNAM 1 "Unico American Corp."  0 STOCK
+100 US.UNM 1 尤纳姆集团  0 STOCK
+101 US.UVE 1 "Universal Insurance Holdings, Inc."  0 STOCK
+102 US.VR 1 "Validus Holdings Ltd."  0 STOCK
+103 US.WMIH 1 "WMIH Corp."  0 STOCK
+104 US.WRB 1 "W.R. Berkley Corp."  0 STOCK
+105 US.WTM 1 "White Mountains Insurance Group"  0 STOCK
+106 US.XL 1 "XL Group Ltd."  0 STOCK
+107 US.Y 1 "Alleghany Corp."  0 STOCK

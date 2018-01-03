@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000713 100 丰乐种业  0 STOCK
+1 SZ.000998 100 隆平高科  0 STOCK
+2 SZ.002041 100 登海种业  0 STOCK
+3 SZ.002385 100 大北农  0 STOCK
+4 SZ.002567 100 唐人神  0 STOCK
+5 SZ.300087 100 荃银高科  0 STOCK
+6 SZ.300189 100 神农基因  0 STOCK
+7 SH.600313 100 农发种业  0 STOCK
+8 SH.600354 100 敦煌种业  0 STOCK
+9 SH.600371 100 万向德农  0 STOCK

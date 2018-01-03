@@ -1,0 +1,15 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00229 1000 利民实业  0 STOCK
+1 HK.00449 2000 志高控股  0 STOCK
+2 HK.00464 4000 建福集团  0 STOCK
+3 HK.00493 1000 国美零售  0 STOCK
+4 HK.00638 2000 建溢集团  0 STOCK
+5 HK.00669 500 创科实业  0 STOCK
+6 HK.00684 2000 亚伦国际  0 STOCK
+7 HK.00921 1000 海信科龙  0 STOCK
+8 HK.01169 1000 海尔电器  0 STOCK
+9 HK.01280 2000 汇银智慧社区  0 STOCK
+10 HK.02014 1000 浩泽净水  0 STOCK
+11 HK.02326 10000 新源万恒控股  0 STOCK
+12 HK.08118 8000 濠亮环球  0 STOCK
+13 HK.08192 12000 环球能源资源  0 STOCK

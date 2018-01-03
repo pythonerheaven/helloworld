@@ -1,0 +1,13 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00111 2000 信达国际控股  0 STOCK
+1 HK.00165 2000 中国光大控股  0 STOCK
+2 HK.00227 8000 第一上海  0 STOCK
+3 HK.00665 1000 海通国际  0 STOCK
+4 HK.01375 1000 中州证券  0 STOCK
+5 HK.01476 1000 恒投证券  0 STOCK
+6 HK.01776 200 广发证券  0 STOCK
+7 HK.01788 1000 国泰君安国际  0 STOCK
+8 HK.06030 500 中信证券  0 STOCK
+9 HK.06837 400 海通证券  0 STOCK
+10 HK.06881 500 中国银河  0 STOCK
+11 HK.06886 200 华泰证券  0 STOCK

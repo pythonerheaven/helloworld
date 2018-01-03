@@ -1,0 +1,47 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ALSN 1 艾里逊变速箱控股公司  0 STOCK
+1 US.ALV 1 奥托立夫  0 STOCK
+2 US.AXL 1 美国车桥  0 STOCK
+3 US.BWA 1 博格华纳  0 STOCK
+4 US.CAAS 1 中汽系统  0 STOCK
+5 US.CPS 1 "Cooper-Standard Holdings, Inc."  0 STOCK
+6 US.CTB 1 库珀轮胎与橡胶  0 STOCK
+7 US.CVGI 1 商用汽车  0 STOCK
+8 US.CXDC 1 鑫达集团  0 STOCK
+9 US.CYD 1 玉柴国际  0 STOCK
+10 US.DAN 1 达纳  0 STOCK
+11 US.DLPH 1 德尔福  0 STOCK
+12 US.DORM 1 "Dorman Products, Inc."  0 STOCK
+13 US.DW 1 "德鲁工业 (已退市)"  0 STOCK
+14 US.FENX 1 "FENIX PARTS, INC."  0 STOCK
+15 US.FOXF 1 "Fox Factory Holding Corp."  0 STOCK
+16 US.FSS 1 联邦信号  0 STOCK
+17 US.GNTX 1 真泰克  0 STOCK
+18 US.GPC 1 纯正部件公司  0 STOCK
+19 US.GT 1 固特异轮胎橡胶公司  0 STOCK
+20 US.HZN 1 "Horizon Global Corp."  0 STOCK
+21 US.JCI 1 江森自控  0 STOCK
+22 US.KEN 1 "Kenon Holdings Ltd."  0 STOCK
+23 US.LDL 1 莱德尔  0 STOCK
+24 US.LEA 1 李尔  0 STOCK
+25 US.MGA 1 曼格纳国际  0 STOCK
+26 US.MOD 1 摩丁制造  0 STOCK
+27 US.MPAA 1 "Motorcar Parts of America, Inc."  0 STOCK
+28 US.MPG 1 马奎尔投资  0 STOCK
+29 US.MTOR 1 美驰  0 STOCK
+30 US.MYE 1 "Myers Industries, Inc."  0 STOCK
+31 US.SMP 1 "Standard Motor Products, Inc."  0 STOCK
+32 US.SORL 1 SORL汽车零部件公司  0 STOCK
+33 US.SRI 1 "Stoneridge, Inc."  0 STOCK
+34 US.STRT 1 "STRATTEC Security Corp."  0 STOCK
+35 US.SUP 1 "Superior Industries International, Inc."  0 STOCK
+36 US.SYPR 1 "Sypris Solutions, Inc."  0 STOCK
+37 US.TEN 1 天纳克  0 STOCK
+38 US.THRM 1 "Gentherm, Inc."  0 STOCK
+39 US.TOWR 1 "Tower International, Inc. (Michigan)"  0 STOCK
+40 US.TWI 1 "Titan International, Inc."  0 STOCK
+41 US.UFAB 1 "Unique Fabricating, Inc."  0 STOCK
+42 US.VC 1 伟世通  0 STOCK
+43 US.WBC 1 威伯科控股公司  0 STOCK
+44 US.WPRT 1 "Westport Fuel Systems, Inc."  0 STOCK
+45 US.ZX 1 正兴集团  0 STOCK

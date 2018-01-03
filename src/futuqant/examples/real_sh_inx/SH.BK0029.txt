@@ -1,0 +1,5 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000089 100 深圳机场  0 STOCK
+1 SH.600004 100 白云机场  0 STOCK
+2 SH.600009 100 上海机场  0 STOCK
+3 SH.600897 100 厦门空港  0 STOCK

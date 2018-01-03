@@ -1,0 +1,13 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00182 10000 协合新能源  0 STOCK
+1 HK.00527 4000 瑞风新能源  0 STOCK
+2 HK.00658 1000 中国高速传动  0 STOCK
+3 HK.00735 500 中国电力清洁能源  0 STOCK
+4 HK.00816 2000 华电福新  0 STOCK
+5 HK.00916 1000 龙源电力  0 STOCK
+6 HK.00956 1000 新天绿色能源  0 STOCK
+7 HK.00958 2000 华能新能源  0 STOCK
+8 HK.01185 2000 中国航天万源  0 STOCK
+9 HK.01296 1000 国电科环  0 STOCK
+10 HK.01798 1000 大唐新能源  0 STOCK
+11 HK.02208 200 金风科技  0 STOCK

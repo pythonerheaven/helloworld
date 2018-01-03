@@ -1,0 +1,15 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.F 1 福特汽车  0 STOCK
+1 US.FCAU 1 菲亚特-克莱斯特汽车公司  0 STOCK
+2 US.GM 1 通用汽车  0 STOCK
+3 US.HMC 1 本田汽车  0 STOCK
+4 US.KNDI 1 康迪车业  0 STOCK
+5 US.NAV 1 纳威司达  0 STOCK
+6 US.OSK 1 "Oshkosh Corp."  0 STOCK
+7 US.PII 1 北极星  0 STOCK
+8 US.RACE 1 法拉利  0 STOCK
+9 US.THO 1 托尔工业集团  0 STOCK
+10 US.TM 1 丰田汽车  0 STOCK
+11 US.TSLA 1 特斯拉  0 STOCK
+12 US.TTM 1 塔塔汽车  0 STOCK
+13 US.WGO 1 "Winnebago Industries, Inc."  0 STOCK

@@ -1,0 +1,10 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.002175 100 东方网络  0 STOCK
+1 SZ.002445 100 中南文化  0 STOCK
+2 SZ.300027 100 华谊兄弟  0 STOCK
+3 SZ.300133 100 华策影视  0 STOCK
+4 SZ.300167 100 迪威迅  0 STOCK
+5 SZ.300251 100 光线传媒  0 STOCK
+6 SZ.300291 100 华录百纳  0 STOCK
+7 SZ.300426 100 唐德影视  0 STOCK
+8 SH.600551 100 时代出版  0 STOCK

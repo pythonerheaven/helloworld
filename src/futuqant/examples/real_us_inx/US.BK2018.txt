@@ -1,0 +1,32 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AXTA 1 "Axalta Coating Systems Ltd."  0 STOCK
+1 US.BAK 1 "Braskem SA"  0 STOCK
+2 US.BERY 1 "Berry Global Group, Inc."  0 STOCK
+3 US.BIOA 1 "BioAmber, Inc."  0 STOCK
+4 US.BOOM 1 "DMC Global Inc."  0 STOCK
+5 US.CMT 1 "Core Molding Technologies, Inc."  0 STOCK
+6 US.CSWI 1 "CSW Industrials, Inc."  0 STOCK
+7 US.CTIB 1 CTI工业  0 STOCK
+8 US.DOW 1 陶氏化学  0 STOCK
+9 US.EMN 1 伊士曼化工  0 STOCK
+10 US.FF 1 "First Opportunity基金"  0 STOCK
+11 US.FFHL 1 富维薄膜  0 STOCK
+12 US.FORK 1 富岭塑胶  0 STOCK
+13 US.GURE 1 海湾资源  0 STOCK
+14 US.HUN 1 亨斯曼材料  0 STOCK
+15 US.KRA 1 "Kraton Corporation"  0 STOCK
+16 US.LYB 1 利安德巴塞尔  0 STOCK
+17 US.MEOH 1 梅思恩  0 STOCK
+18 US.ODC 1 美国石油勘探  0 STOCK
+19 US.OLN 1 欧林  0 STOCK
+20 US.OMN 1 "OMNOVA Solutions, Inc."  0 STOCK
+21 US.PAH 1 "Platform Specialty Products Corp."  0 STOCK
+22 US.SHLM 1 舒曼  0 STOCK
+23 US.SHW 1 宣伟公司  0 STOCK
+24 US.SQM 1 智利矿业化工  0 STOCK
+25 US.TANH 1 "Tantech Holdings Ltd."  0 STOCK
+26 US.TG 1 特里迪加  0 STOCK
+27 US.TREC 1 "Trecora Resources"  0 STOCK
+28 US.UFPT 1 "UFP Technologies, Inc."  0 STOCK
+29 US.WLK 1 "Westlake Chemical Corp."  0 STOCK
+30 US.WMS 1 "Advanced Drainage Systems, Inc."  0 STOCK

@@ -1,0 +1,10 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000863 100 三湘印象  0 STOCK
+1 SZ.002690 100 美亚光电  0 STOCK
+2 SZ.002714 100 牧原股份  0 STOCK
+3 SZ.002739 100 万达电影  0 STOCK
+4 SZ.300377 100 赢时胜  0 STOCK
+5 SZ.300378 100 鼎捷软件  0 STOCK
+6 SH.601021 100 春秋航空  0 STOCK
+7 SH.603368 100 柳州医药  0 STOCK
+8 SH.603456 100 九洲药业  0 STOCK

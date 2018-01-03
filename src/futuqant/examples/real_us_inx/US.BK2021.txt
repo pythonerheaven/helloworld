@@ -1,0 +1,36 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AMCO 1 "Armco Metals Holdings, Inc."  0 STOCK
+1 US.AQMS 1 "AQUA METALS, INC."  0 STOCK
+2 US.AXU 1 "Alexco Resource Corp."  0 STOCK
+3 US.BBL 1 必和必拓  0 STOCK
+4 US.BHP 1 必和必拓  0 STOCK
+5 US.BRSS 1 "Global Brass & Copper Holdings, Inc."  0 STOCK
+6 US.BVN 1 布埃纳文图拉开采  0 STOCK
+7 US.CHNR 1 中国天然资源  0 STOCK
+8 US.CLF 1 克里夫天然资源公司  0 STOCK
+9 US.CMP 1 "Compass Minerals International, Inc."  0 STOCK
+10 US.GMO 1 "General Moly, Inc."  0 STOCK
+11 US.GSM 1 "Ferroglobe PLC"  0 STOCK
+12 US.GSV 1 "Gold Standard Ventures Corp."  0 STOCK
+13 US.HBM 1 "HudBay Minerals, Inc."  0 STOCK
+14 US.HCLP 1 "Hi-Crush Partners LP"  0 STOCK
+15 US.HL 1 赫克拉矿业  0 STOCK
+16 US.KLDX 1 "Klondex Mines Ltd."  0 STOCK
+17 US.MTL 1 车里雅宾斯克钢铁  0 STOCK
+18 US.NCQ 1 "NovaCopper Inc (已退市)"  0 STOCK
+19 US.PLM 1 "Polymet Mining Corp."  0 STOCK
+20 US.RIO 1 力拓  0 STOCK
+21 US.SCCO 1 南方铜业  0 STOCK
+22 US.SLCA 1 "U.S. Silica Holdings, Inc."  0 STOCK
+23 US.SXC 1 "SunCoke Energy, Inc."  0 STOCK
+24 US.TCK 1 "泰克资源有限公司 (已退市)"  0 STOCK
+25 US.TGB 1 "Taseko Mines Ltd."  0 STOCK
+26 US.UAMY 1 "United States Antimony Corp."  0 STOCK
+27 US.UEC 1 "Uranium Energy Corp."  0 STOCK
+28 US.URG 1 "Ur-Energy, Inc."  0 STOCK
+29 US.URRE 1 "Uranium Resources"  0 STOCK
+30 US.UUUU 1 "Energy Fuels, Inc."  0 STOCK
+31 US.VALE 1 淡水河谷  0 STOCK
+32 US.VEDL 1 "Vedanta Ltd."  0 STOCK
+33 US.WRN 1 "Western Copper & Gold Corp."  0 STOCK
+34 US.XRA 1 "Exeter Resource Corp"  0 STOCK

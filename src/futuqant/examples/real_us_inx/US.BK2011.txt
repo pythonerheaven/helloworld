@@ -1,0 +1,14 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.BLFS 1 "BioLife Solutions, Inc."  0 STOCK
+1 US.CERN 1 美国塞纳  0 STOCK
+2 US.ECTE 1 "Echo Therapeutics"  0 STOCK
+3 US.EVH 1 "Evolent Health, Inc."  0 STOCK
+4 US.HMSY 1 HMS控股  0 STOCK
+5 US.HSTM 1 健康流科技  0 STOCK
+6 US.INOV 1 "INOVALON HOLDINGS  INC."  0 STOCK
+7 US.JYNT 1 "The Joint Corp. (United States)"  0 STOCK
+8 US.MDRX 1 麦赛斯医药  0 STOCK
+9 US.NRCIB 1 "National Research Corp."  0 STOCK
+10 US.OMCL 1 "Omnicell, Inc."  0 STOCK
+11 US.PINC 1 "Premier, Inc. (North Carolina)"  0 STOCK
+12 US.ROKA 1 "Roka Bioscience"  0 STOCK

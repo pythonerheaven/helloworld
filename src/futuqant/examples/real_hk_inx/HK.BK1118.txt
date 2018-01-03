@@ -1,0 +1,6 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00390 1000 中国中铁  0 STOCK
+1 HK.01186 500 中国铁建  0 STOCK
+2 HK.01766 1000 中国中车  0 STOCK
+3 HK.01800 1000 中国交通建设  0 STOCK
+4 HK.03898 100 中车时代电气  0 STOCK

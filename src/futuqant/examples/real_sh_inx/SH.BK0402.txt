@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000829 100 天音控股  0 STOCK
+1 SZ.002024 100 苏宁云商  0 STOCK
+2 SZ.002416 100 爱施德  0 STOCK
+3 SZ.300022 100 吉峰农机  0 STOCK
+4 SZ.300622 100 博士眼镜  0 STOCK
+5 SH.600122 100 宏图高科  0 STOCK
+6 SH.600655 100 豫园股份  0 STOCK
+7 SH.600704 100 物产中大  0 STOCK
+8 SH.600898 100 国美通讯  0 STOCK
+9 SH.603900 100 莱绅通灵  0 STOCK

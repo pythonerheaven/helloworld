@@ -1,0 +1,16 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00003 1000 香港中华煤气  0 STOCK
+1 HK.00384 200 中国燃气(二百)  0 STOCK
+2 HK.00392 500 北京控股  0 STOCK
+3 HK.00603 20000 中油燃气  0 STOCK
+4 HK.00681 2000 中民控股  0 STOCK
+5 HK.01083 1000 港华燃气  0 STOCK
+6 HK.01193 2000 华润燃气  0 STOCK
+7 HK.01265 10000 天津津燃公用  0 STOCK
+8 HK.01430 2000 苏创燃气  0 STOCK
+9 HK.01600 1500 天伦燃气  0 STOCK
+10 HK.01635 1000 大众公用  0 STOCK
+11 HK.02688 1000 新奥能源  0 STOCK
+12 HK.02886 2000 滨海投资  0 STOCK
+13 HK.03633 2000 中裕燃气  0 STOCK
+14 HK.08117 10000 中国基础能源  0 STOCK

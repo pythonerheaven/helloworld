@@ -1,0 +1,36 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ANFI 1 "Amira Nature Foods Ltd."  0 STOCK
+1 US.BRFS 1 "BRF SA"  0 STOCK
+2 US.BRID 1 "Bridgford Foods Corp."  0 STOCK
+3 US.BUFF 1 "BLUE BUFFALO PET PRODUCTS, INC."  0 STOCK
+4 US.CAG 1 康尼格拉  0 STOCK
+5 US.CENT 1 "Central Garden & Pet Co."  0 STOCK
+6 US.CENTA 1 "Central Garden & Pet Co."  0 STOCK
+7 US.CYAN 1 赛安诺科技  0 STOCK
+8 US.FLO 1 花苑食品  0 STOCK
+9 US.FRPT 1 "Freshpet Inc."  0 STOCK
+10 US.GIS 1 通用磨坊  0 STOCK
+11 US.HAIN 1 海恩时富  0 STOCK
+12 US.HRL 1 荷美尔  0 STOCK
+13 US.HSY 1 好时  0 STOCK
+14 US.IBA 1 "Industrias Bachoco SAB de CV"  0 STOCK
+15 US.JBSS 1 "John B. Sanfilippo & Son, Inc."  0 STOCK
+16 US.JJSF 1 JJSF食品  0 STOCK
+17 US.KHC 1 卡夫亨氏  0 STOCK
+18 US.LANC 1 兰卡斯特食品  0 STOCK
+19 US.LNCE 1 兰斯  0 STOCK
+20 US.LNDC 1 "Landec Corp."  0 STOCK
+21 US.LUK 1 露卡迪亚  0 STOCK
+22 US.LWAY 1 来福威食品  0 STOCK
+23 US.MDLZ 1 亿滋  0 STOCK
+24 US.MGPI 1 "MGP Ingredients, Inc."  0 STOCK
+25 US.MKC 1 味好美  0 STOCK
+26 US.PME 1 平潭海洋公司  0 STOCK
+27 US.PPC 1 "Pilgrim's Pride Corp."  0 STOCK
+28 US.RMCF 1 洛矶山巧克力工厂  0 STOCK
+29 US.SAFM 1 "Sanderson Farms, Inc."  0 STOCK
+30 US.SEE 1 希悦尔  0 STOCK
+31 US.SENEA 1 "Seneca Foods Corp."  0 STOCK
+32 US.SJM 1 斯马克  0 STOCK
+33 US.SPU 1 天人果汁  0 STOCK
+34 US.TSN 1 泰森食品  0 STOCK

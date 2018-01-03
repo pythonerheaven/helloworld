@@ -1,0 +1,18 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AMC 1 AMC院线  0 STOCK
+1 US.CKEC 1 "卡麦克影院 (已退市)"  0 STOCK
+2 US.CNK 1 喜满客影城  0 STOCK
+3 US.EROS 1 "Eros International Plc"  0 STOCK
+4 US.HMTV 1 "Hemisphere Media Group, Inc."  0 STOCK
+5 US.IMAX 1 "IMAX Corp."  0 STOCK
+6 US.LGF 1 "狮门娱乐 (已退市)"  0 STOCK
+7 US.LMCA 1 自由媒体  0 STOCK
+8 US.LMCK 1 "Liberty Media Corporation - Series C"  0 STOCK
+9 US.LYV 1 "Live Nation Entertainment, Inc."  0 STOCK
+10 US.MANU 1 曼联  0 STOCK
+11 US.RDI 1 "Reading International, Inc."  0 STOCK
+12 US.RDIB 1 "Reading International, Inc."  0 STOCK
+13 US.RGC 1 君豪娱乐  0 STOCK
+14 US.ROVI 1 "Rovi Corporation (已退市)"  0 STOCK
+15 US.TWX 1 时代华纳  0 STOCK
+16 US.WHLM 1 "Wilhelmina International, Inc."  0 STOCK

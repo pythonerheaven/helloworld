@@ -1,0 +1,5 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000007 100 全新好  0 STOCK
+1 SZ.000721 100 西安饮食  0 STOCK
+2 SZ.002186 100 全聚德  0 STOCK
+3 SZ.002306 100 *ST云网  0 STOCK

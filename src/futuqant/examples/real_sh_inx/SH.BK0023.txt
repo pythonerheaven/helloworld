@@ -1,0 +1,8 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000099 100 中信海直  0 STOCK
+1 SH.600029 100 南方航空  0 STOCK
+2 SH.600115 100 东方航空  0 STOCK
+3 SH.600221 100 海航控股  0 STOCK
+4 SH.601021 100 春秋航空  0 STOCK
+5 SH.601111 100 中国国航  0 STOCK
+6 SH.603885 100 吉祥航空  0 STOCK

@@ -1,0 +1,6 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.300003 100 乐普医疗  0 STOCK
+1 SZ.300238 100 冠昊生物  0 STOCK
+2 SH.600211 100 西藏药业  0 STOCK
+3 SH.600521 100 华海药业  0 STOCK
+4 SH.600624 100 复旦复华  0 STOCK

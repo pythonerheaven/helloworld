@@ -1,0 +1,12 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AER 1 "AerCap Holdings NV"  0 STOCK
+1 US.AIT 1 应用工业技术公司  0 STOCK
+2 US.AXE 1 阿尼克斯特  0 STOCK
+3 US.AYR 1 爱卡索  0 STOCK
+4 US.FLY 1 巴布科克和布朗航空  0 STOCK
+5 US.GWW 1 美国固安捷  0 STOCK
+6 US.HDS 1 "HD Supply Holdings, Inc."  0 STOCK
+7 US.KAMN 1 "Kaman Corp."  0 STOCK
+8 US.PFIN 1 "P&F Industries, Inc."  0 STOCK
+9 US.TITN 1 "Titan Machinery, Inc."  0 STOCK
+10 US.WLFC 1 "Willis Lease Finance Corp."  0 STOCK

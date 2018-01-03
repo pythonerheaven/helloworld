@@ -1,0 +1,17 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.CCE 1 可乐企业  0 STOCK
+1 US.COKE 1 可口可乐装瓶  0 STOCK
+2 US.COT 1 考特  0 STOCK
+3 US.CRVP 1 "Crystal Rock Holdings, Inc."  0 STOCK
+4 US.DF 1 迪恩食品  0 STOCK
+5 US.DPS 1 澎泉  0 STOCK
+6 US.FIZZ 1 "National Beverage Corp."  0 STOCK
+7 US.FMX 1 "Fomento Economico Mexicano S.A.B"  0 STOCK
+8 US.JVA 1 "Coffee Holding Co., Inc."  0 STOCK
+9 US.KO 1 可口可乐  0 STOCK
+10 US.KOF 1 可口可乐凡萨瓶装  0 STOCK
+11 US.LBIX 1 "Leading Brands, Inc."  0 STOCK
+12 US.MNST 1 怪物饮料  0 STOCK
+13 US.PEP 1 百事可乐  0 STOCK
+14 US.PRMW 1 "Primo Water Corp."  0 STOCK
+15 US.REED 1 "Reed's, Inc."  0 STOCK

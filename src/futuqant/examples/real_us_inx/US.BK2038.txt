@@ -1,0 +1,9 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.CIGI 1 "Colliers International Group, Inc."  0 STOCK
+1 US.JLL 1 "Jones Lang LaSalle, Inc."  0 STOCK
+2 US.LTC 1 LTC房产  0 STOCK
+3 US.RLGY 1 "Realogy Holdings Corp."  0 STOCK
+4 US.RMAX 1 "RE/MAX Holdings, Inc."  0 STOCK
+5 US.VER 1 "VEREIT, Inc."  0 STOCK
+6 US.Z 1 "Zillow Group, Inc."  0 STOCK
+7 US.ZG 1 "Zillow Group, Inc.- Class A"  0 STOCK

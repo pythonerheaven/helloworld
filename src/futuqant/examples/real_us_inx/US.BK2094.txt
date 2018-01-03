@@ -1,0 +1,23 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.BYD 1 博伊德赌场  0 STOCK
+1 US.CACQ 1 "Caesars Acquisition Company - Class A"  0 STOCK
+2 US.CHDN 1 "Churchill Downs, Inc."  0 STOCK
+3 US.CNTY 1 世纪赌场  0 STOCK
+4 US.CPHC 1 "坎特伯雷帕克控股 (新)"  0 STOCK
+5 US.CZR 1 凯撒娱乐  0 STOCK
+6 US.DDE 1 多佛唐斯娱乐  0 STOCK
+7 US.ERI 1 艾姆升  0 STOCK
+8 US.FLL 1 "Full House Resorts, Inc."  0 STOCK
+9 US.GDEN 1 "Golden Entertainment, Inc."  0 STOCK
+10 US.GPIC 1 "Gaming Partners International Corp."  0 STOCK
+11 US.IGT 1 国际游戏科技  0 STOCK
+12 US.IKGH 1 友权集团控股有限公司  0 STOCK
+13 US.LVS 1 金沙集团  0 STOCK
+14 US.MCRI 1 "Monarch Casino & Resort, Inc."  0 STOCK
+15 US.MGM 1 美高梅  0 STOCK
+16 US.MPEL 1 新濠博亚娱乐  0 STOCK
+17 US.NYNY 1 "Empire Resorts, Inc."  0 STOCK
+18 US.PENN 1 佩恩国民博彩  0 STOCK
+19 US.SGMS 1 美彩科技  0 STOCK
+20 US.UWN 1 "Nevada Gold & Casinos, Inc."  0 STOCK
+21 US.WYNN 1 永利度假村  0 STOCK

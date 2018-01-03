@@ -1,0 +1,15 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000738 100 航发控制  0 STOCK
+1 SZ.000768 100 中航飞机  0 STOCK
+2 SZ.002013 100 中航机电  0 STOCK
+3 SZ.002023 100 海特高新  0 STOCK
+4 SZ.002190 100 成飞集成  0 STOCK
+5 SZ.002297 100 博云新材  0 STOCK
+6 SZ.300424 100 航新科技  0 STOCK
+7 SZ.300527 100 华舟应急  0 STOCK
+8 SH.600038 100 中直股份  0 STOCK
+9 SH.600316 100 洪都航空  0 STOCK
+10 SH.600372 100 中航电子  0 STOCK
+11 SH.600391 100 航发科技  0 STOCK
+12 SH.600862 100 中航高科  0 STOCK
+13 SH.600893 100 航发动力  0 STOCK

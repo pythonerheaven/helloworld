@@ -1,0 +1,4 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00178 2000 莎莎国际  0 STOCK
+1 HK.00653 2000 卓悦控股  0 STOCK
+2 HK.00973 250 欧舒丹  0 STOCK

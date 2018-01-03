@@ -1,0 +1,6 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SH.600184 100 光电股份  0 STOCK
+1 SH.600435 100 北方导航  0 STOCK
+2 SH.600562 100 国睿科技  0 STOCK
+3 SH.600760 100 中航黑豹  0 STOCK
+4 SH.600990 100 四创电子  0 STOCK

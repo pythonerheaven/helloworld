@@ -1,0 +1,47 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.A 1 安捷伦科技  0 STOCK
+1 US.AEIS 1 先进能源工业公司  0 STOCK
+2 US.AMSC 1 美国超导  0 STOCK
+3 US.ASYS 1 "Amtech Systems"  0 STOCK
+4 US.BNSO 1 恒异电子国际公司  0 STOCK
+5 US.BTN 1 "Ballantyne Strong, Inc."  0 STOCK
+6 US.CAE 1 "CAE, Inc."  0 STOCK
+7 US.CETX 1 "Cemtrex, Inc."  0 STOCK
+8 US.CGNX 1 康耐视科技  0 STOCK
+9 US.COHR 1 "Coherent, Inc."  0 STOCK
+10 US.DAKT 1 "Daktronics, Inc."  0 STOCK
+11 US.DGLY 1 "Digital Ally, Inc."  0 STOCK
+12 US.DYSL 1 "Dynasil Corp. of America"  0 STOCK
+13 US.ELON 1 埃斯朗  0 STOCK
+14 US.ELSE 1 伊莱克森  0 STOCK
+15 US.ELTK 1 "Eltek Ltd."  0 STOCK
+16 US.EMKR 1 埃姆科  0 STOCK
+17 US.GIGA 1 千兆微波  0 STOCK
+18 US.GLW 1 康宁  0 STOCK
+19 US.GRMN 1 佳明  0 STOCK
+20 US.IIVI 1 "II￢I Incorporated"  0 STOCK
+21 US.IMMR 1 "Immersion Corp."  0 STOCK
+22 US.ITRI 1 伊管  0 STOCK
+23 US.ITRN 1 "Ituran Location & Control Ltd."  0 STOCK
+24 US.KBAL 1 "Kimball International, Inc."  0 STOCK
+25 US.MEI 1 "Methode Electronics, Inc."  0 STOCK
+26 US.MICT 1 "Micronet Enertec Technologies, Inc."  0 STOCK
+27 US.NSYS 1 "Nortech Systems, Inc."  0 STOCK
+28 US.OESX 1 "Orion Energy Systems, Inc."  0 STOCK
+29 US.PHG 1 飞利浦  0 STOCK
+30 US.PLUG 1 普拉格能源  0 STOCK
+31 US.SMIT 1 "Schmitt Industries, Inc."  0 STOCK
+32 US.SPCB 1 "SuperCom Ltd."  0 STOCK
+33 US.ST 1 "Sensata Technologies Holding"  0 STOCK
+34 US.SVT 1 "Servotronics, Inc."  0 STOCK
+35 US.SYNA 1 "Synaptics, Inc."  0 STOCK
+36 US.TASR 1 "TASER International"  0 STOCK
+37 US.TDY 1 "Teledyne Technologies, Inc."  0 STOCK
+38 US.TRMB 1 天宝导航公司  0 STOCK
+39 US.TYC 1 泰科国际  0 STOCK
+40 US.UEIC 1 "Universal Electronics Inc"  0 STOCK
+41 US.UUU 1 "Universal Security Instruments, Inc."  0 STOCK
+42 US.VII 1 "Vicon Industries, Inc."  0 STOCK
+43 US.WGA 1 "Wells-Gardner Electronics Corp (已退市)"  0 STOCK
+44 US.WTT 1 "Wireless Telecom Group, Inc."  0 STOCK
+45 US.XCRA 1 "Xcerra Corp."  0 STOCK

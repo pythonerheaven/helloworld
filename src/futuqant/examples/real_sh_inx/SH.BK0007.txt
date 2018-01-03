@@ -1,0 +1,10 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000012 100 南玻A  0 STOCK
+1 SZ.002623 100 亚玛顿  0 STOCK
+2 SZ.300093 100 金刚玻璃  0 STOCK
+3 SH.600293 100 三峡新材  0 STOCK
+4 SH.600552 100 凯盛科技  0 STOCK
+5 SH.600586 100 金晶科技  0 STOCK
+6 SH.600819 100 耀皮玻璃  0 STOCK
+7 SH.600876 100 洛阳玻璃  0 STOCK
+8 SH.601636 100 旗滨集团  0 STOCK

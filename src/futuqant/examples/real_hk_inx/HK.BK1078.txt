@@ -1,0 +1,9 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00098 1000 兴发铝业  0 STOCK
+1 HK.00486 1000 俄铝  0 STOCK
+2 HK.01021 1000 麦达斯控股-S  0 STOCK
+3 HK.01220 30000 志道国际  0 STOCK
+4 HK.01333 400 中国忠旺  0 STOCK
+5 HK.01378 500 中国宏桥  0 STOCK
+6 HK.02078 1000 荣阳实业  0 STOCK
+7 HK.02600 2000 中国铝业  0 STOCK

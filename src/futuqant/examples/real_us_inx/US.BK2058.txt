@@ -1,0 +1,98 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AAV 1 "Advantage Oil & Gas Ltd."  0 STOCK
+1 US.APA 1 阿帕契  0 STOCK
+2 US.AR 1 "Antero Resources Corp"  0 STOCK
+3 US.AREX 1 Approach资源  0 STOCK
+4 US.ATLS 1 阿特拉斯能源  0 STOCK
+5 US.AXAS 1 阿布拉克萨斯石油公司  0 STOCK
+6 US.BBG 1 比尔巴雷特公司  0 STOCK
+7 US.BCEI 1 富矿溪能源  0 STOCK
+8 US.BRN 1 "Barnwell Industries, Inc."  0 STOCK
+9 US.BTE 1 Baytex能源信托  0 STOCK
+10 US.BXE 1 "Bellatrix Exploration Ltd."  0 STOCK
+11 US.CEO 1 中海油  0 STOCK
+12 US.CHK 1 切萨皮克能源  0 STOCK
+13 US.CHKR 1 "Chesapeake Granite Wash Trust"  0 STOCK
+14 US.CIE 1 科博尔特能源  0 STOCK
+15 US.CLR 1 大陆能源  0 STOCK
+16 US.CNQ 1 加国自然资源  0 STOCK
+17 US.CPE 1 卡隆石油  0 STOCK
+18 US.CPG 1 "Crescent Point Energy Corp."  0 STOCK
+19 US.CRK 1 康斯托克能源  0 STOCK
+20 US.CRZO 1 卡里索油气  0 STOCK
+21 US.CWEI 1 克莱顿威廉斯能源  0 STOCK
+22 US.CXO 1 康休  0 STOCK
+23 US.DAKP 1 "Dakota Plains Holdings, Inc. (已退市)"  0 STOCK
+24 US.DMLP 1 多尔切斯特  0 STOCK
+25 US.DNR 1 邓伯瑞资源  0 STOCK
+26 US.DVN 1 戴文能源  0 STOCK
+27 US.E 1 埃尼石油  0 STOCK
+28 US.ECA 1 加拿大能源  0 STOCK
+29 US.ECR 1 "Eclipse Resources Corp."  0 STOCK
+30 US.EGY 1 瓦可能源  0 STOCK
+31 US.ENRJ 1 "EnerJex Resources, Inc."  0 STOCK
+32 US.ENSV 1 "Enservco Corp."  0 STOCK
+33 US.EOG 1 依欧格资源  0 STOCK
+34 US.EPE 1 "EP Energy Corporation"  0 STOCK
+35 US.EPM 1 "Evolution Petroleum Corp."  0 STOCK
+36 US.ERF 1 艾诺加能源基金  0 STOCK
+37 US.ESTE 1 "Earthstone Energy, Inc."  0 STOCK
+38 US.EVEP 1 EV能源合作伙伴  0 STOCK
+39 US.FANG 1 "Diamondback Energy, Inc."  0 STOCK
+40 US.GBR 1 "New Concept Energy, Inc."  0 STOCK
+41 US.GLF 1 格尔马克  0 STOCK
+42 US.GPOR 1 格尔夫波特能源  0 STOCK
+43 US.GPRK 1 "GeoPark Ltd."  0 STOCK
+44 US.GST 1 "Gastar Exploration, Inc."  0 STOCK
+45 US.GTE 1 "Gran Tierra Energy, Inc."  0 STOCK
+46 US.HES 1 赫斯  0 STOCK
+47 US.HOS 1 霍恩贝克离岸服务  0 STOCK
+48 US.HUSA 1 休斯敦能源  0 STOCK
+49 US.JONE 1 "Jones Energy, Inc."  0 STOCK
+50 US.KOS 1 "Kosmos Energy Ltd."  0 STOCK
+51 US.LEI 1 "Lucas Energy (已退市)"  0 STOCK
+52 US.LPI 1 "Laredo Petroleum, Inc."  0 STOCK
+53 US.MCEP 1 "Mid-Con Energy Partners LP"  0 STOCK
+54 US.MCF 1 "Contango Oil & Gas Co."  0 STOCK
+55 US.MEMP 1 "Memorial Production Partners LP"  0 STOCK
+56 US.MRC 1 "MRC Global, Inc."  0 STOCK
+57 US.MRO 1 马拉松石油  0 STOCK
+58 US.MTDR 1 "Matador Resources Co."  0 STOCK
+59 US.MUR 1 墨菲石油  0 STOCK
+60 US.MXC 1 "Mexco Energy Corp."  0 STOCK
+61 US.NBL 1 诺贝尔能源  0 STOCK
+62 US.NFX 1 新田  0 STOCK
+63 US.NOG 1 "Northern Oil & Gas, Inc."  0 STOCK
+64 US.OAS 1 "Oasis Petroleum, Inc."  0 STOCK
+65 US.PDCE 1 "PDC Energy, Inc."  0 STOCK
+66 US.PGH 1 "Pengrowth Energy Corp."  0 STOCK
+67 US.PHX 1 潘汉德尔油气  0 STOCK
+68 US.PWE 1 畔西能源信托  0 STOCK
+69 US.PXD 1 先锋自然资源  0 STOCK
+70 US.QEP 1 QEP资源  0 STOCK
+71 US.REI 1 "Ring Energy, Inc."  0 STOCK
+72 US.REN 1 "Resolute Energy Corp."  0 STOCK
+73 US.REXX 1 "Rex Energy Corp."  0 STOCK
+74 US.RICE 1 "RICE ENERGY INC COM"  0 STOCK
+75 US.RRC 1 山脉资源集团  0 STOCK
+76 US.RSPP 1 "RSP Permian, Inc."  0 STOCK
+77 US.SLB 1 斯伦贝谢  0 STOCK
+78 US.SM 1 "SM Energy Co."  0 STOCK
+79 US.SN 1 "Sanchez Energy Corp."  0 STOCK
+80 US.SPP 1 "Sappi Ltd ADS"  0 STOCK
+81 US.STO 1 挪威石油  0 STOCK
+82 US.SWN 1 美国西南能源  0 STOCK
+83 US.SYRG 1 "Synergy Resources Corp"  0 STOCK
+84 US.TAT 1 "TransAtlantic Petroleum Ltd."  0 STOCK
+85 US.TGA 1 "TransGlobe Energy Corp."  0 STOCK
+86 US.USEG 1 美国能源  0 STOCK
+87 US.VET 1 "Vermilion Energy Inc. Common (Ca"  0 STOCK
+88 US.VNOM 1 "Viper Energy"  0 STOCK
+89 US.VNR 1 "Vanguard Natural Resources LLC"  0 STOCK
+90 US.WLL 1 "Whiting Petroleum Corp"  0 STOCK
+91 US.WPX 1 WPX能源  0 STOCK
+92 US.WTI 1 "W&T Offshore, Inc."  0 STOCK
+93 US.XCO 1 "EXCO Resources, Inc."  0 STOCK
+94 US.XEC 1 "Cimarex Energy Co."  0 STOCK
+95 US.YUMA 1 "Yuma Energy, Inc."  0 STOCK
+96 US.ZN 1 锡安石油和天然气  0 STOCK

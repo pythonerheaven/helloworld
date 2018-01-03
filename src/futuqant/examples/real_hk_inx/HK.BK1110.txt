@@ -1,0 +1,9 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00241 2000 阿里健康  0 STOCK
+1 HK.00376 2000 云锋金融  0 STOCK
+2 HK.00980 1000 联华超市  0 STOCK
+3 HK.01060 10000 阿里影业  0 STOCK
+4 HK.01169 1000 海尔电器  0 STOCK
+5 HK.01297 1000 中国擎天软件  0 STOCK
+6 HK.03818 1000 中国动向  0 STOCK
+7 HK.08279 4000 亚博科技控股  0 STOCK

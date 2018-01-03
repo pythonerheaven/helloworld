@@ -1,0 +1,35 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AE 1 亚当斯资源与能源公司  0 STOCK
+1 US.APC 1 阿纳达科石油  0 STOCK
+2 US.COG 1 卡伯特油气  0 STOCK
+3 US.COP 1 康菲石油  0 STOCK
+4 US.CVEO 1 "Civeo Corp."  0 STOCK
+5 US.CVX 1 雪佛龙  0 STOCK
+6 US.EC 1 哥伦比亚国家石油  0 STOCK
+7 US.EGN 1 爱内珍  0 STOCK
+8 US.EQT 1 "EQT能源 公平能源"  0 STOCK
+9 US.ERN 1 "Erin Energy Corp."  0 STOCK
+10 US.IOC 1 InterOil  0 STOCK
+11 US.ISRL 1 "Isramco, Inc."  0 STOCK
+12 US.JPEP 1 "JP ENERGY PARTNERS LP"  0 STOCK
+13 US.LLEX 1 "LILIS ENERGY, INC."  0 STOCK
+14 US.MMLP 1 "Martin Midstream Partners LP"  0 STOCK
+15 US.MPC 1 马拉松石油  0 STOCK
+16 US.MPET 1 "Magellan Petroleum Corporation"  0 STOCK
+17 US.OXY 1 西方石油  0 STOCK
+18 US.PBR 1 巴西石油公司  0 STOCK
+19 US.PE 1 "Parsley Energy, Inc."  0 STOCK
+20 US.PQ 1 "PetroQuest Energy, Inc."  0 STOCK
+21 US.PTR 1 中石油  0 STOCK
+22 US.PZE 1 巴西石油-阿根廷  0 STOCK
+23 US.SBR 1 "Sabine Royalty Trust UBI"  0 STOCK
+24 US.SGY 1 斯通能源  0 STOCK
+25 US.SHI 1 上石化  0 STOCK
+26 US.SNP 1 中石化  0 STOCK
+27 US.SU 1 森科能源  0 STOCK
+28 US.SWX 1 "Southwest Gas Holdings, Inc."  0 STOCK
+29 US.TGC 1 "Tengasco, Inc."  0 STOCK
+30 US.TGS 1 "Transportadora de Gas del Sur SA"  0 STOCK
+31 US.TOT 1 道达尔  0 STOCK
+32 US.WGP 1 "Western Gas Equity Partners LP"  0 STOCK
+33 US.XOM 1 埃克森美孚  0 STOCK

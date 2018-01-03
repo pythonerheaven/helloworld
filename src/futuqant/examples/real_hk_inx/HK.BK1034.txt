@@ -1,0 +1,15 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00071 1000 美丽华酒店  0 STOCK
+1 HK.00164 25000 中国宝力科技  0 STOCK
+2 HK.00234 8000 新世纪集团  0 STOCK
+3 HK.00265 10000 东胜旅游  0 STOCK
+4 HK.00308 2000 香港中旅  0 STOCK
+5 HK.00487 4000 实德环球  0 STOCK
+6 HK.00678 1000 云顶香港  0 STOCK
+7 HK.00699 1000 神州租车  0 STOCK
+8 HK.01159 500 星光文化  0 STOCK
+9 HK.01235 5000 专业旅运  0 STOCK
+10 HK.06882 2000 东瀛游  0 STOCK
+11 HK.08022 3000 永耀集团控股  0 STOCK
+12 HK.08063 50000 环球大通集团  0 STOCK
+13 HK.08069 5000 纵横游控股  0 STOCK

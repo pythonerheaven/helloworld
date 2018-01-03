@@ -1,0 +1,13 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000557 100 西部创业  0 STOCK
+1 SZ.000595 100 *ST宝实  0 STOCK
+2 SZ.000635 100 英力特  0 STOCK
+3 SZ.000815 100 美利云  0 STOCK
+4 SZ.000862 100 银星能源  0 STOCK
+5 SZ.000962 100 东方钽业  0 STOCK
+6 SZ.000982 100 *ST中绒  0 STOCK
+7 SZ.002457 100 青龙管业  0 STOCK
+8 SH.600146 100 商赢环球  0 STOCK
+9 SH.600165 100 新日恒力  0 STOCK
+10 SH.600449 100 宁夏建材  0 STOCK
+11 SH.600785 100 新华百货  0 STOCK

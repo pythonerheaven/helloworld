@@ -1,0 +1,95 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AGCO 1 爱科集团  0 STOCK
+1 US.AIMC 1 奥创控股公司  0 STOCK
+2 US.ALG 1 阿拉莫集团股份有限公司  0 STOCK
+3 US.AME 1 阿美特克  0 STOCK
+4 US.AMRC 1 阿梅雷斯克公司  0 STOCK
+5 US.AP 1 安博科-匹兹堡  0 STOCK
+6 US.ARCW 1 阿尔克科技  0 STOCK
+7 US.ARII 1 美国轨道车工业有限公司  0 STOCK
+8 US.ARTW 1 自流资源  0 STOCK
+9 US.ASML 1 阿斯麦  0 STOCK
+10 US.ATU 1 实用动力  0 STOCK
+11 US.B 1 巴恩斯  0 STOCK
+12 US.BC 1 宾士域  0 STOCK
+13 US.CAT 1 卡特彼勒  0 STOCK
+14 US.CIX 1 CompX国际  0 STOCK
+15 US.CLNT 1 中国风能技术  0 STOCK
+16 US.CMCO 1 哥伦布-麦金农  0 STOCK
+17 US.CNHI 1 "CNH Industrial NV"  0 STOCK
+18 US.CR 1 "Crane Co."  0 STOCK
+19 US.CSTM 1 "Constellium NV"  0 STOCK
+20 US.CVR 1 "Chicago Rivet & Machine Co"  0 STOCK
+21 US.DCI 1 唐纳森  0 STOCK
+22 US.DE 1 迪尔股份有限公司  0 STOCK
+23 US.DHR 1 丹纳赫  0 STOCK
+24 US.DOV 1 美国都福集团  0 STOCK
+25 US.DSWL 1 香港德卫集团  0 STOCK
+26 US.EML 1 "The Eastern Co."  0 STOCK
+27 US.ENTG 1 英特格  0 STOCK
+28 US.EVI 1 "EnviroStar, Inc."  0 STOCK
+29 US.FELE 1 富兰克林电子  0 STOCK
+30 US.FLOW 1 弗洛国际  0 STOCK
+31 US.FLS 1 福斯  0 STOCK
+32 US.GBX 1 格林布赖尔  0 STOCK
+33 US.GENC 1 范科工业  0 STOCK
+34 US.GEOS 1 "Geospace Technologies Corp."  0 STOCK
+35 US.GGG 1 固瑞克  0 STOCK
+36 US.GRC 1 "The Gorman-Rupp Co."  0 STOCK
+37 US.GTLS 1 查特工业  0 STOCK
+38 US.HDNG 1 哈丁兄弟  0 STOCK
+39 US.HOLI 1 和利时自动化  0 STOCK
+40 US.HURC 1 赫克  0 STOCK
+41 US.HY 1 "Hyster-Yale Materials Handling, Inc."  0 STOCK
+42 US.IR 1 英格索兰  0 STOCK
+43 US.ITT 1 "ITT Corporation Common Stock New"  0 STOCK
+44 US.ITW 1 伊利诺伊机械  0 STOCK
+45 US.KMT 1 肯纳金属  0 STOCK
+46 US.KTEC 1 "Key Technology, Inc."  0 STOCK
+47 US.LECO 1 林肯电气控股  0 STOCK
+48 US.LNN 1 "Lindsay Corp."  0 STOCK
+49 US.MBUU 1 "Malibu Boats, Inc."  0 STOCK
+50 US.MCFT 1 "MCBC HOLDINGS, INC."  0 STOCK
+51 US.MCRN 1 "Milacron Holdings Corp."  0 STOCK
+52 US.MFRI 1 "MFRI, Inc."  0 STOCK
+53 US.MLI 1 木勒工业  0 STOCK
+54 US.MLR 1 "Miller Industries, Inc. (Tennessee)"  0 STOCK
+55 US.MNTX 1 "Manitex International, Inc."  0 STOCK
+56 US.MPX 1 海洋产品  0 STOCK
+57 US.MSM 1 "MSC Industrial Direct Co., Inc."  0 STOCK
+58 US.MTRX 1 "Matrix Service Co."  0 STOCK
+59 US.MTW 1 马尼托沃克  0 STOCK
+60 US.MWA 1 "Mueller Water Products"  0 STOCK
+61 US.NDSN 1 "Nordson Corp."  0 STOCK
+62 US.NNBR 1 "NN, Inc."  0 STOCK
+63 US.NPO 1 "EnPro Industries, Inc."  0 STOCK
+64 US.PCAR 1 帕卡  0 STOCK
+65 US.PFIE 1 "Profire Energy, Inc."  0 STOCK
+66 US.PH 1 派克汉尼汾  0 STOCK
+67 US.PKOH 1 "Park-Ohio Holdings Corp."  0 STOCK
+68 US.PLOW 1 "Douglas Dynamics, Inc."  0 STOCK
+69 US.PNR 1 滨特尔  0 STOCK
+70 US.PRLB 1 "Proto Labs, Inc."  0 STOCK
+71 US.RAIL 1 "FreightCar America, Inc."  0 STOCK
+72 US.RBC 1 雷勃电气  0 STOCK
+73 US.ROLL 1 RBC轴承  0 STOCK
+74 US.RXN 1 "Rexnord Corp."  0 STOCK
+75 US.RYI 1 "Ryerson Holding Corp."  0 STOCK
+76 US.SCX 1 施泰力  0 STOCK
+77 US.SHLO 1 "Shiloh Industries, Inc."  0 STOCK
+78 US.SNA 1 实耐宝  0 STOCK
+79 US.SNHY 1 "Sun Hydraulics Corp."  0 STOCK
+80 US.SPAR 1 "Spartan Motors"  0 STOCK
+81 US.SPXC 1 "SPX Corp."  0 STOCK
+82 US.SWK 1 美国史丹利公司  0 STOCK
+83 US.SXI 1 "Standex International Corp."  0 STOCK
+84 US.TAYD 1 "Taylor Devices, Inc."  0 STOCK
+85 US.TEX 1 特雷克斯  0 STOCK
+86 US.TISI 1 "Team, Inc."  0 STOCK
+87 US.TKR 1 铁姆肯  0 STOCK
+88 US.TRNS 1 "Transcat, Inc."  0 STOCK
+89 US.TTC 1 托罗配件  0 STOCK
+90 US.WNC 1 "Wabash National Corp."  0 STOCK
+91 US.WSCI 1 "WSI Industries, Inc."  0 STOCK
+92 US.XRM 1 "Xerium Technologies, Inc."  0 STOCK
+93 US.XYL 1 赛莱默  0 STOCK

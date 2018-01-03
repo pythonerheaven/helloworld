@@ -1,0 +1,4 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AIN 1 奥尔巴尼国际  0 STOCK
+1 US.CRWS 1 "Crown Crafts制衣"  0 STOCK
+2 US.UFI 1 仪化宇辉  0 STOCK

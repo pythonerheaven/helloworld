@@ -1,0 +1,10 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.002357 100 富临运业  0 STOCK
+1 SZ.002627 100 宜昌交运  0 STOCK
+2 SH.600561 100 江西长运  0 STOCK
+3 SH.600611 100 大众交通  0 STOCK
+4 SH.600650 100 锦江投资  0 STOCK
+5 SH.600662 100 强生控股  0 STOCK
+6 SH.600834 100 申通地铁  0 STOCK
+7 SH.603032 100 德新交运  0 STOCK
+8 SH.603069 100 海汽集团  0 STOCK

@@ -1,0 +1,38 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ADP 1 自动数据处理公司  0 STOCK
+1 US.ADS 1 联合数据  0 STOCK
+2 US.BKFS 1 "BLACK KNIGHT FINANCIAL SERVICES, INC."  0 STOCK
+3 US.BOSC 1 BOS科技  0 STOCK
+4 US.CSGS 1 CSG系统国际  0 STOCK
+5 US.CSLT 1 "Castlight Health, Inc."  0 STOCK
+6 US.CTSH 1 高知特  0 STOCK
+7 US.DOX 1 "Amdocs Ltd."  0 STOCK
+8 US.EBIX 1 亚太交换中心  0 STOCK
+9 US.EFX 1 艾可菲  0 STOCK
+10 US.EGOV 1 "NIC, Inc."  0 STOCK
+11 US.EMR 1 艾默生电气  0 STOCK
+12 US.EVTC 1 "EVERTEC, Inc."  0 STOCK
+13 US.EXLS 1 伊克赛尔服务控股  0 STOCK
+14 US.FDS 1 辉盛研究系统  0 STOCK
+15 US.INAP 1 Internap网络服务  0 STOCK
+16 US.INOD 1 "Innodata, Inc."  0 STOCK
+17 US.INXN 1 "InterXion Holding NV"  0 STOCK
+18 US.MITK 1 "Mitek Systems, Inc."  0 STOCK
+19 US.MMS 1 马克西姆斯服务  0 STOCK
+20 US.NTAP 1 美国网存  0 STOCK
+21 US.PCOM 1 "Points International Ltd."  0 STOCK
+22 US.PCTY 1 "Paylocity Holding Corp."  0 STOCK
+23 US.PFPT 1 "Proofpoint, Inc."  0 STOCK
+24 US.PFSW 1 "PFSweb, Inc."  0 STOCK
+25 US.PYPL 1 PayPal  0 STOCK
+26 US.SNX 1 新聚思  0 STOCK
+27 US.SPRT 1 "Support.com, Inc."  0 STOCK
+28 US.SREV 1 "ServiceSource International, Inc."  0 STOCK
+29 US.SRT 1 "Startek, Inc."  0 STOCK
+30 US.SYKE 1 赛科斯企业  0 STOCK
+31 US.SYNT 1 Syntel  0 STOCK
+32 US.TSRI 1 TSR软件  0 STOCK
+33 US.TTEC 1 "TeleTech Holdings, Inc."  0 STOCK
+34 US.V 1 维萨卡公司  0 STOCK
+35 US.VRSK 1 "Verisk Analytics, Inc."  0 STOCK
+36 US.WIT 1 "Wipro Ltd."  0 STOCK

@@ -1,0 +1,94 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AAP 1 "Advance Auto Parts, Inc."  0 STOCK
+1 US.ABG 1 阿斯伯里汽车集团  0 STOCK
+2 US.AEO 1 美鹰服饰  0 STOCK
+3 US.AN 1 车之国公司  0 STOCK
+4 US.ANF 1 爱芬奇  0 STOCK
+5 US.ASNA 1 Ascena零售集团有限公司  0 STOCK
+6 US.AVT 1 安富利电子  0 STOCK
+7 US.AZO 1 汽车地带  0 STOCK
+8 US.BBBY 1 3B家居  0 STOCK
+9 US.BBW 1 "Build-A-Bear Workshop, Inc."  0 STOCK
+10 US.BBY 1 百思买  0 STOCK
+11 US.BGFV 1 "Big 5体育用品"  0 STOCK
+12 US.BGI 1 "Birks Group, Inc."  0 STOCK
+13 US.BKE 1 巴克尔  0 STOCK
+14 US.BKS 1 巴诺书店  0 STOCK
+15 US.BNED 1 "Barnes & Noble Education, Inc."  0 STOCK
+16 US.BSET 1 巴西特家具  0 STOCK
+17 US.BURL 1 "Burlington Stores, Inc."  0 STOCK
+18 US.CALI 1 中国汽车物流  0 STOCK
+19 US.CATO 1 加图商场  0 STOCK
+20 US.CBK 1 克里斯托弗·班克斯  0 STOCK
+21 US.CONN 1 科恩  0 STOCK
+22 US.CRMT 1 美国汽车行  0 STOCK
+23 US.CTRN 1 "Citi Trends, Inc."  0 STOCK
+24 US.DEST 1 "Destination Maternity Corp."  0 STOCK
+25 US.DGSE 1 "DGSE Cos., Inc."  0 STOCK
+26 US.DKS 1 迪克体育用品  0 STOCK
+27 US.DSW 1 DSW鞋类专卖  0 STOCK
+28 US.DXLG 1 "Destination XL Group, Inc."  0 STOCK
+29 US.ETH 1 伊森艾伦室内装饰  0 STOCK
+30 US.EXPR 1 "Express, Inc."  0 STOCK
+31 US.FINL 1 "The Finish Line, Inc."  0 STOCK
+32 US.FL 1 富乐客  0 STOCK
+33 US.FLXS 1 弗莱克斯蒂尔工业  0 STOCK
+34 US.FRAN 1 "Francesca's Holdings Corp."  0 STOCK
+35 US.FTD 1 "FTD Cos., Inc."  0 STOCK
+36 US.GCO 1 格涅斯科  0 STOCK
+37 US.GES 1 "Guess Inc"  0 STOCK
+38 US.GIII 1 "G-III Apparel Group Ltd."  0 STOCK
+39 US.GME 1 游戏驿站  0 STOCK
+40 US.GPI 1 汽车一组  0 STOCK
+41 US.GPS 1 盖璞  0 STOCK
+42 US.HD 1 家得宝  0 STOCK
+43 US.HGG 1 hhgregg电子零售  0 STOCK
+44 US.HIBB 1 希贝特体育  0 STOCK
+45 US.HVT 1 哈弗蒂家具  0 STOCK
+46 US.HZO 1 海上麦斯服务  0 STOCK
+47 US.JWN 1 诺德斯特龙  0 STOCK
+48 US.KIRK 1 Kirklands家具  0 STOCK
+49 US.KMX 1 车美仕  0 STOCK
+50 US.LAD 1 利西亚车行  0 STOCK
+51 US.LB 1 "L Brands Inc"  0 STOCK
+52 US.LKQ 1 "LKQ Corp."  0 STOCK
+53 US.LOW 1 劳氏  0 STOCK
+54 US.LULU 1 "lululemon athletica, inc."  0 STOCK
+55 US.LZB 1 La-Z-Boy家具  0 STOCK
+56 US.MIK 1 "Michaels Companies"  0 STOCK
+57 US.MNRO 1 "Monro, Inc."  0 STOCK
+58 US.MSN 1 "Emerson Radio Corp."  0 STOCK
+59 US.NVFY 1 诺华家具有限公司  0 STOCK
+60 US.NWL 1 纽威  0 STOCK
+61 US.NWY 1 "New York & Co., Inc."  0 STOCK
+62 US.ODP 1 欧迪办公  0 STOCK
+63 US.ORLY 1 奥莱利  0 STOCK
+64 US.PAG 1 潘世奇汽车  0 STOCK
+65 US.PERY 1 佩里埃利斯国际  0 STOCK
+66 US.PIR 1 "Pier 1 Imports, Inc."  0 STOCK
+67 US.PLCE 1 "The Children's Place, Inc."  0 STOCK
+68 US.PRTS 1 "U.S. Auto Parts Network, Inc."  0 STOCK
+69 US.PRTY 1 "Party City Holdco, Inc."  0 STOCK
+70 US.PVH 1 "PVH Corp."  0 STOCK
+71 US.RH 1 RH  0 STOCK
+72 US.ROST 1 罗斯百货  0 STOCK
+73 US.RUSHA 1 "Rush Enterprises, Inc."  0 STOCK
+74 US.RUSHB 1 "Rush Enterprises"  0 STOCK
+75 US.SAH 1 索尼克汽车  0 STOCK
+76 US.SBH 1 莎莉美容控股公司  0 STOCK
+77 US.SCVL 1 "Shoe Carnival, Inc."  0 STOCK
+78 US.SIG 1 西格内特珠宝  0 STOCK
+79 US.SMRT 1 "Stein Mart, Inc."  0 STOCK
+80 US.SQBG 1 "Sequential Brands Group, Inc."  0 STOCK
+81 US.SSI 1 "Stage Stores, Inc."  0 STOCK
+82 US.TA 1 "TravelCenters of America LLC"  0 STOCK
+83 US.TECD 1 美国技术数据公司  0 STOCK
+84 US.TJX 1 TJX公司  0 STOCK
+85 US.TUES 1 "Tuesday Morning Corp."  0 STOCK
+86 US.TWMC 1 "Trans World Entertainment Corp."  0 STOCK
+87 US.ULTA 1 Ulta美容产品公司  0 STOCK
+88 US.URBN 1 都市服饰  0 STOCK
+89 US.VNCE 1 "Vince Holding Corp."  0 STOCK
+90 US.WINA 1 威玛克工贸有限公司  0 STOCK
+91 US.WSM 1 "Williams-Sonoma, Inc."  0 STOCK
+92 US.ZUMZ 1 "Zumiez, Inc."  0 STOCK

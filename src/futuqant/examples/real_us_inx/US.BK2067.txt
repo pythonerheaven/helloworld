@@ -1,0 +1,19 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AAN 1 "Aaron's, Inc."  0 STOCK
+1 US.BID 1 苏富比  0 STOCK
+2 US.CSV 1 "Carriage Services, Inc."  0 STOCK
+3 US.GAIA 1 "Gaia Inc (New)"  0 STOCK
+4 US.HI 1 希伦布兰德  0 STOCK
+5 US.HRB 1 "H & R布洛克税务公司"  0 STOCK
+6 US.KAR 1 KAR车行  0 STOCK
+7 US.LQDT 1 "Liquidity Services, Inc."  0 STOCK
+8 US.MARA 1 "Marathon Patent Group, Inc."  0 STOCK
+9 US.MATW 1 马修国际加工  0 STOCK
+10 US.NTRI 1 "Nutrisystem, Inc."  0 STOCK
+11 US.RBA 1 里奇兄弟拍卖  0 STOCK
+12 US.RCII 1 "Rent-A-Center, Inc."  0 STOCK
+13 US.RGS 1 "Regis Corp."  0 STOCK
+14 US.SCI 1 "Service Corp. International"  0 STOCK
+15 US.SFLY 1 "Shutterfly, Inc."  0 STOCK
+16 US.STON 1 "StoneMor Partners L.P."  0 STOCK
+17 US.XOXO 1 XO集团  0 STOCK

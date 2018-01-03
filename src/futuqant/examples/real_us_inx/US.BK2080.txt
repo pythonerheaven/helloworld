@@ -1,0 +1,22 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.BIG 1 必乐透  0 STOCK
+1 US.BONT 1 邦顿百货  0 STOCK
+2 US.CASY 1 "Casey's General Stores, Inc."  0 STOCK
+3 US.CNCO 1 桑科萨  0 STOCK
+4 US.COST 1 好市多  0 STOCK
+5 US.DDS 1 狄乐百货  0 STOCK
+6 US.DG 1 美国达乐公司  0 STOCK
+7 US.DLTR 1 美元树公司  0 STOCK
+8 US.FIVE 1 "Five Below, Inc."  0 STOCK
+9 US.FRED 1 弗雷德  0 STOCK
+10 US.GMAN 1 Gordmans商店  0 STOCK
+11 US.JCP 1 彭尼百货  0 STOCK
+12 US.KSS 1 柯尔百货  0 STOCK
+13 US.M 1 梅西百货  0 STOCK
+14 US.OLLI 1 "OLLIE'S BARGAIN OUTLET HOLDINGS"  0 STOCK
+15 US.PERF 1 "Perfumania Holdings"  0 STOCK
+16 US.PSMT 1 普尔斯玛特  0 STOCK
+17 US.SHLD 1 西尔斯  0 STOCK
+18 US.SHOS 1 "Sears Hometown & Outlet Stores, Inc."  0 STOCK
+19 US.TGT 1 塔吉特  0 STOCK
+20 US.TLYS 1 "Tilly's, Inc."  0 STOCK

@@ -1,0 +1,14 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ABEV 1 安贝夫集团  0 STOCK
+1 US.BORN 1 博润  0 STOCK
+2 US.BREW 1 "Craft Brew Alliance, Inc."  0 STOCK
+3 US.BUD 1 百威英博  0 STOCK
+4 US.CCU 1 帕尼亚  0 STOCK
+5 US.DEO 1 帝亚吉欧  0 STOCK
+6 US.ROX 1 "Castle Brands, Inc."  0 STOCK
+7 US.SAM 1 波斯顿啤酒  0 STOCK
+8 US.STZ 1 星座品牌酒业  0 STOCK
+9 US.TAP 1 莫库酒业  0 STOCK
+10 US.THST 1 "Truett-Hurst, Inc."  0 STOCK
+11 US.VCO 1 智利干露酒庄  0 STOCK
+12 US.WVVI 1 "Willamette Valley Vineyards, Inc."  0 STOCK

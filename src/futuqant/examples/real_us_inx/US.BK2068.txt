@@ -1,0 +1,38 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ALB 1 美国雅宝公司  0 STOCK
+1 US.ASH 1 "Ashland Global Holdings Inc."  0 STOCK
+2 US.ASPN 1 "Aspen Aerogels, Inc."  0 STOCK
+3 US.CBT 1 卡博特  0 STOCK
+4 US.CE 1 塞拉尼斯  0 STOCK
+5 US.ECL 1 艺康集团  0 STOCK
+6 US.FOE 1 费罗  0 STOCK
+7 US.FSI 1 "Flexible Solutions International, Inc."  0 STOCK
+8 US.FUL 1 富乐  0 STOCK
+9 US.GPP 1 "GREEN PLAINS PARTNERS LP"  0 STOCK
+10 US.GPRE 1 绿色平原能源  0 STOCK
+11 US.GRA 1 格雷斯事务所  0 STOCK
+12 US.HDSN 1 哈德森科技  0 STOCK
+13 US.HWKN 1 霍金斯材料  0 STOCK
+14 US.IFF 1 国际香料香精  0 STOCK
+15 US.IKNX 1 "IKONICS Corp."  0 STOCK
+16 US.IOSP 1 英诺斯派材料  0 STOCK
+17 US.KMG 1 "KMG Chemicals, Inc."  0 STOCK
+18 US.KRO 1 康诺斯全球  0 STOCK
+19 US.LXFR 1 "Luxfer Holdings Plc"  0 STOCK
+20 US.NEU 1 "NewMarket Corp."  0 STOCK
+21 US.NTIC 1 "Northern Technologies International Cor"  0 STOCK
+22 US.OBCI 1 "Ocean Bio-Chem, Inc."  0 STOCK
+23 US.OEC 1 "Orion Engineered Carbons SA"  0 STOCK
+24 US.POL 1 普立万  0 STOCK
+25 US.PPG 1 PPG工业  0 STOCK
+26 US.RPM 1 "RPM International, Inc."  0 STOCK
+27 US.RYAM 1 "Rayonier Advanced Materials, Inc."  0 STOCK
+28 US.SCL 1 "Stepan Co."  0 STOCK
+29 US.SNMX 1 塞诺米克斯  0 STOCK
+30 US.SXT 1 "Sensient Technologies Corp."  0 STOCK
+31 US.SYMX 1 美国综合能源系统公司  0 STOCK
+32 US.TORM 1 "TOR Minerals International, Inc."  0 STOCK
+33 US.TROX 1 "Tronox Ltd."  0 STOCK
+34 US.TSE 1 "Trinseo SA"  0 STOCK
+35 US.UNVR 1 "Univar, Inc."  0 STOCK
+36 US.VHI 1 瓦利化工  0 STOCK

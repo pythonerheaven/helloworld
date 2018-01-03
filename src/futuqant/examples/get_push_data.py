@@ -110,27 +110,28 @@ class HeartBeatTest(HeartBeatHandlerBase):
         return ret_code, timestamp
 
 if __name__ == "__main__":
+    stock_code = 'US.QD'
     quote_context = OpenQuoteContext(host='10.242.103.18', port=11111)
 
     print(quote_context.get_global_state())
     quote_context.set_handler(HeartBeatTest())
 
     # 获取推送数据
-    quote_context.subscribe('HK.00700', "QUOTE", push=True)
+    quote_context.subscribe(stock_code, "QUOTE", push=True)
     quote_context.set_handler(StockQuoteTest())
 
-    quote_context.subscribe('HK.00700', "K_DAY", push=True)
+    quote_context.subscribe(stock_code, "K_DAY", push=True)
     quote_context.set_handler(CurKlineTest())
 
-    quote_context.subscribe('HK.00700', "ORDER_BOOK", push=True)
+    quote_context.subscribe(stock_code, "ORDER_BOOK", push=True)
     quote_context.set_handler(OrderBookTest())
 
-    quote_context.subscribe('HK.00700', "TICKER", push=True)
+    quote_context.subscribe(stock_code, "TICKER", push=True)
     quote_context.set_handler(TickerTest())
 
-    quote_context.subscribe('HK.00700', "RT_DATA", push=True)
+    quote_context.subscribe(stock_code, "RT_DATA", push=True)
     quote_context.set_handler(RTDataTest())
 
-    quote_context.subscribe('HK.00700', "BROKER", push=True)
+    quote_context.subscribe(stock_code, "BROKER", push=True)
     quote_context.set_handler(BrokerTest())
     quote_context.start()

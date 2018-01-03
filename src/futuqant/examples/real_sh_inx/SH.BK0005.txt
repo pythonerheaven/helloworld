@@ -1,0 +1,10 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.002608 100 江苏国信  0 STOCK
+1 SZ.300008 100 天海防务  0 STOCK
+2 SZ.300123 100 太阳鸟  0 STOCK
+3 SZ.300589 100 江龙船艇  0 STOCK
+4 SH.600072 100 中船科技  0 STOCK
+5 SH.600150 100 中国船舶  0 STOCK
+6 SH.600685 100 中船防务  0 STOCK
+7 SH.601890 100 亚星锚链  0 STOCK
+8 SH.601989 100 中国重工  0 STOCK

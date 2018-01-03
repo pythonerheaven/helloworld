@@ -1,0 +1,18 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.BZH 1 贝哲房屋  0 STOCK
+1 US.CAA 1 "CalAtlantic Group, Inc."  0 STOCK
+2 US.CVCO 1 卡寇工业  0 STOCK
+3 US.DHI 1 霍顿房屋  0 STOCK
+4 US.HOV 1 霍夫纳尼安  0 STOCK
+5 US.KBH 1 "KB Home"  0 STOCK
+6 US.LEN 1 莱纳建筑公司  0 STOCK
+7 US.MDC 1 "M.D.C. Holdings, Inc."  0 STOCK
+8 US.MHO 1 "MI 家居"  0 STOCK
+9 US.MTH 1 "Meritage Homes Corp."  0 STOCK
+10 US.NVR 1 "NVR, Inc."  0 STOCK
+11 US.PHM 1 普得集团  0 STOCK
+12 US.SKY 1 Skyline  0 STOCK
+13 US.TMHC 1 "Taylor Morrison Home Corp."  0 STOCK
+14 US.TOL 1 托尔兄弟  0 STOCK
+15 US.TPH 1 "TRI Pointe Group, Inc."  0 STOCK
+16 US.WLH 1 "William Lyon Homes, Inc."  0 STOCK

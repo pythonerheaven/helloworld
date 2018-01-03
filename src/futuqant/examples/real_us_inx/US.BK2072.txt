@@ -1,0 +1,46 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AUO 1 友达光电  0 STOCK
+1 US.AVX 1 "AVX Corp."  0 STOCK
+2 US.BELFA 1 "Bel Fuse, Inc."  0 STOCK
+3 US.BELFB 1 "Bel Fuse, Inc."  0 STOCK
+4 US.CBAK 1 比克电池  0 STOCK
+5 US.CPSH 1 "CPS Technologies Corp."  0 STOCK
+6 US.CSIQ 1 阿特斯太阳能  0 STOCK
+7 US.CTS 1 "CTS Corp."  0 STOCK
+8 US.CUI 1 "CUI Global, Inc."  0 STOCK
+9 US.CVV 1 CVD设备  0 STOCK
+10 US.ENS 1 艾诺斯  0 STOCK
+11 US.ESP 1 "Espey Manufacturing & Electronics Corp."  0 STOCK
+12 US.FSLR 1 第一太阳能  0 STOCK
+13 US.HPJ 1 豪鹏国际  0 STOCK
+14 US.IEC 1 "IEC Electronics Corp."  0 STOCK
+15 US.IFON 1 "InfoSonics Corp."  0 STOCK
+16 US.JASO 1 晶澳太阳能  0 STOCK
+17 US.JKS 1 晶科能源  0 STOCK
+18 US.KE 1 "Kimball Electronics, Inc."  0 STOCK
+19 US.KEM 1 "KEMET Corp."  0 STOCK
+20 US.KN 1 "Knowles Corp."  0 STOCK
+21 US.LEDS 1 旭明光电股份有限公司  0 STOCK
+22 US.LGL 1 "LGL Group, Inc."  0 STOCK
+23 US.MTSC 1 "MTS Systems Corp."  0 STOCK
+24 US.MVIS 1 维视图像  0 STOCK
+25 US.MXWL 1 "Maxwell Technologies, Inc."  0 STOCK
+26 US.NTP 1 "Nam Tai Property, Inc."  0 STOCK
+27 US.OCLR 1 "Oclaro, Inc."  0 STOCK
+28 US.OSIS 1 "OSI Systems, Inc."  0 STOCK
+29 US.QCOM 1 高通  0 STOCK
+30 US.REFR 1 "Research Frontiers, Inc."  0 STOCK
+31 US.RELL 1 理查森电子  0 STOCK
+32 US.RGSE 1 "Real Goods Solar, Inc."  0 STOCK
+33 US.SCTY 1 "太阳城公司 (已退市)"  0 STOCK
+34 US.SOL 1 昱辉阳光  0 STOCK
+35 US.SPA 1 斯巴顿  0 STOCK
+36 US.SPWR 1 SunPower  0 STOCK
+37 US.TEL 1 泰科电子  0 STOCK
+38 US.ULBI 1 "Ultralife Corp."  0 STOCK
+39 US.UNXL 1 Uni-Pixel  0 STOCK
+40 US.UQM 1 "UQM Technologies, Inc."  0 STOCK
+41 US.VECO 1 "Veeco Instruments, Inc."  0 STOCK
+42 US.VICR 1 "Vicor Corp."  0 STOCK
+43 US.VPG 1 "Vishay Precision Group, Inc."  0 STOCK
+44 US.YGE 1 英利绿色能源  0 STOCK

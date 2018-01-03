@@ -1,0 +1,14 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000058 100 深赛格  0 STOCK
+1 SZ.000061 100 农产品  0 STOCK
+2 SZ.000062 100 深圳华强  0 STOCK
+3 SZ.000560 100 昆百大A  0 STOCK
+4 SZ.000861 100 海印股份  0 STOCK
+5 SZ.000882 100 华联股份  0 STOCK
+6 SZ.002344 100 海宁皮城  0 STOCK
+7 SZ.002818 100 富森美  0 STOCK
+8 SH.600415 100 小商品城  0 STOCK
+9 SH.600738 100 兰州民百  0 STOCK
+10 SH.600790 100 轻纺城  0 STOCK
+11 SH.600824 100 益民集团  0 STOCK
+12 SH.600865 100 百大集团  0 STOCK

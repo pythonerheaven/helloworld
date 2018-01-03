@@ -1,7 +1,0 @@
-2018-01-02 19:46:52,289  INFO: FUTU	tiny_strate_sample:init_strate 'tiny_strate_sample' ret = True
-2018-01-02 19:47:54,556  INFO: FUTU	tiny_strate_sample:init_strate 'tiny_strate_sample' ret = True
-2018-01-02 19:47:57,154  INFO: FUTU	tiny_strate_sample:on_start param1=1 param2=2
-2018-01-02 19:47:57,154  INFO: FUTU	tiny_strate_sample:on_after_trading - 2018-01-02 19:47:56
-2018-01-02 19:48:06,979  INFO: FUTU	tiny_strate_sample:init_strate 'tiny_strate_sample' ret = True
-2018-01-02 19:48:09,897  INFO: FUTU	tiny_strate_sample:on_start param1=1 param2=2
-2018-01-02 19:48:09,898  INFO: FUTU	tiny_strate_sample:on_after_trading - 2018-01-02 19:48:09

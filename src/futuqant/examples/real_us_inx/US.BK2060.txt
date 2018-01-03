@@ -1,0 +1,45 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ALDW 1 "Alon USA Partners LP"  0 STOCK
+1 US.ALJ 1 阿龙美国能源公司  0 STOCK
+2 US.ANW 1 "Aegean Marine Petroleum Network, Inc."  0 STOCK
+3 US.APU 1 "AmeriGas Partners LP"  0 STOCK
+4 US.BP 1 英国石油  0 STOCK
+5 US.BSM 1 "Black Stone Minerals LP"  0 STOCK
+6 US.CAPL 1 "CrossAmerica Partners LP"  0 STOCK
+7 US.CEQP 1 "Crestwood Equity Partners LP"  0 STOCK
+8 US.CVE 1 Cenovus能源  0 STOCK
+9 US.CVI 1 CVR能源  0 STOCK
+10 US.CVRR 1 "CVR Refining LP"  0 STOCK
+11 US.DK 1 "Delek US Holdings"  0 STOCK
+12 US.DLNG 1 "Dynagas LNG Partners LP"  0 STOCK
+13 US.DPM 1 "DCP Midstream Partners L.P."  0 STOCK
+14 US.EMES 1 "Emerge Energy Services LP"  0 STOCK
+15 US.FGP 1 法瑞加合作伙伴  0 STOCK
+16 US.GLP 1 伙伴全球  0 STOCK
+17 US.GLRI 1 "Glori Energy, Inc."  0 STOCK
+18 US.GNE 1 "Genie Energy Ltd."  0 STOCK
+19 US.HFC 1 "HollyFrontier Corp."  0 STOCK
+20 US.HK 1 "Halc贸n Resources Corp."  0 STOCK
+21 US.IMO 1 帝国石油  0 STOCK
+22 US.JE 1 "Just Energy Group, Inc."  0 STOCK
+23 US.LGCY 1 "Legacy Reserves石油勘测"  0 STOCK
+24 US.LNG 1 "Cheniere Energy, Inc."  0 STOCK
+25 US.MARPS 1 海洋石油投资  0 STOCK
+26 US.NGL 1 "NGL Energy Partners LP"  0 STOCK
+27 US.OGS 1 "ONE Gas, Inc."  0 STOCK
+28 US.PARR 1 "Par Pacific Holdings, Inc."  0 STOCK
+29 US.PBF 1 "PBF Energy, Inc."  0 STOCK
+30 US.PNRG 1 "PrimeEnergy Corp."  0 STOCK
+31 US.PSX 1 菲利普66公司  0 STOCK
+32 US.SGU 1 "Star Group LP"  0 STOCK
+33 US.SPH 1 "Suburban Propane Partners LP"  0 STOCK
+34 US.SSL 1 南非萨索尔  0 STOCK
+35 US.SUN 1 太阳石油  0 STOCK
+36 US.TSO 1 特索罗公司  0 STOCK
+37 US.UGI 1 "UGI Corp."  0 STOCK
+38 US.VLO 1 瓦莱罗能源  0 STOCK
+39 US.VTNR 1 "Vertex Energy, Inc."  0 STOCK
+40 US.WES 1 "Western Gas Partners LP"  0 STOCK
+41 US.WMB 1 威廉姆斯  0 STOCK
+42 US.WNR 1 "Western Refining"  0 STOCK
+43 US.YPF 1 阿根廷YPF  0 STOCK

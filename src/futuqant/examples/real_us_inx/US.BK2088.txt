@@ -1,0 +1,60 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ADTN 1 亚川  0 STOCK
+1 US.ALSK 1 阿拉斯加通信系统  0 STOCK
+2 US.ATNI 1 "ATN International, Inc."  0 STOCK
+3 US.ATTO 1 "Atento SA"  0 STOCK
+4 US.BCE 1 加拿大贝尔  0 STOCK
+5 US.BCOM 1 "B Communications Ltd."  0 STOCK
+6 US.BT 1 英国电信  0 STOCK
+7 US.CALL 1 "magicJack VocalTec Ltd."  0 STOCK
+8 US.CBB 1 辛辛那提贝尔  0 STOCK
+9 US.CCOI 1 "Cogent Communications Holdings, Inc."  0 STOCK
+10 US.CHA 1 中国电信  0 STOCK
+11 US.CHL 1 中国移动  0 STOCK
+12 US.CHT 1 中华电信  0 STOCK
+13 US.CHU 1 中国联通(香港)  0 STOCK
+14 US.CMTL 1 康姆泰克通讯  0 STOCK
+15 US.CNSL 1 联合通讯  0 STOCK
+16 US.CTL 1 世纪电信  0 STOCK
+17 US.DRWI 1 "DragonWave Inc"  0 STOCK
+18 US.ELNK 1 地球连线  0 STOCK
+19 US.ETAK 1 "Elephant Talk Communications Inc (已退市)"  0 STOCK
+20 US.FRP 1 "FairPoint Communications"  0 STOCK
+21 US.FTR 1 Fromtier通信B系列  0 STOCK
+22 US.GNCMA 1 通用通讯  0 STOCK
+23 US.GTT 1 "GTT Communications, Inc."  0 STOCK
+24 US.HCHC 1 "HC2 Holdings, Inc."  0 STOCK
+25 US.HCOM 1 "Hawaiian Telcom HoldCo, Inc."  0 STOCK
+26 US.IDT 1 万威  0 STOCK
+27 US.IGLD 1 金线网络  0 STOCK
+28 US.IRDM 1 铱星通讯  0 STOCK
+29 US.KT 1 韩国电信  0 STOCK
+30 US.LVLT 1 第三级通讯  0 STOCK
+31 US.MBT 1 移动电信  0 STOCK
+32 US.NTL 1 北方电信投资  0 STOCK
+33 US.NTT 1 日本电报电话  0 STOCK
+34 US.ORAN 1 法国电信公司  0 STOCK
+35 US.OTEL 1 "Otelco, Inc."  0 STOCK
+36 US.PHI 1 菲律宾长途电话  0 STOCK
+37 US.RCI 1 罗杰斯通信  0 STOCK
+38 US.RNET 1 "RigNet, Inc."  0 STOCK
+39 US.SJR 1 肖氏通信  0 STOCK
+40 US.SNCR 1 "Synchronoss Technologies, Inc."  0 STOCK
+41 US.SPOK 1 "Spok Holdings, Inc."  0 STOCK
+42 US.T 1 美国电话电报  0 STOCK
+43 US.TDS 1 电话数据  0 STOCK
+44 US.TEF 1 西班牙电信  0 STOCK
+45 US.TEO 1 阿根廷电信  0 STOCK
+46 US.TI 1 意大利电信  0 STOCK
+47 US.TLK 1 印尼电信  0 STOCK
+48 US.TSU 1 堤姆通信服务  0 STOCK
+49 US.TU 1 泰勒斯  0 STOCK
+50 US.TWER 1 "Towerstream Corp."  0 STOCK
+51 US.VG 1 "Vonage Holdings Corp."  0 STOCK
+52 US.VIP 1 "VimpelCom Ltd ADS"  0 STOCK
+53 US.VIV 1 "Telefonica Brasil SA"  0 STOCK
+54 US.VOD 1 沃达丰  0 STOCK
+55 US.VZ 1 威瑞森  0 STOCK
+56 US.WIN 1 气流通讯公司  0 STOCK
+57 US.XCOM 1 "XTERA COMMUNICATIONS, INC. (已退市)"  0 STOCK
+58 US.ZAYO 1 "Zayo Group Holdings, Inc."  0 STOCK

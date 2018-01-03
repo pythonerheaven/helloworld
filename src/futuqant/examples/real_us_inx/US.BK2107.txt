@@ -1,0 +1,15 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ALN 1 绿润集团  0 STOCK
+1 US.BGS 1 B&G食品  0 STOCK
+2 US.CHEF 1 "The Chefs' Warehouse, Inc."  0 STOCK
+3 US.FDP 1 戴尔蒙特新鲜制造  0 STOCK
+4 US.KR 1 克罗格  0 STOCK
+5 US.NAII 1 "Natural Alternatives International, Inc."  0 STOCK
+6 US.OME 1 欧米加蛋白食品  0 STOCK
+7 US.PF 1 "Pinnacle Foods, Inc."  0 STOCK
+8 US.PFGC 1 "PERFORMANCE FOOD GROUP CO"  0 STOCK
+9 US.POST 1 "Post Holdings, Inc."  0 STOCK
+10 US.SPTN 1 "SpartanNash Co."  0 STOCK
+11 US.SYY 1 西思科公司  0 STOCK
+12 US.TR 1 "Tootsie Roll Industries, Inc."  0 STOCK
+13 US.WILC 1 "G. Willi Food International Ltd."  0 STOCK

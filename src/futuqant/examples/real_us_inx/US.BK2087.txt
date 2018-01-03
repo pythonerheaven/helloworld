@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AVA 1 阿维斯塔  0 STOCK
+1 US.CMS 1 CMS能源  0 STOCK
+2 US.ED 1 爱迪生联合电气  0 STOCK
+3 US.LNT 1 美国联合能源  0 STOCK
+4 US.MDU 1 "MDU Resources Group, Inc."  0 STOCK
+5 US.NWE 1 "NorthWestern Corp."  0 STOCK
+6 US.SCG 1 斯卡纳公司  0 STOCK
+7 US.TGEN 1 "Tecogen, Inc."  0 STOCK
+8 US.UTL 1 "UNITIL Corp."  0 STOCK
+9 US.WEC 1 威州能源  0 STOCK

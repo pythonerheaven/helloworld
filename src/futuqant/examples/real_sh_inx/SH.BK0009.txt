@@ -1,0 +1,14 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.002207 100 *ST准油  0 STOCK
+1 SZ.002554 100 惠博普  0 STOCK
+2 SZ.002629 100 仁智股份  0 STOCK
+3 SZ.002738 100 中矿资源  0 STOCK
+4 SZ.002828 100 贝肯能源  0 STOCK
+5 SZ.300157 100 恒泰艾普  0 STOCK
+6 SZ.300164 100 通源石油  0 STOCK
+7 SZ.300191 100 潜能恒信  0 STOCK
+8 SH.600583 100 海油工程  0 STOCK
+9 SH.600871 100 石化油服  0 STOCK
+10 SH.601808 100 中海油服  0 STOCK
+11 SH.603727 100 博迈科  0 STOCK
+12 SH.603979 100 金诚信  0 STOCK

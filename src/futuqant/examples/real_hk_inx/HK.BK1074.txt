@@ -1,0 +1,15 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00038 2000 第一拖拉机股份  0 STOCK
+1 HK.00300 2000 昆明机床  0 STOCK
+2 HK.00564 200 郑煤机  0 STOCK
+3 HK.00631 1000 三一国际  0 STOCK
+4 HK.00936 10000 鹏程亚洲  0 STOCK
+5 HK.01157 200 中联重科  0 STOCK
+6 HK.01301 2000 德基科技控股  0 STOCK
+7 HK.01341 8000 昊天国际建投  0 STOCK
+8 HK.01660 8000 善乐国际  0 STOCK
+9 HK.01786 500 铁建装备  0 STOCK
+10 HK.01893 1000 中材股份  0 STOCK
+11 HK.03339 1000 中国龙工  0 STOCK
+12 HK.08142 10000 德利机械  0 STOCK
+13 HK.08153 5000 科地农业  0 STOCK

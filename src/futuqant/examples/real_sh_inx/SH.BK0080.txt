@@ -1,0 +1,8 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000017 100 深中华A  0 STOCK
+1 SZ.000913 100 钱江摩托  0 STOCK
+2 SZ.002105 100 信隆健康  0 STOCK
+3 SH.600099 100 林海股份  0 STOCK
+4 SH.600679 100 上海凤凰  0 STOCK
+5 SH.600877 100 *ST嘉陵  0 STOCK
+6 SH.603766 100 隆鑫通用  0 STOCK

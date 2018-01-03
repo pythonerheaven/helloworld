@@ -1,0 +1,27 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AAPL 1 苹果  0 STOCK
+1 US.ALOT 1 "AstroNova, Inc."  0 STOCK
+2 US.AVID 1 艾维科技  0 STOCK
+3 US.CCUR 1 "Concurrent Computer Corp."  0 STOCK
+4 US.CRAY 1 克雷科技  0 STOCK
+5 US.DDD 1 3D系统  0 STOCK
+6 US.DRAM 1 达泰莱  0 STOCK
+7 US.FALC 1 飞康软件  0 STOCK
+8 US.HPQ 1 惠普  0 STOCK
+9 US.IMN 1 怡敏信  0 STOCK
+10 US.INVE 1 单片机微系统  0 STOCK
+11 US.IVAC 1 因特瓦克  0 STOCK
+12 US.KTCC 1 "Key Tronic Corp."  0 STOCK
+13 US.LOGI 1 罗技  0 STOCK
+14 US.MTLS 1 Materialise  0 STOCK
+15 US.PSTG 1 "PURE STORAGE, INC."  0 STOCK
+16 US.QBAK 1 扩斯达  0 STOCK
+17 US.QUMU 1 "Qumu Corp."  0 STOCK
+18 US.SMCI 1 超微电脑  0 STOCK
+19 US.SSYS 1 Stratasys  0 STOCK
+20 US.STX 1 希捷科技  0 STOCK
+21 US.TACT 1 "TransAct Technologies, Inc."  0 STOCK
+22 US.VJET 1 "voxeljet AG"  0 STOCK
+23 US.WDC 1 西部数据  0 STOCK
+24 US.XONE 1 "The ExOne Co."  0 STOCK
+25 US.ZBRA 1 美国斑马技术有限公司  0 STOCK

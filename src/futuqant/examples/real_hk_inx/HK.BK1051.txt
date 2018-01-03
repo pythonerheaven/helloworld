@@ -1,0 +1,13 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00002 500 中电控股  0 STOCK
+1 HK.00006 500 电能实业  0 STOCK
+2 HK.00579 2000 京能清洁能源  0 STOCK
+3 HK.00836 2000 华润电力  0 STOCK
+4 HK.00902 2000 华能国际电力股份  0 STOCK
+5 HK.00991 2000 大唐发电  0 STOCK
+6 HK.01038 500 长江基建集团  0 STOCK
+7 HK.01071 2000 华电国际电力股份  0 STOCK
+8 HK.01608 1000 伟能集团  0 STOCK
+9 HK.01816 1000 中广核电力  0 STOCK
+10 HK.02380 1000 中国电力  0 STOCK
+11 HK.02638 500 港灯-SS  0 STOCK

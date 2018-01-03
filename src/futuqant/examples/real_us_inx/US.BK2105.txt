@@ -1,0 +1,13 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AEPI 1 AEP工业公司  0 STOCK
+1 US.ATR 1 Aptar  0 STOCK
+2 US.BLL 1 波尔  0 STOCK
+3 US.CAS 1 卡斯尔  0 STOCK
+4 US.CCK 1 皇冠控股  0 STOCK
+5 US.GEF 1 格瑞夫  0 STOCK
+6 US.HSC 1 哈斯科材料  0 STOCK
+7 US.MINI 1 "Mobile Mini, Inc."  0 STOCK
+8 US.OI 1 欧伊诺  0 STOCK
+9 US.SLGN 1 西尔格控股公司  0 STOCK
+10 US.SPLP 1 "Steel Partners Holdings LP"  0 STOCK
+11 US.SYNL 1 "Synalloy Corp."  0 STOCK

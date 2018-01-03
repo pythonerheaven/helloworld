@@ -1,0 +1,146 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ABTL 1 "Autobytel Inc"  0 STOCK
+1 US.ACTA 1 "Actua Corp."  0 STOCK
+2 US.AGYS 1 诶吉利斯公司  0 STOCK
+3 US.AKAM 1 阿克迈  0 STOCK
+4 US.ALLT 1 艾奥特通讯  0 STOCK
+5 US.ANET 1 "Arista Networks, Inc."  0 STOCK
+6 US.ANY 1 "Sphere 3D Corp."  0 STOCK
+7 US.ATEN 1 "A10 Networks, Inc."  0 STOCK
+8 US.ATHM 1 汽车之家  0 STOCK
+9 US.AWRE 1 艾卫公司  0 STOCK
+10 US.AYA 1 "AMAYA INC"  0 STOCK
+11 US.BABA 1 阿里巴巴  0 STOCK
+12 US.BCOR 1 "Blucora, Inc."  0 STOCK
+13 US.BCOV 1 布莱克维  0 STOCK
+14 US.BIDU 1 百度  0 STOCK
+15 US.BITA 1 易车网  0 STOCK
+16 US.BLIN 1 "Bridgeline Digital, Inc."  0 STOCK
+17 US.BV 1 "Bazaarvoice, Inc."  0 STOCK
+18 US.CARB 1 "Carbonite, Inc."  0 STOCK
+19 US.CCIH 1 蓝汛  0 STOCK
+20 US.CHKP 1 "Check Point软件科技"  0 STOCK
+21 US.CHTR 1 特许通讯公司  0 STOCK
+22 US.CMCM 1 猎豹移动  0 STOCK
+23 US.CRM 1 赛富时公司  0 STOCK
+24 US.CSC 1 思捷思  0 STOCK
+25 US.CTRL 1 "Control4 Corp."  0 STOCK
+26 US.CTXS 1 思杰系统  0 STOCK
+27 US.CUDA 1 梭子鱼网络  0 STOCK
+28 US.CYBR 1 "Cyber-Ark Software"  0 STOCK
+29 US.CYOU 1 畅游  0 STOCK
+30 US.DMD 1 "Demand Media (已退市)"  0 STOCK
+31 US.DSGX 1 "The Descartes Systems Group, Inc."  0 STOCK
+32 US.EBAY 1 电子海湾公司  0 STOCK
+33 US.EEFT 1 嘉银通  0 STOCK
+34 US.EIGI 1 "Endurance International Group Holdings, Inc."  0 STOCK
+35 US.ENT 1 恩特拉能源信托  0 STOCK
+36 US.EPAM 1 "EPAM Systems, Inc."  0 STOCK
+37 US.EQIX 1 易昆尼克斯  0 STOCK
+38 US.ETSY 1 "ETSY INC"  0 STOCK
+39 US.EVRI 1 "Everi Holdings, Inc."  0 STOCK
+40 US.FB 1 Facebook  0 STOCK
+41 US.FDC 1 "FIRST DATA CORP"  0 STOCK
+42 US.FENG 1 凤凰新媒体  0 STOCK
+43 US.FEYE 1 "FireEye Inc."  0 STOCK
+44 US.FIS 1 繁德信息技术  0 STOCK
+45 US.FISV 1 费哲金融服务  0 STOCK
+46 US.FIT 1 Fitbit  0 STOCK
+47 US.FIVN 1 "Five9, Inc."  0 STOCK
+48 US.FSNN 1 "Fusion Telecommunications International, Inc."  0 STOCK
+49 US.GDDY 1 "GoDaddy, Inc."  0 STOCK
+50 US.GIMO 1 "Gigamon Inc."  0 STOCK
+51 US.GLOW 1 "Glowpoint, Inc."  0 STOCK
+52 US.GOGO 1 "Gogo, Inc."  0 STOCK
+53 US.GOOG 1 谷歌  0 STOCK
+54 US.GOOGL 1 谷歌A  0 STOCK
+55 US.GRUB 1 "GrubHub Inc"  0 STOCK
+56 US.HPE 1 惠普企业  0 STOCK
+57 US.HUBS 1 "HubSpot, Inc."  0 STOCK
+58 US.ICLD 1 "InterCloud Systems, Inc."  0 STOCK
+59 US.INTX 1 "Intersections, Inc."  0 STOCK
+60 US.IPDN 1 "Professional Diversity Network, Inc."  0 STOCK
+61 US.JCOM 1 J2全球通信  0 STOCK
+62 US.JD 1 京东  0 STOCK
+63 US.JKHY 1 杰克亨利  0 STOCK
+64 US.LDOS 1 "Leidos Holdings, Inc."  0 STOCK
+65 US.LEJU 1 乐居  0 STOCK
+66 US.LIVE 1 "Live Ventures, Inc."  0 STOCK
+67 US.LLNW 1 "Limelight Networks, Inc."  0 STOCK
+68 US.LOV 1 "Spark Networks SE"  0 STOCK
+69 US.LTRPA 1 "Liberty TripAdvisor Holdings, Inc."  0 STOCK
+70 US.LTRPB 1 "Liberty TripAdvisor Holdings, Inc."  0 STOCK
+71 US.LVNTA 1 "Liberty Interactive Corporation Series A"  0 STOCK
+72 US.LVNTB 1 "Liberty Interactive Corporation Series B"  0 STOCK
+73 US.MARK 1 "Remark Media"  0 STOCK
+74 US.MB 1 "MINDBODY, INC."  0 STOCK
+75 US.MEET 1 "The Meet Group, Inc."  0 STOCK
+76 US.MELI 1 "MercadoLibre, Inc."  0 STOCK
+77 US.MLNK 1 麦迪实软件  0 STOCK
+78 US.MNDO 1 思维终端科技  0 STOCK
+79 US.MTSL 1 "MER Telemanagement Solutions Ltd."  0 STOCK
+80 US.NCTY 1 第九城市  0 STOCK
+81 US.NETE 1 "Net Element, Inc."  0 STOCK
+82 US.NFLX 1 奈飞  0 STOCK
+83 US.NMRX 1 纳姆热斯通信  0 STOCK
+84 US.NOW 1 现在服务公司  0 STOCK
+85 US.NQ 1 网秦  0 STOCK
+86 US.NTES 1 网易  0 STOCK
+87 US.NTN 1 "NTN Buzztime, Inc."  0 STOCK
+88 US.OHGI 1 "One Horizon Group, Inc."  0 STOCK
+89 US.PANW 1 "Palo Alto Networks, Inc."  0 STOCK
+90 US.PAY 1 惠尔丰控股  0 STOCK
+91 US.PAYC 1 "Paycom Software, Inc."  0 STOCK
+92 US.PCTI 1 "PCTEL, Inc."  0 STOCK
+93 US.PERI 1 "Perion Network Ltd."  0 STOCK
+94 US.PLUS 1 正羽科技  0 STOCK
+95 US.PRSS 1 "CafePress, Inc."  0 STOCK
+96 US.PRZM 1 "Prism Technologies Group, Inc."  0 STOCK
+97 US.QIWI 1 "Qiwi Plc"  0 STOCK
+98 US.QLYS 1 科力斯  0 STOCK
+99 US.QTM 1 昆腾数据  0 STOCK
+100 US.QTWO 1 "Q2 Holdings, Inc."  0 STOCK
+101 US.RDWR 1 "Radware Ltd."  0 STOCK
+102 US.RENN 1 人人网  0 STOCK
+103 US.RUBI 1 "The Rubicon Project, Inc."  0 STOCK
+104 US.SEAC 1 "SeaChange International, Inc."  0 STOCK
+105 US.SFUN 1 搜房网  0 STOCK
+106 US.SHOP 1 "Shopify, Inc."  0 STOCK
+107 US.SIFY 1 "Sify Technologies Ltd."  0 STOCK
+108 US.SINA 1 新浪  0 STOCK
+109 US.SOFO 1 "Sonic Foundry, Inc."  0 STOCK
+110 US.SOHU 1 搜狐  0 STOCK
+111 US.SPSC 1 "SPS Commerce, Inc."  0 STOCK
+112 US.SSNC 1 "SS&C Technologies Holdings"  0 STOCK
+113 US.SSNI 1 思飞信  0 STOCK
+114 US.STMP 1 "Stamps.com, Inc."  0 STOCK
+115 US.STRZA 1 "Starz (已退市)"  0 STOCK
+116 US.STRZB 1 "Starz (已退市)"  0 STOCK
+117 US.SYNC 1 "Synacor, Inc."  0 STOCK
+118 US.TCX 1 "Tucows, Inc."  0 STOCK
+119 US.TDC 1 天睿公司  0 STOCK
+120 US.TRUE 1 TrueCar  0 STOCK
+121 US.TSS 1 完全系统  0 STOCK
+122 US.TST 1 "TheStreet, Inc."  0 STOCK
+123 US.TTGT 1 "TechTarget, Inc."  0 STOCK
+124 US.TVPT 1 "Travelport Worldwide Ltd."  0 STOCK
+125 US.TWTR 1 Twitter  0 STOCK
+126 US.VLTC 1 "Voltari Corp."  0 STOCK
+127 US.VNET 1 世纪互联  0 STOCK
+128 US.VNTV 1 "Vantiv, Inc."  0 STOCK
+129 US.VRSN 1 威瑞信  0 STOCK
+130 US.WAGE 1 "WageWorks, Inc."  0 STOCK
+131 US.WB 1 微博  0 STOCK
+132 US.WBAI 1 500彩票网  0 STOCK
+133 US.WDAY 1 工作日公司  0 STOCK
+134 US.WEB 1 "Web.com Group, Inc."  0 STOCK
+135 US.WIX 1 "Wix.com Ltd."  0 STOCK
+136 US.WK 1 "Workiva, Inc."  0 STOCK
+137 US.WTW 1 慧俪轻体  0 STOCK
+138 US.WUBA 1 58同城  0 STOCK
+139 US.XNET 1 迅雷  0 STOCK
+140 US.YELP 1 "Yelp Inc."  0 STOCK
+141 US.YHOO 1 雅虎  0 STOCK
+142 US.YNDX 1 Yandex  0 STOCK
+143 US.YY 1 欢聚时代  0 STOCK
+144 US.ZNGA 1 Zynga  0 STOCK

@@ -1,0 +1,635 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AB 1 联博控股  0 STOCK
+1 US.ABCB 1 ABC银行  0 STOCK
+2 US.ABR 1 阿伯房地产信托  0 STOCK
+3 US.ABTX 1 "ALLEGIANCE BANCSHARES, INC"  0 STOCK
+4 US.ACAS 1 "美国资本有限公司 (已退市)"  0 STOCK
+5 US.ACBI 1 "Atlantic Capital Bancshares, Inc."  0 STOCK
+6 US.ACFC 1 "Atlantic Coast Financial Corp."  0 STOCK
+7 US.ACNB 1 "ACNB Corp."  0 STOCK
+8 US.ACSF 1 "American Capital Senior Floating Ltd."  0 STOCK
+9 US.AF 1 道夫金融公司  0 STOCK
+10 US.AGM 1 联邦农业抵押贷款公司  0 STOCK
+11 US.AI 1 阿灵顿资产投资公司  0 STOCK
+12 US.AINC 1 "Ashford, Inc."  0 STOCK
+13 US.AINV 1 阿波罗投资公司  0 STOCK
+14 US.ALLY 1 "Ally Financial Inc."  0 STOCK
+15 US.AMBC 1 "Ambac Financial Group, Inc."  0 STOCK
+16 US.AMG 1 艾佛里管理公司  0 STOCK
+17 US.AMNB 1 美国国家银行股份公司  0 STOCK
+18 US.AMP 1 阿莫斯莱斯金融  0 STOCK
+19 US.AMRB 1 里弗银行  0 STOCK
+20 US.AMTD 1 亚美利交易  0 STOCK
+21 US.ANCB 1 "Anchor Bancorp (Washington)"  0 STOCK
+22 US.ANCX 1 艾克塞斯国家银行控股公司  0 STOCK
+23 US.ANGI 1 安吉斯里斯特公司  0 STOCK
+24 US.APAM 1 "Artisan Partners Asset Management, Inc."  0 STOCK
+25 US.APO 1 阿波罗全球管理  0 STOCK
+26 US.ARCC 1 阿瑞斯  0 STOCK
+27 US.ARES 1 "Ares Management LP"  0 STOCK
+28 US.AROW 1 箭牌金融公司  0 STOCK
+29 US.ASB 1 "Associated Banc-Corp."  0 STOCK
+30 US.ASBB 1 "ASB Bancorp"  0 STOCK
+31 US.ASFI 1 阿斯塔资金公司  0 STOCK
+32 US.ASPS 1 "Altisource Portfolio Solutions SA"  0 STOCK
+33 US.ASRV 1 "AmeriServ Financial, Inc."  0 STOCK
+34 US.ATAX 1 "America First Multifamily Investors LP"  0 STOCK
+35 US.ATLC 1 "Atlanticus Holdings Corp."  0 STOCK
+36 US.ATLO 1 艾姆斯银行控股  0 STOCK
+37 US.AUBN 1 "Auburn National Bancorp, Inc."  0 STOCK
+38 US.AV 1 "英杰华保险 (已退市)"  0 STOCK
+39 US.AVAL 1 "Grupo Aval Acciones y Valores SA"  0 STOCK
+40 US.AXP 1 美国运通  0 STOCK
+41 US.BAC 1 美国银行  0 STOCK
+42 US.BAM 1 布鲁克菲尔德资产管理  0 STOCK
+43 US.BANC 1 "Banc of California, Inc."  0 STOCK
+44 US.BANF 1 BancFirst银行  0 STOCK
+45 US.BANR 1 邦纳  0 STOCK
+46 US.BAP 1 "Credicorp Ltd."  0 STOCK
+47 US.BBD 1 巴西布拉德斯科银行  0 STOCK
+48 US.BBDO 1 布拉德斯科银行  0 STOCK
+49 US.BBT 1 BB&T银行  0 STOCK
+50 US.BBVA 1 "Banco Bilbao Vizcaya Argentaria SA"  0 STOCK
+51 US.BBX 1 亚特兰大银行  0 STOCK
+52 US.BCBP 1 BCB银行  0 STOCK
+53 US.BCH 1 智利银行  0 STOCK
+54 US.BCS 1 巴克莱银行  0 STOCK
+55 US.BDGE 1 Bridge银行  0 STOCK
+56 US.BEN 1 富兰克林资源  0 STOCK
+57 US.BFIN 1 班克金融  0 STOCK
+58 US.BFR 1 "BBVA Banco Franc茅s SA"  0 STOCK
+59 US.BGCP 1 "BGC Partners, Inc."  0 STOCK
+60 US.BHB 1 "Bar Harbor Bankshares"  0 STOCK
+61 US.BHBK 1 "Blue Hills Bancorp, Inc."  0 STOCK
+62 US.BHLB 1 "Berkshire Hills Bancorp, Inc."  0 STOCK
+63 US.BK 1 纽约梅隆银行  0 STOCK
+64 US.BKCC 1 黑岩凯尔索资本  0 STOCK
+65 US.BKJ 1 "Bancorp of New Jersey, Inc."  0 STOCK
+66 US.BKMU 1 互助银行  0 STOCK
+67 US.BKSC 1 南卡罗来纳银行  0 STOCK
+68 US.BKU 1 "BankUnited, Inc."  0 STOCK
+69 US.BLBD 1 "Blue Bird Corp."  0 STOCK
+70 US.BLK 1 贝莱德  0 STOCK
+71 US.BLMT 1 "BSB Bancorp, Inc. (Massachusetts)"  0 STOCK
+72 US.BLX 1 拉丁美洲出口银行  0 STOCK
+73 US.BMA 1 "Banco Macro SA"  0 STOCK
+74 US.BMO 1 蒙特利尔银行  0 STOCK
+75 US.BMRC 1 马林银行  0 STOCK
+76 US.BMTC 1 布林摩尔银行  0 STOCK
+77 US.BNCL 1 "Beneficial Mutual银行"  0 STOCK
+78 US.BNCN 1 BNC银行  0 STOCK
+79 US.BNS 1 丰业银行  0 STOCK
+80 US.BOCH 1 "Bank of Commerce Holdings"  0 STOCK
+81 US.BOFI 1 BofI控股  0 STOCK
+82 US.BOH 1 夏威夷银行  0 STOCK
+83 US.BOKF 1 BOK银行  0 STOCK
+84 US.BOTJ 1 "Bank of the James Financial Group, Inc."  0 STOCK
+85 US.BPFH 1 波士顿金融控股  0 STOCK
+86 US.BPOP 1 大众银行  0 STOCK
+87 US.BR 1 布罗德里奇  0 STOCK
+88 US.BRKL 1 布鲁克赖恩银行  0 STOCK
+89 US.BSAC 1 桑坦德银行智利  0 STOCK
+90 US.BSBR 1 桑坦德巴西分行  0 STOCK
+91 US.BSF 1 "Bear State Financial, Inc."  0 STOCK
+92 US.BSMX 1 桑坦德银行墨西  0 STOCK
+93 US.BSRR 1 塞拉银行  0 STOCK
+94 US.BUSE 1 "First Busey Corp."  0 STOCK
+95 US.BWFG 1 "Bankwell Financial Group, Inc."  0 STOCK
+96 US.BX 1 黑石  0 STOCK
+97 US.BXS 1 BancorpSouth银行  0 STOCK
+98 US.BYBK 1 "Bay Bancorp, Inc."  0 STOCK
+99 US.BYFC 1 百老汇金融  0 STOCK
+100 US.C 1 花旗  0 STOCK
+101 US.CAC 1 卡姆登国家银行  0 STOCK
+102 US.CACB 1 喀斯喀特银行  0 STOCK
+103 US.CACC 1 "Credit Acceptance Corp."  0 STOCK
+104 US.CARO 1 "Carolina Financial Corp."  0 STOCK
+105 US.CART 1 "Carolina Trust BancShares"  0 STOCK
+106 US.CARV 1 卡弗储蓄  0 STOCK
+107 US.CASH 1 米塔金融  0 STOCK
+108 US.CATM 1 "Cardtronics plc Class A Ordinary Shares (UK)"  0 STOCK
+109 US.CATY 1 国泰万通金控  0 STOCK
+110 US.CBAN 1 科勒尼  0 STOCK
+111 US.CBF 1 "Capital Bank Financial Corp"  0 STOCK
+112 US.CBFV 1 "CB Financial Services, Inc."  0 STOCK
+113 US.CBG 1 世邦魏理仕  0 STOCK
+114 US.CBOE 1 芝加哥期权交易所  0 STOCK
+115 US.CBSH 1 科默斯银行  0 STOCK
+116 US.CBU 1 "Community Bank System, Inc."  0 STOCK
+117 US.CBZ 1 "CBIZ, Inc."  0 STOCK
+118 US.CCBG 1 "Capital City Bank Group, Inc."  0 STOCK
+119 US.CCCR 1 鲈乡农村小额贷款  0 STOCK
+120 US.CCNE 1 CNB金融  0 STOCK
+121 US.CFBK 1 "Central Federal Corp."  0 STOCK
+122 US.CFCB 1 "CENTRUE FIN CORP"  0 STOCK
+123 US.CFFI 1 C&F金融  0 STOCK
+124 US.CFFN 1 "Capitol Federal Financial, Inc."  0 STOCK
+125 US.CFG 1 "Citizens Financial Group, Inc. (Rhode Island)"  0 STOCK
+126 US.CFNB 1 加州第一国民银行  0 STOCK
+127 US.CFNL 1 卡迪纳尔金融  0 STOCK
+128 US.CFR 1 库伦佛寺银行  0 STOCK
+129 US.CG 1 凯雷  0 STOCK
+130 US.CHCO 1 "City Holding Co."  0 STOCK
+131 US.CHFC 1 "Chemical Financial Corp."  0 STOCK
+132 US.CHFN 1 "Charter Financial Corp. (Georgia)"  0 STOCK
+133 US.CHMG 1 "Chemung Financial Corp."  0 STOCK
+134 US.CIB 1 哥伦比亚银行  0 STOCK
+135 US.CIT 1 "CIT Group, Inc."  0 STOCK
+136 US.CIVB 1 "Civista Bancshares, Inc."  0 STOCK
+137 US.CIZN 1 市民金融控股  0 STOCK
+138 US.CLBH 1 卡罗莱纳银行控股  0 STOCK
+139 US.CLMS 1 卡拉莫斯资产管理  0 STOCK
+140 US.CM 1 加拿大帝国商业银行  0 STOCK
+141 US.CMA 1 联信银行  0 STOCK
+142 US.CMCT 1 "CIM Commercial Trust Corp."  0 STOCK
+143 US.CME 1 芝加哥商品交易所  0 STOCK
+144 US.CMFN 1 "CM Finance, Inc."  0 STOCK
+145 US.CNBKA 1 世纪银行  0 STOCK
+146 US.CNOB 1 "ConnectOne Bancorp, Inc."  0 STOCK
+147 US.CNS 1 科恩-斯蒂尔斯金融  0 STOCK
+148 US.COBZ 1 CoBiz银行  0 STOCK
+149 US.CODI 1 "Compass Diversified Holdings, Inc."  0 STOCK
+150 US.COF 1 第一资本  0 STOCK
+151 US.COLB 1 哥伦比亚银行系统  0 STOCK
+152 US.CORR 1 "CorEnergy Infrastructure Trust, Inc."  0 STOCK
+153 US.COWN 1 "Cowen, Inc."  0 STOCK
+154 US.CPF 1 中央太平洋银行  0 STOCK
+155 US.CPSS 1 "Consumer Portfolio Services, Inc."  0 STOCK
+156 US.CPTA 1 "Capitala Finance Corp."  0 STOCK
+157 US.CS 1 瑞士信贷  0 STOCK
+158 US.CSBK 1 克利夫顿储蓄  0 STOCK
+159 US.CSFL 1 "CenterState Banks, Inc."  0 STOCK
+160 US.CSWC 1 "Capital Southwest Corp."  0 STOCK
+161 US.CTBI 1 大众信托合众银行  0 STOCK
+162 US.CUBI 1 "Customers Bancorp, Inc."  0 STOCK
+163 US.CUBN 1 "Commerce Union Bancshares, Inc. (Tennessee)"  0 STOCK
+164 US.CUNB 1 "CU Bancorp (CA)"  0 STOCK
+165 US.CVBF 1 CVB金融  0 STOCK
+166 US.CVCY 1 中央谷地  0 STOCK
+167 US.CVLY 1 "Codorus Valley Bancorp, Inc."  0 STOCK
+168 US.CWAY 1 "Coastway Bancorp, Inc."  0 STOCK
+169 US.CWBC 1 西部社区银行  0 STOCK
+170 US.CYS 1 "CYS Investments, Inc."  0 STOCK
+171 US.CZFC 1 "Citizens First Corp."  0 STOCK
+172 US.CZNC 1 市民北方  0 STOCK
+173 US.CZWI 1 "Citizens Community Bancorp, Inc. (Wisconsin)"  0 STOCK
+174 US.DB 1 德意志银行  0 STOCK
+175 US.DCOM 1 迪募社区银行  0 STOCK
+176 US.DD 1 杜邦  0 STOCK
+177 US.DELT 1 "Delta Technology Holdings Ltd."  0 STOCK
+178 US.DFS 1 发现金融  0 STOCK
+179 US.DHIL 1 "Diamond Hill Investment Group, Inc."  0 STOCK
+180 US.DNBF 1 DNB金融  0 STOCK
+181 US.EACQ 1 "Easterly Acquisition Corp."  0 STOCK
+182 US.EBMT 1 "Eagle Bancorp Montana, Inc."  0 STOCK
+183 US.EBSB 1 莫里迪恩洲际合众银行  0 STOCK
+184 US.EBTC 1 "Enterprise Bancorp, Inc."  0 STOCK
+185 US.ECPG 1 安可资本  0 STOCK
+186 US.EFSC 1 "Enterprise Financial Services Corp."  0 STOCK
+187 US.EGBN 1 伊格尔合众银行  0 STOCK
+188 US.EMCF 1 恩克莱尔金融  0 STOCK
+189 US.ENFC 1 "Entegra Financial Corp."  0 STOCK
+190 US.ENVA 1 "Enova International, Inc."  0 STOCK
+191 US.EQBK 1 "EQUITY BANCSHARES IN"  0 STOCK
+192 US.EQFN 1 "Equitable Financial Corp."  0 STOCK
+193 US.ESBK 1 埃尔迈拉储蓄银行  0 STOCK
+194 US.ESSA 1 萨万通金控  0 STOCK
+195 US.ESXB 1 "Community Bankers Trust Corp."  0 STOCK
+196 US.ETFC 1 亿创  0 STOCK
+197 US.EV 1 伊顿万斯  0 STOCK
+198 US.EVBN 1 埃文斯万通金控  0 STOCK
+199 US.EVBS 1 东维吉尼亚银行股份  0 STOCK
+200 US.EVR 1 永核伙伴  0 STOCK
+201 US.EWBC 1 华美  0 STOCK
+202 US.EZPW 1 艾茨克普  0 STOCK
+203 US.FBC 1 弗拉格斯塔万通金控  0 STOCK
+204 US.FBIZ 1 第一商业金融服务  0 STOCK
+205 US.FBMS 1 第一银行股份  0 STOCK
+206 US.FBNC 1 第一万能金控  0 STOCK
+207 US.FBNK 1 "First Connecticut Bancorp, Inc."  0 STOCK
+208 US.FBP 1 第一万能金控  0 STOCK
+209 US.FBRC 1 "FBR & Co"  0 STOCK
+210 US.FBSS 1 福基尔银行股份  0 STOCK
+211 US.FCAP 1 第一资本  0 STOCK
+212 US.FCB 1 "FCB Financial Holdings, Inc."  0 STOCK
+213 US.FCBC 1 第一社区银行股份  0 STOCK
+214 US.FCCO 1 第一社区  0 STOCK
+215 US.FCCY 1 第一机构银行  0 STOCK
+216 US.FCF 1 第一联邦金融  0 STOCK
+217 US.FCFP 1 "FIRST COMMUNITY FINL"  0 STOCK
+218 US.FCFS 1 第一富金融服务  0 STOCK
+219 US.FCNCA 1 第一公民银行股份  0 STOCK
+220 US.FDEF 1 第一迪法恩斯金融  0 STOCK
+221 US.FDUS 1 "Fidus Investment Corp."  0 STOCK
+222 US.FFBC 1 第一金融银行股份  0 STOCK
+223 US.FFIC 1 法拉盛金融  0 STOCK
+224 US.FFIN 1 第一金融银行股份  0 STOCK
+225 US.FFKT 1 "Farmers Capital Bank Corp."  0 STOCK
+226 US.FFNW 1 "First Financial Northwest, Inc."  0 STOCK
+227 US.FGBI 1 "First Guaranty Bancshares, Inc."  0 STOCK
+228 US.FHN 1 第一线国民银行  0 STOCK
+229 US.FIBK 1 "First Interstate BancSystem, Inc. (Montana)"  0 STOCK
+230 US.FIG 1 Fortress投资  0 STOCK
+231 US.FII 1 联邦投资  0 STOCK
+232 US.FISI 1 "Financial Institutions, Inc."  0 STOCK
+233 US.FITB 1 五三银行  0 STOCK
+234 US.FLIC 1 第一长岛  0 STOCK
+235 US.FMBH 1 "First Mid-Illinois Bancshares, Inc."  0 STOCK
+236 US.FMBI 1 第一中西部银行  0 STOCK
+237 US.FMNB 1 "Farmers National Banc Corp."  0 STOCK
+238 US.FNB 1 "F.N.B. Corp. (Pennsylvania)"  0 STOCK
+239 US.FNBC 1 "First NBC Bank Holding Company"  0 STOCK
+240 US.FNGN 1 "Financial Engines, Inc."  0 STOCK
+241 US.FNLC 1 第一万通金控  0 STOCK
+242 US.FNWB 1 "First Northwest Bancorp (Washington)"  0 STOCK
+243 US.FRBA 1 "First Bank (Hamilton, New Jersey)"  0 STOCK
+244 US.FRBK 1 共和国第一万通金控  0 STOCK
+245 US.FRC 1 "First Republic Bank San Francisc"  0 STOCK
+246 US.FRME 1 第一招商股份  0 STOCK
+247 US.FSB 1 "Franklin Financial Network, Inc."  0 STOCK
+248 US.FSBK 1 第一南方万通金控  0 STOCK
+249 US.FSBW 1 "FS Bancorp, Inc."  0 STOCK
+250 US.FSC 1 第五大道金融  0 STOCK
+251 US.FSFG 1 第一储蓄金融  0 STOCK
+252 US.FSFR 1 "Fifth Street Senior Floating Rate Corp."  0 STOCK
+253 US.FSIC 1 "FS Investment Corp."  0 STOCK
+254 US.FTAI 1 "Fortress Transportation & Infrastructure Investors LLC"  0 STOCK
+255 US.FULT 1 富尔顿金融  0 STOCK
+256 US.FUNC 1 马里兰第一联合  0 STOCK
+257 US.GABC 1 德美银行  0 STOCK
+258 US.GAIN 1 格拉德斯通投资  0 STOCK
+259 US.GARS 1 "Garrison Capital, Inc."  0 STOCK
+260 US.GBCI 1 冰川万通金控  0 STOCK
+261 US.GBDC 1 "Golub Capital BDC, Inc."  0 STOCK
+262 US.GBL 1 Gamco投资  0 STOCK
+263 US.GBNK 1 担保银行  0 STOCK
+264 US.GCAP 1 嘉盛集团股份有限公司  0 STOCK
+265 US.GCBC 1 格林县万通金控  0 STOCK
+266 US.GDOT 1 "Green Dot Corp."  0 STOCK
+267 US.GFED 1 GFED银行  0 STOCK
+268 US.GGAL 1 加利西亚金融  0 STOCK
+269 US.GHL 1 格林希尔事务所  0 STOCK
+270 US.GLAD 1 格拉德斯通资本  0 STOCK
+271 US.GLBR 1 "Global Brokerage, Inc."  0 STOCK
+272 US.GLBZ 1 格伦伯尼万通金控  0 STOCK
+273 US.GNBC 1 "Green Bancorp"  0 STOCK
+274 US.GPAC 1 "Global Partner Acquisition Corp."  0 STOCK
+275 US.GPN 1 环汇有限公司  0 STOCK
+276 US.GROW 1 美国全球投资者  0 STOCK
+277 US.GS 1 高盛  0 STOCK
+278 US.GSBC 1 南方万通金控  0 STOCK
+279 US.GSBD 1 "Goldman Sachs BDC, Inc."  0 STOCK
+280 US.GSVC 1 "GSV Capital Corp."  0 STOCK
+281 US.GWB 1 "Great Western Bancorp, Inc. (South Dakota)"  0 STOCK
+282 US.HAFC 1 韩美金融  0 STOCK
+283 US.HBAN 1 亨廷顿银行  0 STOCK
+284 US.HBCP 1 Home合众银行  0 STOCK
+285 US.HBHC 1 汉考克控股银行  0 STOCK
+286 US.HBK 1 "Hamilton Bancorp, Inc. (Maryland)"  0 STOCK
+287 US.HBMD 1 "Howard Bancorp, Inc. (Maryland)"  0 STOCK
+288 US.HBNC 1 哈里逊合众银行  0 STOCK
+289 US.HCAP 1 "Harvest Capital Credit Corp."  0 STOCK
+290 US.HDB 1 HDFC银行  0 STOCK
+291 US.HEOP 1 欧克斯赛银行  0 STOCK
+292 US.HFBC 1 HopFed银行  0 STOCK
+293 US.HFBL 1 "Home Federal Bancorp, Inc. of Louisiana"  0 STOCK
+294 US.HFWA 1 Heritage金融银行  0 STOCK
+295 US.HIFS 1 欣厄姆银行  0 STOCK
+296 US.HLI 1 "Houlihan Lokey, Inc."  0 STOCK
+297 US.HMNF 1 HMN金融  0 STOCK
+298 US.HMST 1 "HomeStreet, Inc."  0 STOCK
+299 US.HNNA 1 "Hennessy Advisors, Inc."  0 STOCK
+300 US.HOMB 1 "Home Bancshares, Inc. (Arkansas)"  0 STOCK
+301 US.HRG 1 哈宾格投资  0 STOCK
+302 US.HRZN 1 "Horizon Technology Finance Corp."  0 STOCK
+303 US.HSBC 1 汇丰控股  0 STOCK
+304 US.HTBI 1 "HomeTrust Bancshares, Inc."  0 STOCK
+305 US.HTBK 1 "Heritage Commerce Corp."  0 STOCK
+306 US.HTGC 1 海格投资  0 STOCK
+307 US.HTH 1 希尔托普控股  0 STOCK
+308 US.HTLF 1 哈特兰金融  0 STOCK
+309 US.HWBK 1 "Hawthorn Bancshares, Inc."  0 STOCK
+310 US.IBCP 1 独立银行  0 STOCK
+311 US.IBKC 1 "IBERIABANK Corp."  0 STOCK
+312 US.IBKR 1 盈透证券  0 STOCK
+313 US.IBN 1 印度工业信贷投资银行  0 STOCK
+314 US.IBOC 1 国际银行  0 STOCK
+315 US.IBTX 1 "Independent Bank Group, Inc."  0 STOCK
+316 US.ICBK 1 "COUNTY BANCORP  INC."  0 STOCK
+317 US.ICE 1 洲际交易所  0 STOCK
+318 US.IFMI 1 "Institutional Finance Markets"  0 STOCK
+319 US.INBK 1 "First Internet Bancorp"  0 STOCK
+320 US.INDB 1 美国独立银行  0 STOCK
+321 US.ING 1 荷兰国际  0 STOCK
+322 US.INTL 1 "INTL FCStone, Inc."  0 STOCK
+323 US.IROQ 1 "IF Bancorp, Inc."  0 STOCK
+324 US.ISBC 1 投资者银行  0 STOCK
+325 US.ISTR 1 "Investar Holding"  0 STOCK
+326 US.ITG 1 投资科技股份  0 STOCK
+327 US.ITUB 1 艾涛巴西联合银行  0 STOCK
+328 US.IVZ 1 美国景顺集团  0 STOCK
+329 US.IX 1 欧力士  0 STOCK
+330 US.JMP 1 "JMP Group LLC"  0 STOCK
+331 US.JNS 1 骏利资产管理  0 STOCK
+332 US.JP 1 钜派投资  0 STOCK
+333 US.JPM 1 摩根大通  0 STOCK
+334 US.JTPY 1 "JetPay Corp."  0 STOCK
+335 US.JXSB 1 "Jacksonville Bancorp, Inc. (Illinois)"  0 STOCK
+336 US.KB 1 韩国国民银行  0 STOCK
+337 US.KBSF 1 "KBS Fashion Group Ltd."  0 STOCK
+338 US.KCAP 1 科尔伯格资本  0 STOCK
+339 US.KEY 1 KeyCorp  0 STOCK
+340 US.KFFB 1 肯塔基第一银行  0 STOCK
+341 US.KKR 1 "KKR & Co. LP"  0 STOCK
+342 US.KRNY 1 卡尼金融储蓄  0 STOCK
+343 US.LARK 1 兰德马克银行  0 STOCK
+344 US.LAZ 1 "Lazard Ltd."  0 STOCK
+345 US.LBAI 1 拉扎德银行  0 STOCK
+346 US.LCNB 1 "LCNB Corp."  0 STOCK
+347 US.LIND 1 "Lindblad Expeditions Holdings, Inc."  0 STOCK
+348 US.LION 1 富达南方银行  0 STOCK
+349 US.LKFN 1 莱克兰金融  0 STOCK
+350 US.LM 1 美盛集团  0 STOCK
+351 US.LOAN 1 曼哈顿大桥投资股份  0 STOCK
+352 US.LOB 1 "LIVE OAK BANCSHARES, INC."  0 STOCK
+353 US.LPLA 1 "LPL投资控股 "  0 STOCK
+354 US.LSBG 1 "LAKE SUNAPEE BANK GROUP"  0 STOCK
+355 US.LSBK 1 莱克肖尔万通金控  0 STOCK
+356 US.LTS 1 "Ladenburg Thalmann Financial Services, Inc."  0 STOCK
+357 US.LTXB 1 "LegacyTexas Financial Group, Inc."  0 STOCK
+358 US.LYG 1 劳埃德  0 STOCK
+359 US.MA 1 万事达  0 STOCK
+360 US.MAIN 1 "Main Street Capital Corp."  0 STOCK
+361 US.MBCN 1 "Middlefield Banc Corp."  0 STOCK
+362 US.MBFI 1 MB金融  0 STOCK
+363 US.MBRG 1 米德尔堡金融  0 STOCK
+364 US.MBTF 1 "MBT Financial Corp."  0 STOCK
+365 US.MBVT 1 "Merchants Bancshares"  0 STOCK
+366 US.MBWM 1 莫肯特尔银行  0 STOCK
+367 US.MC 1 "Moelis & Co."  0 STOCK
+368 US.MCBC 1 "Macatawa Bank Corp."  0 STOCK
+369 US.MCC 1 "Medley Capital Corp."  0 STOCK
+370 US.MCO 1 穆迪  0 STOCK
+371 US.MDLY 1 "Medley Management, Inc."  0 STOCK
+372 US.MELR 1 "Melrose Bancorp, Inc."  0 STOCK
+373 US.MFC 1 宏利金融  0 STOCK
+374 US.MFG 1 瑞穗金融  0 STOCK
+375 US.MFNC 1 "Mackinac Financial Corp."  0 STOCK
+376 US.MFSF 1 "MutualFirst Financial, Inc."  0 STOCK
+377 US.MGI 1 速汇金国际  0 STOCK
+378 US.MGYR 1 "Magyar Bancorp, Inc."  0 STOCK
+379 US.MKTX 1 "MarketAxess Holdings, Inc."  0 STOCK
+380 US.MLVF 1 "Malvern Bancorp, Inc."  0 STOCK
+381 US.MN 1 "Manning & Napier, Inc."  0 STOCK
+382 US.MOFG 1 "MidWestOne Financial Group, Inc."  0 STOCK
+383 US.MORN 1 晨星信息  0 STOCK
+384 US.MPB 1 "Mid Penn Bancorp, Inc."  0 STOCK
+385 US.MRCC 1 "Monroe Capital Corp."  0 STOCK
+386 US.MRLN 1 "Marlin Business Services Corp."  0 STOCK
+387 US.MS 1 摩根士丹利  0 STOCK
+388 US.MSBF 1 "MSB Financial Corp."  0 STOCK
+389 US.MSCI 1 "MSCI, Inc."  0 STOCK
+390 US.MSFG 1 "MainSource Financial Group, Inc."  0 STOCK
+391 US.MTB 1 美国制商银行  0 STOCK
+392 US.MTG 1 "MGIC Investment Corp."  0 STOCK
+393 US.MTU 1 三菱日联金融  0 STOCK
+394 US.MVC 1 "MVC Capital, Inc."  0 STOCK
+395 US.NAVI 1 "Navient Corp"  0 STOCK
+396 US.NBHC 1 "National Bank Holdings Corp."  0 STOCK
+397 US.NBN 1 东北银行  0 STOCK
+398 US.NBTB 1 "NBT Bancorp Inc"  0 STOCK
+399 US.NCOM 1 "NATIONAL COMMERCE CORP"  0 STOCK
+400 US.NDAQ 1 纳斯达克OMX交易所  0 STOCK
+401 US.NEWS 1 "NewStar Financial, Inc."  0 STOCK
+402 US.NEWT 1 "Newtek Business Services Corp."  0 STOCK
+403 US.NFBK 1 "Northfield Bancorp, Inc. (New Jersey)"  0 STOCK
+404 US.NHLD 1 "National Holdings Corp."  0 STOCK
+405 US.NICK 1 "Nicholas Financial, Inc."  0 STOCK
+406 US.NKSH 1 "National Bankshares, Inc."  0 STOCK
+407 US.NMFC 1 "New Mountain Finance Corp."  0 STOCK
+408 US.NMR 1 野村控股  0 STOCK
+409 US.NNI 1 "Nelnet, Inc."  0 STOCK
+410 US.NOAH 1 诺亚财富  0 STOCK
+411 US.NRIM 1 "Northrim BanCorp, Inc."  0 STOCK
+412 US.NSAM 1 "NorthStar Asset Management Group, Inc."  0 STOCK
+413 US.NSM 1 "Nationstar Mortgage Holdings, Inc."  0 STOCK
+414 US.NTRS 1 北方信托公司  0 STOCK
+415 US.NWBI 1 "Northwest Bancshares, Inc. (Pennsylvania)"  0 STOCK
+416 US.NWFL 1 "Norwood Financial Corp."  0 STOCK
+417 US.NYCB 1 纽约社区银行集团  0 STOCK
+418 US.OCFC 1 "OceanFirst Financial Corp."  0 STOCK
+419 US.OCN 1 "Ocwen Financial Corp."  0 STOCK
+420 US.OFED 1 "Oconee Federal Financial Corp."  0 STOCK
+421 US.OFG 1 "OFG Bancorp"  0 STOCK
+422 US.OFS 1 "OFS Capital Corp."  0 STOCK
+423 US.OHAI 1 "OHA Investment Corp."  0 STOCK
+424 US.OKSB 1 "Southwest Bancorp"  0 STOCK
+425 US.OLBK 1 "Old Line Bancshares, Inc."  0 STOCK
+426 US.OMAM 1 "OM Asset Management Plc"  0 STOCK
+427 US.ONB 1 "Old National Bancorp"  0 STOCK
+428 US.ONDK 1 "On Deck Capital, Inc."  0 STOCK
+429 US.ONE 1 "Higher One Holdings"  0 STOCK
+430 US.OPB 1 "Opus Bank"  0 STOCK
+431 US.OPHC 1 "OptimumBank Holdings, Inc."  0 STOCK
+432 US.OPOF 1 "Old Point Financial Corp."  0 STOCK
+433 US.OPY 1 奥本海默控股  0 STOCK
+434 US.ORIT 1 "Oritani Financial Corp."  0 STOCK
+435 US.ORRF 1 "Orrstown Financial Services, Inc."  0 STOCK
+436 US.OSBC 1 "Old Second Bancorp, Inc."  0 STOCK
+437 US.OSHC 1 "Ocean Shore Holding Co (已退市)"  0 STOCK
+438 US.OVBC 1 俄亥俄河谷银行  0 STOCK
+439 US.OVLY 1 橡木谷银行  0 STOCK
+440 US.OZM 1 "Och-Ziff Capital Management Group LLC"  0 STOCK
+441 US.OZRK 1 "Bank of The Ozarks"  0 STOCK
+442 US.PAAC 1 "Pacific Special Acquisition Corp"  0 STOCK
+443 US.PACE 1 "Pace Holdings Corp"  0 STOCK
+444 US.PACW 1 "PacWest Bancorp"  0 STOCK
+445 US.PB 1 "Prosperity Bancshares, Inc."  0 STOCK
+446 US.PBCT 1 人联金融  0 STOCK
+447 US.PBHC 1 "Pathfinder Bancorp, Inc."  0 STOCK
+448 US.PBIB 1 "Porter Bancorp"  0 STOCK
+449 US.PBIP 1 宾夕法尼亚保德信  0 STOCK
+450 US.PBSK 1 "Poage Bankshares"  0 STOCK
+451 US.PCBK 1 "Pacific Continental Corporation (Ore)"  0 STOCK
+452 US.PEBK 1 北加利福尼亚国民银行  0 STOCK
+453 US.PEBO 1 "Peoples Bancorp, Inc. (Ohio)"  0 STOCK
+454 US.PFBC 1 保富银行  0 STOCK
+455 US.PFBI 1 "Premier Financial Bancorp, Inc."  0 STOCK
+456 US.PFBX 1 "Peoples Financial Corp. (Mississippi)"  0 STOCK
+457 US.PFIS 1 "Peoples Financial Services Corp."  0 STOCK
+458 US.PFLT 1 "PennantPark Floating Rate Capital Ltd."  0 STOCK
+459 US.PFMT 1 "Performant Financial Corp."  0 STOCK
+460 US.PFS 1 "Provident Financial Services, Inc."  0 STOCK
+461 US.PFSI 1 "PennyMac Financial Services, Inc."  0 STOCK
+462 US.PGC 1 "Peapack-Gladstone Financial Corp."  0 STOCK
+463 US.PHH 1 "PHH Corp."  0 STOCK
+464 US.PJC 1 派杰  0 STOCK
+465 US.PJT 1 "PJT Partners Inc. "  0 STOCK
+466 US.PKBK 1 帕克合众银行  0 STOCK
+467 US.PLBC 1 "Plumas Bancorp"  0 STOCK
+468 US.PMBC 1 太平洋商业合众银行  0 STOCK
+469 US.PMTS 1 "CPI CARD GROUP INC."  0 STOCK
+470 US.PNBK 1 爱国者国家合众银行  0 STOCK
+471 US.PNC 1 PNC金融  0 STOCK
+472 US.PNFP 1 "Pinnacle Financial Partners, Inc."  0 STOCK
+473 US.PNNT 1 "PennantPark Investment Corp."  0 STOCK
+474 US.PPBI 1 太平洋第一合众银行  0 STOCK
+475 US.PRK 1 "Park National Corp."  0 STOCK
+476 US.PROV 1 "Provident Financial Holdings, Inc."  0 STOCK
+477 US.PSEC 1 普罗斯佩克特资本  0 STOCK
+478 US.PSTB 1 "Park Sterling Corporation"  0 STOCK
+479 US.PUB 1 "PEOPLE'S UTAH BANCORP"  0 STOCK
+480 US.PVBC 1 "Provident Bancorp, Inc."  0 STOCK
+481 US.PVTB 1 私人银行  0 STOCK
+482 US.PWOD 1 "Penns Woods Bancorp, Inc."  0 STOCK
+483 US.PYDS 1 "Payment Data Systems, Inc."  0 STOCK
+484 US.PZN 1 "Pzena Investment Management, Inc."  0 STOCK
+485 US.QCRH 1 "QCR Holdings, Inc."  0 STOCK
+486 US.RAND 1 "Rand Capital Corp."  0 STOCK
+487 US.RBCAA 1 "Republic Bancorp, Inc. (Kentucky)"  0 STOCK
+488 US.RBPAA 1 宾夕法尼亚皇家银行  0 STOCK
+489 US.RBS 1 苏格兰皇家银行  0 STOCK
+490 US.RDN 1 "Radian Group Inc"  0 STOCK
+491 US.RF 1 地区金融  0 STOCK
+492 US.RILY 1 "B. Riley Financial, Inc."  0 STOCK
+493 US.RJF 1 瑞杰金融  0 STOCK
+494 US.RM 1 "Regional Management Corp."  0 STOCK
+495 US.RNST 1 "Renasant Corp."  0 STOCK
+496 US.RVSB 1 "Riverview Bancorp, Inc."  0 STOCK
+497 US.RY 1 加拿大皇家银行  0 STOCK
+498 US.SAL 1 "Salisbury Bancorp, Inc."  0 STOCK
+499 US.SAMG 1 "Silvercrest Asset Management Group, Inc."  0 STOCK
+500 US.SAN 1 桑坦德银行  0 STOCK
+501 US.SAR 1 "Saratoga Investment Corp."  0 STOCK
+502 US.SASR 1 "Sandy Spring Bancorp, Inc."  0 STOCK
+503 US.SBBX 1 苏塞克斯银行  0 STOCK
+504 US.SBCF 1 "Seacoast Banking Corp. of Florida"  0 STOCK
+505 US.SBCP 1 "Sunshine Bancorp, Inc."  0 STOCK
+506 US.SBFG 1 "SB Financial Group, Inc."  0 STOCK
+507 US.SBNY 1 "Signature Bank"  0 STOCK
+508 US.SBSI 1 "Southside Bancshares, Inc."  0 STOCK
+509 US.SC 1 "Santander Consumer USA Holdings, Inc."  0 STOCK
+510 US.SCHW 1 嘉信理财  0 STOCK
+511 US.SCM 1 "Stellus Capital Investment Corp."  0 STOCK
+512 US.SEIC 1 "SEI Investments Co."  0 STOCK
+513 US.SF 1 "Stifel Financial Corp."  0 STOCK
+514 US.SFBC 1 "Sound Financial Bancorp"  0 STOCK
+515 US.SFBS 1 "ServisFirst Bancshares"  0 STOCK
+516 US.SFE 1 安科投资  0 STOCK
+517 US.SFNC 1 "Simmons First National Corporati"  0 STOCK
+518 US.SFST 1 "Southern First Bancshares, Inc."  0 STOCK
+519 US.SGB 1 "Southwest Georgia Financial Corp."  0 STOCK
+520 US.SGBK 1 "Stonegate Bank"  0 STOCK
+521 US.SHBI 1 "Shore Bancshares, Inc."  0 STOCK
+522 US.SHG 1 新韩金融  0 STOCK
+523 US.SIEB 1 "Siebert Financial Corp."  0 STOCK
+524 US.SIFI 1 "SI Financial Group, Inc."  0 STOCK
+525 US.SIVB 1 硅谷银行  0 STOCK
+526 US.SLCT 1 "Select Bancorp, Inc."  0 STOCK
+527 US.SLM 1 学贷美  0 STOCK
+528 US.SLRC 1 "Solar Capital Ltd."  0 STOCK
+529 US.SMBC 1 "Southern Missouri Bancorp, Inc."  0 STOCK
+530 US.SMFG 1 三井住友金融  0 STOCK
+531 US.SMMF 1 "Summit Financial Group, Inc. (West Virginia)"  0 STOCK
+532 US.SNBC 1 "Sun Bancorp, Inc. (New Jersey)"  0 STOCK
+533 US.SNFCA 1 "Security National Financial Corp."  0 STOCK
+534 US.SNV 1 西诺乌斯金融  0 STOCK
+535 US.SONA 1 "Southern National Bancorp of Virginia, Inc."  0 STOCK
+536 US.SRCE 1 "1st Source Corp."  0 STOCK
+537 US.SSB 1 "South State Corp."  0 STOCK
+538 US.SSBI 1 "Summit State Bank (California)"  0 STOCK
+539 US.SSFN 1 "Stewardship Financial Corp."  0 STOCK
+540 US.STBA 1 "S&T Bancorp, Inc."  0 STOCK
+541 US.STBZ 1 "State Bank Financial Corp."  0 STOCK
+542 US.STI 1 太阳信托银行  0 STOCK
+543 US.STL 1 "Sterling Bancorp"  0 STOCK
+544 US.STT 1 道富银行  0 STOCK
+545 US.SUNS 1 "Solar Senior Capital Ltd."  0 STOCK
+546 US.SVBI 1 "Severn Bancorp, Inc."  0 STOCK
+547 US.SYBT 1 "Stock Yards Bancorp, Inc."  0 STOCK
+548 US.SYF 1 "Synchrony Financial"  0 STOCK
+549 US.TACO 1 "Del Taco Restaurants Inc"  0 STOCK
+550 US.TAX 1 "Liberty Tax, Inc."  0 STOCK
+551 US.TBBK 1 "The Bancorp, Inc. (Delaware)"  0 STOCK
+552 US.TBK 1 "Triumph Bancorp"  0 STOCK
+553 US.TBNK 1 "Territorial Bancorp, Inc."  0 STOCK
+554 US.TCAP 1 "Triangle Capital Corp."  0 STOCK
+555 US.TCB 1 "TCF Financial Corp"  0 STOCK
+556 US.TCBI 1 "Texas Capital Bancshares, Inc."  0 STOCK
+557 US.TCBK 1 "TriCo Bancshares"  0 STOCK
+558 US.TCFC 1 "The Community Financial Corp. (Maryland)"  0 STOCK
+559 US.TCPC 1 "TCP Capital Corp."  0 STOCK
+560 US.TCRD 1 "THL Credit, Inc."  0 STOCK
+561 US.TD 1 道明银行  0 STOCK
+562 US.TFSL 1 "TFS Financial Corp."  0 STOCK
+563 US.TGLS 1 "Tecnoglass, Inc."  0 STOCK
+564 US.THFF 1 "First Financial Corp. (Indiana)"  0 STOCK
+565 US.TICC 1 "TICC Capital Corp."  0 STOCK
+566 US.TINY 1 "Harris & Harris Group"  0 STOCK
+567 US.TMP 1 "Tompkins Financial Corp."  0 STOCK
+568 US.TOWN 1 TowneBank  0 STOCK
+569 US.TPVG 1 "TriplePoint Venture Growth BDC Corp."  0 STOCK
+570 US.TRCB 1 "Two River Bancorp"  0 STOCK
+571 US.TREE 1 "LendingTree, Inc."  0 STOCK
+572 US.TRMK 1 "Trustmark Corp."  0 STOCK
+573 US.TROW 1 罗派斯  0 STOCK
+574 US.TRST 1 "TrustCo Bank Corp. NY"  0 STOCK
+575 US.TRUP 1 "Trupanion, Inc."  0 STOCK
+576 US.TSBK 1 "Timberland Bancorp, Inc. (Washington)"  0 STOCK
+577 US.TSC 1 "TriState Capital Holdings, Inc."  0 STOCK
+578 US.TSLX 1 "TPG Specialty Lending, Inc."  0 STOCK
+579 US.UBCP 1 联合合众银行  0 STOCK
+580 US.UBFO 1 "United Security Bancshares (California)"  0 STOCK
+581 US.UBNK 1 "United Financial Bancorp, Inc."  0 STOCK
+582 US.UBOH 1 联合货币中心银行  0 STOCK
+583 US.UBS 1 瑞银  0 STOCK
+584 US.UBSH 1 "Union First Market Bankshares Co"  0 STOCK
+585 US.UBSI 1 联合银行  0 STOCK
+586 US.UCBA 1 "United Community Bancorp (Indiana)"  0 STOCK
+587 US.UCBI 1 "United Community Banks, Inc."  0 STOCK
+588 US.UCFC 1 "United Community Financial Corp."  0 STOCK
+589 US.UMBF 1 UMB金融  0 STOCK
+590 US.UMPQ 1 "Umpqua Holdings Corp."  0 STOCK
+591 US.UNB 1 联合银行  0 STOCK
+592 US.UNTY 1 联合银行  0 STOCK
+593 US.USB 1 美国合众银行  0 STOCK
+594 US.USBI 1 "United Security Bancshares (已退市)"  0 STOCK
+595 US.UVSP 1 宾夕法尼亚裕益银行  0 STOCK
+596 US.VBFC 1 农村金融信托银行  0 STOCK
+597 US.VBTX 1 "Veritex Holdings"  0 STOCK
+598 US.VIRT 1 "VIRTU FINANCIAL, INC."  0 STOCK
+599 US.VLY 1 硅谷国家银行  0 STOCK
+600 US.VOYA 1 """Voya Financial"  0 STOCK
+601 US.VRTS 1 "Virtus Investment Partners, Inc."  0 STOCK
+602 US.WABC 1 "Westamerica Bancorp"  0 STOCK
+603 US.WAFD 1 "Washington Federal, Inc."  0 STOCK
+604 US.WAL 1 "Western Alliance Bancorporation"  0 STOCK
+605 US.WASH 1 "Washington Trust Bancorp, Inc."  0 STOCK
+606 US.WAYN 1 "Wayne Savings Bancshares, Inc."  0 STOCK
+607 US.WBB 1 "Westbury Bancorp, Inc."  0 STOCK
+608 US.WBK 1 澳洲西洋银行  0 STOCK
+609 US.WBKC 1 "Wolverine Bancorp"  0 STOCK
+610 US.WBS 1 "Webster Financial Corp."  0 STOCK
+611 US.WD 1 "Walker & Dunlop, Inc."  0 STOCK
+612 US.WDR 1 "Waddell & Reed Financial Inc"  0 STOCK
+613 US.WEBK 1 "Wellesley Bancorp, Inc."  0 STOCK
+614 US.WETF 1 "WisdomTree Investments, Inc."  0 STOCK
+615 US.WF 1 韩国友利金融  0 STOCK
+616 US.WFBI 1 "WashingtonFirst Bankshares, Inc."  0 STOCK
+617 US.WFC 1 富国银行  0 STOCK
+618 US.WFD 1 "Westfield Financial (已退市)"  0 STOCK
+619 US.WHF 1 "WhiteHorse Finance, Inc."  0 STOCK
+620 US.WHG 1 "Westwood Holdings Group, Inc."  0 STOCK
+621 US.WPC 1 "W.P. Carey, Inc."  0 STOCK
+622 US.WRLD 1 "World Acceptance Corp."  0 STOCK
+623 US.WSBC 1 "WesBanco, Inc."  0 STOCK
+624 US.WSBF 1 "Waterstone Financial, Inc."  0 STOCK
+625 US.WSFS 1 "WSFS Financial Corp."  0 STOCK
+626 US.WTBA 1 "West Bancorp, Inc."  0 STOCK
+627 US.WTFC 1 "Wintrust Financial Corp."  0 STOCK
+628 US.WU 1 西联汇款  0 STOCK
+629 US.WVFC 1 "WVS Financial Corp."  0 STOCK
+630 US.XBKS 1 "Xenith Bankshares, Inc."  0 STOCK
+631 US.YDKN 1 "Yadkin Financial Corporation"  0 STOCK
+632 US.ZAIS 1 "ZAIS Group Holdings, Inc."  0 STOCK
+633 US.ZION 1 锡安银行  0 STOCK

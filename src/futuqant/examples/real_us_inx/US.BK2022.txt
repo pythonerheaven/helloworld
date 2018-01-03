@@ -1,0 +1,10 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.FBHS 1 "Fortune Brands Home & Security"  0 STOCK
+1 US.LBY 1 "Libbey, Inc."  0 STOCK
+2 US.LCUT 1 生活时光品牌家具  0 STOCK
+3 US.MIDD 1 "The Middleby Corp."  0 STOCK
+4 US.NPK 1 "National Presto Industries, Inc."  0 STOCK
+5 US.NTZ 1 纳图兹家具  0 STOCK
+6 US.SCSS 1 "Select Comfort Corporation"  0 STOCK
+7 US.SODA 1 "SodaStream International Ltd."  0 STOCK
+8 US.TUP 1 特百惠  0 STOCK

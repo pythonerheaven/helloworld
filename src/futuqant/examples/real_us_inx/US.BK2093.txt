@@ -1,0 +1,30 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AG 1 "First Majestic Silver Corp."  0 STOCK
+1 US.AGI 1 "Alamos Gold, Inc."  0 STOCK
+2 US.AKG 1 "Asanko Gold, Inc."  0 STOCK
+3 US.ASM 1 "Avino Silver & Gold Mines Ltd."  0 STOCK
+4 US.AUMN 1 黄金矿业公司  0 STOCK
+5 US.CCJ 1 "Cameco Corp."  0 STOCK
+6 US.CINR 1 "Ciner Resources LP"  0 STOCK
+7 US.DDC 1 "Dominion Diamond Corporation"  0 STOCK
+8 US.DNN 1 "Denison Mines Corp."  0 STOCK
+9 US.EGI 1 "Entr茅e Resources Ltd."  0 STOCK
+10 US.EMXX 1 "Eurasian Minerals Inc (已退市)"  0 STOCK
+11 US.EXK 1 "Endeavour Silver Corp."  0 STOCK
+12 US.FNV 1 "Franco Nevada Corp"  0 STOCK
+13 US.FSM 1 "Fortuna Silver Mines, Inc."  0 STOCK
+14 US.GPL 1 "Great Panther Silver Ltd."  0 STOCK
+15 US.IAG 1 "IAMGOLD Corp."  0 STOCK
+16 US.MDM 1 "Mountain Province Diamonds Inc (已退市)"  0 STOCK
+17 US.MGH 1 明科金矿公司  0 STOCK
+18 US.MTRN 1 "Materion Corp."  0 STOCK
+19 US.MVG 1 "MAG Silver Corp"  0 STOCK
+20 US.PAAS 1 泛美白银  0 STOCK
+21 US.PLG 1 "Platinum Group Metals Ltd."  0 STOCK
+22 US.PPP 1 "Primero Mining Corp"  0 STOCK
+23 US.PZG 1 "Paramount Gold Nevada Corp."  0 STOCK
+24 US.RIC 1 "Richmont Mines Inc"  0 STOCK
+25 US.SLW 1 "Silver Wheaton"  0 STOCK
+26 US.SSRI 1 "Silver Standard Resources Inc"  0 STOCK
+27 US.TAHO 1 太浩资源公司  0 STOCK
+28 US.XPL 1 "Solitario Zinc Corp."  0 STOCK

@@ -1,0 +1,64 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AM 1 美国贺卡公司  0 STOCK
+1 US.AMID 1 "American Midstream Partners LP"  0 STOCK
+2 US.APLP 1 "Archrock Partners LP"  0 STOCK
+3 US.ARCX 1 "Arc Logistics Partners LP"  0 STOCK
+4 US.AZUR 1 "Azure Midstream Partners, LP Common Units Limited Partnership"  0 STOCK
+5 US.BKEP 1 "BlueKnight Energy Partners LP LLC"  0 STOCK
+6 US.BPL 1 巴克艾  0 STOCK
+7 US.BWP 1 "Boardwalk Pipeline Partners LP"  0 STOCK
+8 US.CELP 1 "Cypress Energy Partners LP"  0 STOCK
+9 US.CNNX 1 "CONE Midstream Partners LP"  0 STOCK
+10 US.CQH 1 钱尼尔能源  0 STOCK
+11 US.CQP 1 "Cheniere Energy Partners LP"  0 STOCK
+12 US.DKL 1 "Delek Logistics Partners LP"  0 STOCK
+13 US.DM 1 多兰传媒  0 STOCK
+14 US.EEP 1 安桥能源合作伙伴  0 STOCK
+15 US.EEQ 1 安桥能源管理有限责任  0 STOCK
+16 US.ENB 1 安桥  0 STOCK
+17 US.ENBL 1 "Enable Midstream Partners LP"  0 STOCK
+18 US.ENLC 1 """EnLink Midstream"  0 STOCK
+19 US.ENLK 1 """EnLink Midstream Partners"  0 STOCK
+20 US.EPD 1 "Enterprise Products Partners L.P."  0 STOCK
+21 US.EQGP 1 "EQT GP Holdings LP"  0 STOCK
+22 US.EQM 1 "EQT Midstream Partners LP"  0 STOCK
+23 US.ETE 1 能源转换  0 STOCK
+24 US.ETP 1 "Energy Transfer Partners LP"  0 STOCK
+25 US.EXTN 1 "Exterran Corp."  0 STOCK
+26 US.GEL 1 "Genesis Energy LP"  0 STOCK
+27 US.GLNG 1 Golar海运  0 STOCK
+28 US.GLOP 1 "GasLog Partners LP"  0 STOCK
+29 US.HEP 1 霍利能源  0 STOCK
+30 US.KMI 1 金德尔摩根  0 STOCK
+31 US.LPG 1 "Dorian LPG Ltd."  0 STOCK
+32 US.MMP 1 麦哲伦油气  0 STOCK
+33 US.MPLX 1 "MPLX LP"  0 STOCK
+34 US.NAO 1 "Nordic Amern Offshore Ltd Ordinary Shares Reg S (Marshall Islands)"  0 STOCK
+35 US.NS 1 纽星能源  0 STOCK
+36 US.NSH 1 "NuStar GP Holdings LLC"  0 STOCK
+37 US.OKE 1 欧尼克(万欧卡)  0 STOCK
+38 US.OKS 1 欧尼克(万欧卡)合  0 STOCK
+39 US.PAA 1 "Plains All American Pipeline LP"  0 STOCK
+40 US.PAGP 1 "Plains Group Holdings L.P. Clas"  0 STOCK
+41 US.PATI 1 "Patriot Transportation Holding, Inc."  0 STOCK
+42 US.PBA 1 "Pembina Pipeline Corp."  0 STOCK
+43 US.PBFX 1 "PBF Logistics LP"  0 STOCK
+44 US.PSXP 1 "Phillips 66 Partners LP"  0 STOCK
+45 US.RMP 1 "Rice Midstream Partners LP"  0 STOCK
+46 US.SEP 1 "Spectra Energy Partners LP"  0 STOCK
+47 US.SHLX 1 "Shell Midstream Partners LP"  0 STOCK
+48 US.SMLP 1 "Summit Midstream Partners LP"  0 STOCK
+49 US.SRLP 1 "Sprague Resources LP"  0 STOCK
+50 US.SXE 1 史丹利  0 STOCK
+51 US.SXL 1 "Sunoco Logistics Partners L.P."  0 STOCK
+52 US.TCP 1 "TC Pipelines LP"  0 STOCK
+53 US.TEGP 1 "Tallgrass Energy GP LP"  0 STOCK
+54 US.TEP 1 "Tallgrass Energy Partners LP"  0 STOCK
+55 US.TLLP 1 "Tesoro Logistics LP"  0 STOCK
+56 US.TLP 1 "TransMontaigne Partners LP"  0 STOCK
+57 US.TRP 1 "TransCanada Corp."  0 STOCK
+58 US.UGP 1 "Ultrapar Participa莽oes SA"  0 STOCK
+59 US.USAC 1 "USA Compression Partners LP"  0 STOCK
+60 US.VLP 1 "Valero Energy Partners LP"  0 STOCK
+61 US.WNRL 1 "WESTERN REFINING LOGISTICS LP"  0 STOCK
+62 US.WPZ 1 "Williams Partners LP"  0 STOCK

@@ -1,0 +1,17 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ASTE 1 Astec实业  0 STOCK
+1 US.CIR 1 Circor国际  0 STOCK
+2 US.CW 1 寇蒂斯莱特  0 STOCK
+3 US.EXPO 1 毅博科技咨询  0 STOCK
+4 US.FLR 1 福陆  0 STOCK
+5 US.GE 1 通用电气  0 STOCK
+6 US.GFN 1 通用金融  0 STOCK
+7 US.HEES 1 HE设备服务  0 STOCK
+8 US.IEP 1 伊坎企业  0 STOCK
+9 US.JASN 1 "Jason Industries, Inc."  0 STOCK
+10 US.MMM 1 3M  0 STOCK
+11 US.NC 1 "NACCO Industries, Inc."  0 STOCK
+12 US.RAVN 1 "Raven Industries"  0 STOCK
+13 US.ROP 1 儒博实业  0 STOCK
+14 US.SEB 1 "Seaboard Corp."  0 STOCK
+15 US.TRS 1 瑞奇包装系统  0 STOCK

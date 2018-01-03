@@ -1,0 +1,14 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ARTNA 1 自流资源公司  0 STOCK
+1 US.AWK 1 美国水务  0 STOCK
+2 US.AWR 1 美洲国家水务  0 STOCK
+3 US.CDZI 1 加的斯  0 STOCK
+4 US.CTWS 1 "Connecticut Water Service, Inc."  0 STOCK
+5 US.CWCO 1 "Consolidated Water Co. Ltd."  0 STOCK
+6 US.CWT 1 "California Water Service Group"  0 STOCK
+7 US.MSEX 1 米德尔赛克斯水务公司  0 STOCK
+8 US.PCYO 1 "Pure Cycle Corp."  0 STOCK
+9 US.SBS 1 "Companhia de Saneamento Basico do Estado de Sao Paulo SABESP"  0 STOCK
+10 US.SJW 1 "SJW Group"  0 STOCK
+11 US.WTR 1 美国水务  0 STOCK
+12 US.YORW 1 "York Water Co."  0 STOCK

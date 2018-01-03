@@ -1,0 +1,13 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000626 100 远大控股  0 STOCK
+1 SZ.002133 100 广宇集团  0 STOCK
+2 SZ.002245 100 澳洋顺昌  0 STOCK
+3 SZ.002586 100 围海股份  0 STOCK
+4 SH.600232 100 金鹰股份  0 STOCK
+5 SH.600242 100 中昌数据  0 STOCK
+6 SH.600283 100 钱江水利  0 STOCK
+7 SH.600724 100 宁波富达  0 STOCK
+8 SH.600768 100 宁波富邦  0 STOCK
+9 SH.600798 100 宁波海运  0 STOCK
+10 SH.601018 100 宁波港  0 STOCK
+11 SH.601789 100 宁波建工  0 STOCK

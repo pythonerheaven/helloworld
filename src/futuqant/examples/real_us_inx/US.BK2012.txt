@@ -1,0 +1,30 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ABT 1 雅培  0 STOCK
+1 US.AERI 1 "Aerie Pharmaceuticals, Inc."  0 STOCK
+2 US.AKER 1 "Akers Biosciences, Inc."  0 STOCK
+3 US.AKRX 1 爱克龙药业  0 STOCK
+4 US.ALQA 1 "Alliqua BioMedical, Inc."  0 STOCK
+5 US.APT 1 "Alpha Pro Tech Ltd."  0 STOCK
+6 US.ATEC 1 ALPHATEC控股公司  0 STOCK
+7 US.ATRI 1 Atrion公司  0 STOCK
+8 US.CYTX 1 赛托瑞医疗  0 STOCK
+9 US.EXAC 1 精技医疗器械  0 STOCK
+10 US.FHCO 1 女性健康  0 STOCK
+11 US.JAGX 1 "Jaguar Animal Health"  0 STOCK
+12 US.LENS 1 "PRESBIA PLC"  0 STOCK
+13 US.LFVN 1 "LifeVantage Corp."  0 STOCK
+14 US.LUX 1 陆逊梯卡  0 STOCK
+15 US.MYOS 1 "MYOS RENS Technology Inc."  0 STOCK
+16 US.NEOG 1 纽尔真检测  0 STOCK
+17 US.NURO 1 "NeuroMetrix, Inc."  0 STOCK
+18 US.OCLS 1 "Oculus Innovative Sciences (已退市)"  0 STOCK
+19 US.OFIX 1 "Orthofix International NV"  0 STOCK
+20 US.OSUR 1 奥瑞许科技  0 STOCK
+21 US.QDEL 1 "Quidel Corp."  0 STOCK
+22 US.RVP 1 "Retractable Technologies, Inc."  0 STOCK
+23 US.STAA 1 "STAAR Surgical Co."  0 STOCK
+24 US.TNDM 1 "Tandem Diabetes Care, Inc."  0 STOCK
+25 US.UNIS 1 "Unilife Corporation"  0 STOCK
+26 US.USNA 1 优莎娜  0 STOCK
+27 US.WST 1 "West Pharmaceutical Services, Inc."  0 STOCK
+28 US.XRAY 1 登士柏国际  0 STOCK

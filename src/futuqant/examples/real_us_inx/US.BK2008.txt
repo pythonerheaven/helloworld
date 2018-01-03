@@ -1,0 +1,19 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AHC 1 AH贝罗  0 STOCK
+1 US.DJCO 1 "Daily Journal Corp."  0 STOCK
+2 US.EDUC 1 "Educational Development Corp."  0 STOCK
+3 US.GCI 1 甘尼特  0 STOCK
+4 US.LEE 1 李氏企业  0 STOCK
+5 US.MDP 1 梅瑞狄斯  0 STOCK
+6 US.MNI 1 麦克拉奇报业  0 STOCK
+7 US.NEWM 1 "New Media Investment Group, Inc."  0 STOCK
+8 US.NWS 1 新闻集团  0 STOCK
+9 US.NWSA 1 新闻集团  0 STOCK
+10 US.NYT 1 纽约时报  0 STOCK
+11 US.RELX 1 "RELX Plc"  0 STOCK
+12 US.RENX 1 "RELX NV"  0 STOCK
+13 US.SCHL 1 学乐集团  0 STOCK
+14 US.TGNA 1 "TEGNA, Inc."  0 STOCK
+15 US.TIME 1 "Time, Inc."  0 STOCK
+16 US.TRI 1 汤森路透  0 STOCK
+17 US.VALU 1 "Value Line, Inc."  0 STOCK

@@ -1,0 +1,8 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.300500 100 启迪设计  0 STOCK
+1 SH.600170 100 上海建工  0 STOCK
+2 SH.600491 100 龙元建设  0 STOCK
+3 SH.600939 100 重庆建工  0 STOCK
+4 SH.601668 100 中国建筑  0 STOCK
+5 SH.601789 100 宁波建工  0 STOCK
+6 SH.603887 100 城地股份  0 STOCK

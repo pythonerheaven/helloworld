@@ -1,0 +1,10 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000430 100 张家界  0 STOCK
+1 SZ.000888 100 峨眉山A  0 STOCK
+2 SZ.000978 100 桂林旅游  0 STOCK
+3 SZ.002858 100 力盛赛车  0 STOCK
+4 SZ.300144 100 宋城演艺  0 STOCK
+5 SH.600054 100 黄山旅游  0 STOCK
+6 SH.600593 100 大连圣亚  0 STOCK
+7 SH.603099 100 长白山  0 STOCK
+8 SH.603199 100 九华旅游  0 STOCK

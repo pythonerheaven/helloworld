@@ -1,0 +1,53 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ACXM 1 阿克西鄂姆  0 STOCK
+1 US.ASUR 1 "Asure Software, Inc."  0 STOCK
+2 US.BVSN 1 宏道资讯  0 STOCK
+3 US.CACI 1 CACI国际  0 STOCK
+4 US.CBR 1 赛博科技  0 STOCK
+5 US.CLGX 1 "CoreLogic, Inc."  0 STOCK
+6 US.CPSI 1 "Computer Programs & Systems, Inc."  0 STOCK
+7 US.CRTN 1 "Cartesian, Inc."  0 STOCK
+8 US.CSPI 1 "CSP, Inc."  0 STOCK
+9 US.CTG 1 "Computer Task Group, Inc."  0 STOCK
+10 US.DGI 1 "DigitalGlobe Inc"  0 STOCK
+11 US.DST 1 DST系统  0 STOCK
+12 US.EDGW 1 厄奇沃特科技  0 STOCK
+13 US.EVOL 1 "Evolving Systems, Inc."  0 STOCK
+14 US.GIB 1 "CGI Group, Inc."  0 STOCK
+15 US.GVP 1 "GSE Systems, Inc."  0 STOCK
+16 US.HMNY 1 "Helios & Matheson Analytics, Inc."  0 STOCK
+17 US.IBM 1 "IBM Corp"  0 STOCK
+18 US.IIJI 1 首创网络  0 STOCK
+19 US.INFY 1 印孚瑟斯  0 STOCK
+20 US.IRM 1 爱恩铁山  0 STOCK
+21 US.ISSC 1 创新软件  0 STOCK
+22 US.IT 1 加特纳  0 STOCK
+23 US.JRJC 1 金融界  0 STOCK
+24 US.KEYS 1 "Keysight Technologies, Inc."  0 STOCK
+25 US.KEYW 1 KEYW控股  0 STOCK
+26 US.KFRC 1 K力  0 STOCK
+27 US.LOGM 1 大家来网络  0 STOCK
+28 US.LPSN 1 "LivePerson, Inc."  0 STOCK
+29 US.LUNA 1 "Luna Innovations, Inc."  0 STOCK
+30 US.MANH 1 曼哈顿联合软件  0 STOCK
+31 US.MANT 1 美泰科技  0 STOCK
+32 US.MDSY 1 "ModSys International Ltd. - Ordinary Shares"  0 STOCK
+33 US.MGIC 1 "Magic Software Enterprises Ltd."  0 STOCK
+34 US.NICE 1 "NICE Ltd"  0 STOCK
+35 US.OOMA 1 "Ooma, Inc."  0 STOCK
+36 US.OTEX 1 "Open Text Corp."  0 STOCK
+37 US.PRCP 1 "Perceptron, Inc."  0 STOCK
+38 US.PRFT 1 "Perficient, Inc."  0 STOCK
+39 US.QSII 1 "Quality Systems, Inc."  0 STOCK
+40 US.RMGN 1 "RMG Networks Holding Corp."  0 STOCK
+41 US.SABR 1 "Sabre Corporation"  0 STOCK
+42 US.SAIC 1 "Science Applications International Corp."  0 STOCK
+43 US.SSTK 1 "Shutterstock, Inc."  0 STOCK
+44 US.TISA 1 "Top Image Systems Ltd."  0 STOCK
+45 US.TYL 1 泰勒科技  0 STOCK
+46 US.TZOO 1 "Travelzoo Inc."  0 STOCK
+47 US.UIS 1 优利系统  0 STOCK
+48 US.VRNT 1 "Verint Systems, Inc."  0 STOCK
+49 US.VRTU 1 "Virtusa Corp."  0 STOCK
+50 US.WYY 1 "WidePoint Corp."  0 STOCK
+51 US.ZEN 1 "Zendesk, Inc."  0 STOCK

@@ -1,0 +1,8 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.CJJD 1 九洲大药房  0 STOCK
+1 US.CVS 1 CVS健康  0 STOCK
+2 US.ENZY 1 "Enzymotec Ltd."  0 STOCK
+3 US.ESRX 1 快捷药方  0 STOCK
+4 US.PETS 1 "PetMed Express, Inc."  0 STOCK
+5 US.RAD 1 来德爱  0 STOCK
+6 US.WBA 1 "Walgreens Boots Alliance, Inc."  0 STOCK

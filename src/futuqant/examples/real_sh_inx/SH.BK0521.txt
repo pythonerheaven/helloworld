@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000606 100 神州易桥  0 STOCK
+1 SZ.000792 100 盐湖股份  0 STOCK
+2 SZ.002646 100 青青稞酒  0 STOCK
+3 SH.600117 100 西宁特钢  0 STOCK
+4 SH.600243 100 青海华鼎  0 STOCK
+5 SH.600381 100 青海春天  0 STOCK
+6 SH.600714 100 金瑞矿业  0 STOCK
+7 SH.600771 100 广誉远  0 STOCK
+8 SH.600869 100 智慧能源  0 STOCK
+9 SH.601168 100 西部矿业  0 STOCK

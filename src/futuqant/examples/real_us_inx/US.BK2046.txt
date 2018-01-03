@@ -1,0 +1,13 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.CLUB 1 "Town Sports International Holdings, Inc."  0 STOCK
+1 US.DVD 1 多佛赛车  0 STOCK
+2 US.FUN 1 雪松娱乐  0 STOCK
+3 US.ISCA 1 国际赛道  0 STOCK
+4 US.ISLE 1 卡普里岛赌场  0 STOCK
+5 US.MSG 1 麦迪逊花园  0 STOCK
+6 US.MSGN 1 "MSG Networks, Inc."  0 STOCK
+7 US.PLNT 1 "Planet Fitness, Inc."  0 STOCK
+8 US.RICK 1 "RCI Hospitality Holdings, Inc."  0 STOCK
+9 US.SEAS 1 "SeaWorld Entertainment, Inc."  0 STOCK
+10 US.SIX 1 "Six Flags Entertainment Corp."  0 STOCK
+11 US.TRK 1 "Speedway Motorsports, Inc."  0 STOCK

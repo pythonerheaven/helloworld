@@ -1,0 +1,7 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00285 500 比亚迪电子  0 STOCK
+1 HK.00729 5000 五龙电动车  0 STOCK
+2 HK.00819 2000 天能动力  0 STOCK
+3 HK.00951 1000 超威动力  0 STOCK
+4 HK.01043 2000 光宇国际集团科技  0 STOCK
+5 HK.01211 500 比亚迪股份  0 STOCK

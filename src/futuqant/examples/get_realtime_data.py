@@ -61,7 +61,7 @@ def _example_cur_kline(quote_ctx):
 
     for code in stock_code_list:
         for ktype in ["K_DAY", "K_1M", "K_5M"]:
-            ret_code, ret_data = quote_ctx.get_cur_kline(code, 5, ktype)
+            ret_code, ret_data = quote_ctx.get_cur_kline(code, 15, ktype)
             if ret_code == RET_ERROR:
                 print(code, ktype, ret_data)
                 exit()
@@ -183,24 +183,26 @@ def _example_plate_subplate(quote_ctx):
     """
     获取板块集合下的子板块列表，输出 市场，板块分类,板块代码，名称，ID
     """
-    ret_status, ret_data = quote_ctx.get_plate_list("SZ", "ALL")
+    ret_status, ret_data = quote_ctx.get_plate_list("HK", "ALL")
     if ret_status == RET_ERROR:
         print(ret_data)
         exit()
     print("plate_subplate")
     print(ret_data)
+    ret_data.to_csv('HK_ALL' + '.txt', index=True, sep=' ', columns=['code', 'plate_name', 'plate_id'])
+    return ret_status, ret_data
 
-
-def _example_plate_stock(quote_ctx):
+def _example_plate_stock(quote_ctx,code):
     """
     获取板块下的股票列表，输出 市场，股票每手，股票名称，所属市场，子类型，股票类型
     """
-    ret_status, ret_data = quote_ctx.get_plate_stock("SH.BK0531")
+    ret_status, ret_data = quote_ctx.get_plate_stock(code)
     if ret_status == RET_ERROR:
         print(ret_data)
         exit()
     print("plate_stock")
     print(ret_data)
+    return ret_status, ret_data
 
 
 def _example_broker_queue(quote_ctx):
@@ -240,15 +242,25 @@ if __name__ == "__main__":
     quote_context = OpenQuoteContext(host='10.242.103.18', port=11111)
 
     # 获取实时数据
-    _example_stock_quote(quote_context)
-    _example_get_market_snapshot(quote_context)
-    _example_cur_kline(quote_context)
-    _example_rt_ticker(quote_context)
-    _example_order_book(quote_context)
-    _example_get_trade_days(quote_context)
-    _example_stock_basic(quote_context)
-    _example_rt_data(quote_context)
-    _example_plate_subplate(quote_context)
-    _example_plate_stock(quote_context)
-    _example_broker_queue(quote_context)
-    _example_global_state(quote_context)
+    # _example_stock_quote(quote_context)
+    # _example_get_market_snapshot(quote_context)
+    # _example_cur_kline(quote_context)
+    # _example_rt_ticker(quote_context)
+    # _example_order_book(quote_context)
+    #_example_get_trade_days(quote_context)
+    # _example_stock_basic(quote_context)
+    # _example_rt_data(quote_context)
+
+    # ret, data = _example_plate_subplate(quote_context)
+    # if ret == 0 :
+    #     for indexs in data.index:
+    #         print(data.loc[indexs].values[0])
+    #         print(data.loc[indexs].values[1])
+    #         r1, d1 = _example_plate_stock(quote_context,data.loc[indexs].values[0])
+    #         if r1 == 0 :
+    #             d1.to_csv(data.loc[indexs].values[0]+'.txt', index=True, sep=' ', columns=['code', 'lot_size','stock_name','owner_market','stock_child_type','stock_type'])
+    #
+
+    # _example_plate_stock(quote_context,'SH.BK0531')
+    # _example_broker_queue(quote_context)
+    # _example_global_state(quote_context)
