@@ -5,6 +5,7 @@ import datetime
 
 from futuquant import OpenQuoteContext
 from futuquant import OpenHKTradeContext, OpenUSTradeContext
+import pandas as pd
 
 
 class MACD(object):
@@ -15,15 +16,15 @@ class MACD(object):
     api_svr_ip = '10.242.103.18'   # 账户登录的牛牛客户端PC的IP, 本机默认为127.0.0.1
     api_svr_port = 11111            # 富途牛牛端口，默认为11111
     unlock_password = "550517"      # 美股和港股交易解锁密码
-    trade_env = 1                   # 0: 真实交易 1: 仿真交易（仿真交易无密码验证，美股暂不支持仿真）
+    trade_env = 0                   # 0: 真实交易 1: 仿真交易（仿真交易无密码验证，美股暂不支持仿真）
 
     def __init__(self, stock, short_period, long_period, smooth_period, observation):
         """
         Constructor
         """
         self.stock = stock
-        self.short_period = long_period
-        self.long_period = short_period
+        self.short_period = short_period
+        self.long_period = long_period
         self.smooth_period = smooth_period
         self.observation = observation
         self.quote_ctx, self.trade_ctx = self.context_setting()
@@ -64,15 +65,25 @@ class MACD(object):
         pre_day = (today - datetime.timedelta(days=self.observation)).strftime('%Y-%m-%d')
         _, prices = self.quote_ctx.get_history_kline(self.stock, start=pre_day)
 
+
         # 用talib计算MACD取值，得到三个时间序列数组，分别为 macd, signal 和 hist
         # macd 是长短均线的差值，signal 是 macd 的均线
         # 使用 macd 策略有几种不同的方法，我们这里采用 macd 线突破 signal 线的判断方法
+        #output = talib.MACD(prices['close'].values,self.short_period, self.long_period, self.smooth_period)
+        #print(output)
+
         macd, signal, hist = talib.MACD(prices['close'].values, self.short_period, self.long_period, self.smooth_period)
 
+        print(macd)
+        print(signal)
+        print(hist)
         # 如果macd从上往下跌破macd_signal
         if macd[-1] < signal[-1] and macd[-2] > signal[-2]:
             # 计算现在portfolio中股票的仓位
             ret_code, data = self.trade_ctx.position_list_query(envtype=self.trade_env)
+            if ret_code != 0 :
+                print(data)
+
             pos_info = data.set_index('code')
             if ret_code != 0:
                 raise Exception('账户信息获取失败! 请重试: {}'.format(pos_info))
@@ -115,13 +126,21 @@ class MACD(object):
             else:
                 print('stop_loss: MAKE BUY ORDER FAILURE: {}'.format(ret_data))
 
+def read_file(market):
+    data = pd.read_csv("./all_stocks/ALL_" + market + ".txt", sep=' ', names=['code'])
+    return data
+
 if __name__ == "__main__":
     SHORT_PERIOD = 12
     LONG_PERIOD = 26
     SMOOTH_PERIOD = 9
-    OBSERVATION = 100
+    OBSERVATION = 150
 
-    STOCK = "US.NTES"
 
-    test = MACD(STOCK, SHORT_PERIOD, LONG_PERIOD, SMOOTH_PERIOD, OBSERVATION)
-    test.handle_data()
+    data = read_file('US')
+    for indexs in data.index:
+        code = data.loc[indexs].values[0]
+        print(code)
+
+        test = MACD(code, SHORT_PERIOD, LONG_PERIOD, SMOOTH_PERIOD, OBSERVATION)
+        test.handle_data()
