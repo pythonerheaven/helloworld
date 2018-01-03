@@ -6794,7 +6794,7 @@ for item in stocks:
     print(url)
 
     try:
-        sinanews.get_page(url)
+        sinanews.get_page(item,url)
         items = sinanews.get_item_array()
         mongodbutil.insertItems(items)
 

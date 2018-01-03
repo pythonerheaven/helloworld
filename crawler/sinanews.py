@@ -7,7 +7,7 @@ class Sinanews(object):
     def __init__(self):
         self.itemArray = []
 
-    def get_page(self,url):
+    def get_page(self,code,url):
         self.itemArray = []
         res = requests.get(url)
         res.encoding = "gbk"
@@ -17,6 +17,7 @@ class Sinanews(object):
             elems = contentSoup.select('.xb_list > li')
             for elem in elems:
                 json = {}
+                json['code'] = code
                 ele = elem.select('.xb_list_r')
                 json['date'] = ele[0].getText().split('|')[1]
                 s = json['date']
