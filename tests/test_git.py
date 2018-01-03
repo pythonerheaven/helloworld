@@ -33,3 +33,6 @@ chart.x_labels = names
 
 chart.add('',stars)
 chart.render_to_file('java_repos.svg')
+
+
+print(__name__)
