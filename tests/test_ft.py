@@ -2,7 +2,7 @@
 import futuquant as ft
 
 # 实例化行情上下文对象
-quote_ctx = ft.OpenQuoteContext(host="10.240.154.201", port=11111)
+quote_ctx = ft.OpenQuoteContext(host="127.0.0.1", port=11111)
 
 # 上下文控制
 quote_ctx.start()              # 开启异步数据接收
@@ -28,10 +28,10 @@ quote_ctx.get_broker_queue(code)     # 获取经纪队列
 
 
 # 实例化港股交易上下文对象
-trade_hk_ctx = ft.OpenHKTradeContext(host="10.240.154.201", port=11111)
+trade_hk_ctx = ft.OpenHKTradeContext(host="127.0.0.1", port=11111)
 
 # 实例化美股交易上下文对象
-trade_us_ctx = ft.OpenUSTradeContext(host="10.240.154.201", port=11111)
+trade_us_ctx = ft.OpenUSTradeContext(host="127.0.0.1", port=11111)
 
 # 交易接口列表
 ret_code, ret_data = trade_hk_ctx.unlock_trade(password='123456')                # 解锁接口
