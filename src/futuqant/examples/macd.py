@@ -12,9 +12,9 @@ class MACD(object):
     A simple MACD strategy
     """
     # API parameter setting
-    api_svr_ip = '119.29.141.202'   # 账户登录的牛牛客户端PC的IP, 本机默认为127.0.0.1
+    api_svr_ip = '10.242.103.18'   # 账户登录的牛牛客户端PC的IP, 本机默认为127.0.0.1
     api_svr_port = 11111            # 富途牛牛端口，默认为11111
-    unlock_password = "123456"      # 美股和港股交易解锁密码
+    unlock_password = "550517"      # 美股和港股交易解锁密码
     trade_env = 1                   # 0: 真实交易 1: 仿真交易（仿真交易无密码验证，美股暂不支持仿真）
 
     def __init__(self, stock, short_period, long_period, smooth_period, observation):
@@ -47,8 +47,8 @@ class MACD(object):
                 else:
                     print("请求交易解锁失败, 请确认解锁密码! password: {}".format(self.unlock_password))
         elif 'US.' in self.stock:
-            if self.trade_env != 0:
-                raise Exception("美股交易接口不支持仿真环境 trade_env: {}".format(self.trade_env))
+            # if self.trade_env != 0:
+            #     raise Exception("美股交易接口不支持仿真环境 trade_env: {}".format(self.trade_env))
             trade_ctx = OpenUSTradeContext(host=self.api_svr_ip, port=self.api_svr_port)
         else:
             raise Exception("stock输入错误 stock: {}".format(self.stock))
@@ -121,7 +121,7 @@ if __name__ == "__main__":
     SMOOTH_PERIOD = 9
     OBSERVATION = 100
 
-    STOCK = "HK.00700"
+    STOCK = "US.NTES"
 
     test = MACD(STOCK, SHORT_PERIOD, LONG_PERIOD, SMOOTH_PERIOD, OBSERVATION)
     test.handle_data()
