@@ -2,6 +2,8 @@
 import talib
 import math
 import datetime
+import random
+import time
 
 from futuquant import OpenQuoteContext
 from futuquant import OpenHKTradeContext, OpenUSTradeContext
@@ -48,19 +50,25 @@ class MACD(object):
                 else:
                     print("请求交易解锁失败, 请确认解锁密码! password: {}".format(self.unlock_password))
         elif 'US.' in self.stock:
-            # if self.trade_env != 0:
-            #     raise Exception("美股交易接口不支持仿真环境 trade_env: {}".format(self.trade_env))
             trade_ctx = OpenUSTradeContext(host=self.api_svr_ip, port=self.api_svr_port)
+            if self.trade_env != 0:
+                raise Exception("美股交易接口不支持仿真环境 trade_env: {}".format(self.trade_env))
+            ret_code, ret_data = trade_ctx.unlock_trade(self.unlock_password)
+            if ret_code == 0:
+                print('解锁交易成功')
+            else:
+                print("请求交易解锁失败，请确认解锁密码！password:{}".format(self.unlock_password))
         else:
             raise Exception("stock输入错误 stock: {}".format(self.stock))
 
         return quote_ctx, trade_ctx
 
-    def handle_data(self):
+    def handle_data(self,stock):
         """
         handle stock data for trading signal, and make order
         """
         # 读取历史数据，使用sma方式计算均线准确度和数据长度无关，但是在使用ema方式计算均线时建议将历史数据窗口适当放大，结果会更加准确
+        self.stock = stock
         today = datetime.datetime.today()
         pre_day = (today - datetime.timedelta(days=self.observation)).strftime('%Y-%m-%d')
         _, prices = self.quote_ctx.get_history_kline(self.stock, start=pre_day)
@@ -72,11 +80,13 @@ class MACD(object):
         #output = talib.MACD(prices['close'].values,self.short_period, self.long_period, self.smooth_period)
         #print(output)
 
+        if len(prices['close'].values) == 0:
+            print(prices['close'].values)
+            print('len(prices[\'close\'].values) == 0')
+            return
+
         macd, signal, hist = talib.MACD(prices['close'].values, self.short_period, self.long_period, self.smooth_period)
 
-        print(macd)
-        print(signal)
-        print(hist)
         # 如果macd从上往下跌破macd_signal
         if macd[-1] < signal[-1] and macd[-2] > signal[-2]:
             # 计算现在portfolio中股票的仓位
@@ -87,7 +97,7 @@ class MACD(object):
             pos_info = data.set_index('code')
             if ret_code != 0:
                 raise Exception('账户信息获取失败! 请重试: {}'.format(pos_info))
-            cur_pos = int(pos_info['qty'][self.stock])
+            cur_pos = self.find_cur_pos(pos_info,self.stock)
             # 进行清仓
             if cur_pos > 0:
                 ret_code, data = self.quote_ctx.get_market_snapshot([self.stock])
@@ -126,6 +136,13 @@ class MACD(object):
             else:
                 print('stop_loss: MAKE BUY ORDER FAILURE: {}'.format(ret_data))
 
+    def find_cur_pos(self,posarr,code):
+        for indexs in posarr.index:
+            if posarr.loc[indexs].name == code :
+                return int(posarr.loc[indexs].qty)
+        return 0
+
+
 def read_file(market):
     data = pd.read_csv("./all_stocks/ALL_" + market + ".txt", sep=' ', names=['code'])
     return data
@@ -137,10 +154,14 @@ if __name__ == "__main__":
     OBSERVATION = 150
 
 
+    stock = 'US.APPL'
+    #first to unlock
+    test = MACD(stock, SHORT_PERIOD, LONG_PERIOD, SMOOTH_PERIOD, OBSERVATION)
+
     data = read_file('US')
     for indexs in data.index:
         code = data.loc[indexs].values[0]
         print(code)
 
-        test = MACD(code, SHORT_PERIOD, LONG_PERIOD, SMOOTH_PERIOD, OBSERVATION)
-        test.handle_data()
+        test.handle_data(code)
+        time.sleep(2*random.random())
