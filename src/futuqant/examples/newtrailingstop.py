@@ -243,11 +243,11 @@ def trailing_stop(api_svr_ip='127.0.0.1', api_svr_port=11111, unlock_password=""
 
 if __name__ == '__main__':
     # 全局参数配置
-    API_SVR_IP = '119.29.141.202'
+    API_SVR_IP = '10.242.103.18'
     API_SVR_PORT = 11111
-    UNLOCK_PASSWORD = "a"
-    CODE = 'HK.00700'  # 'US.BABA' #'HK.00700'
-    TRADE_ENV = 1
+    UNLOCK_PASSWORD = "550517"
+    CODE = 'US.QD'  # 'US.BABA' #'HK.00700'
+    TRADE_ENV = 0
     METHOD = 0
     DROP = 0.2
     VOLUME = 0
@@ -257,7 +257,7 @@ if __name__ == '__main__':
 
     # 邮件通知参数
     ENABLE_EMAIL_NOTIFICATION = True
-    RECEIVER = 'your receive email'
+    RECEIVER = 'hujb2000@163.com'
 
     trailing_stop(API_SVR_IP, API_SVR_PORT, UNLOCK_PASSWORD, CODE, TRADE_ENV, METHOD, DROP,
                   VOLUME, HOW_TO_SELL, DIFF, REST_TIME, ENABLE_EMAIL_NOTIFICATION, RECEIVER)
