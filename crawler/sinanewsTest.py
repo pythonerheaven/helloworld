@@ -5,6 +5,7 @@ import random
 import re
 import requests
 import pandas as pd
+import datetime
 
 sinanews = Sinanews()
 mongodbutil = Mongodbutil('10.173.32.123',27017,'sinanews')
@@ -27,23 +28,24 @@ def generate_url(market,code):
     else :
         return "url not found"
 
+print('Starting time: {}'.format(datetime.datetime.now()))
+
 for market in MARKET:
     data = read_file(market)
     for indexs in data.index:
         code = data.loc[indexs].values[0][3:]
-        print(code)
         url = generate_url(market,code)
-        print(url)
+        print('Current Time:{}, code:{}, url:{}'.format(datetime.datetime.now(),code,url))
 
         try:
             sinanews.get_page(code,url)
             items = sinanews.get_item_array()
             mongodbutil.insertItems(items)
 
-            time.sleep(2*random.random())
+            time.sleep(4*random.random())
         except Exception as err:
-            time.sleep(2 * random.random())
+            time.sleep(4 * random.random())
             print(err)
 
-
+print('Ending time: {}'.format(datetime.datetime.now()))
 #sinanews.get_content('http://www.capitalcube.com/blog/index.php/etfs-with-exposure-to-agilent-technologies-inc-december-26-2017/?yptr=yahoo')

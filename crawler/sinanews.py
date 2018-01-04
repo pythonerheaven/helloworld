@@ -10,7 +10,7 @@ class Sinanews(object):
 
     def get_page(self,code,url):
         self.itemArray = []
-        res = requests.get(url)
+        res = requests.get(url,timeout=10)
         res.encoding = "gbk"
         res.raise_for_status()
         if res.status_code == 200 :
@@ -22,13 +22,12 @@ class Sinanews(object):
                 ele = elem.select('span')
                 json['date'] = ele[0].getText()[1:-1]
                 s = json['date']
-                print(s)
                 ele = elem.select('a')
                 json['title'] = ele[len(ele)-1].getText()
-                print(json['title'])
+                print("date:{},title:{}".format(s,json['title']))
                 json['href'] = ele[len(ele)-1].attrs['href']
                 ret,content = self.get_content(json['href'])
-                time.sleep(2 * random.random())
+                time.sleep(4 * random.random())
                 if ret == 0 :
                     json['content'] = content
                     self.itemArray.append(json)
@@ -39,7 +38,7 @@ class Sinanews(object):
         ret = 1
         header = {
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
-        res = requests.get(url,headers=header)
+        res = requests.get(url,headers=header,timeout=10)
         res.encoding = "utf-8"
         try:
             res.raise_for_status()
