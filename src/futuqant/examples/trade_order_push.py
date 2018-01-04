@@ -60,9 +60,9 @@ class HKDealPushHandler(HKTradeDealHandlerBase):
         return RET_OK, content
 
 if __name__ == "__main__":
-    api_ip = '127.0.0.1'  # ''119.29.141.202'
+    api_ip = '10.242.103.18' # ''119.29.141.202'
     api_port = 11111
-    unlock_pwd = '979899'
+    unlock_pwd = '550517'
 
     # '''
     # 港股模拟环境下单及推送

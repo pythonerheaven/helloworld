@@ -13,10 +13,10 @@ class Turtle(object):
     Turtle trading system
     """
     # API parameter setting
-    api_svr_ip = '119.29.141.202'   # 账户登录的牛牛客户端PC的IP, 本机默认为127.0.0.1
+    api_svr_ip = '10.242.103.18'   # 账户登录的牛牛客户端PC的IP, 本机默认为127.0.0.1
     api_svr_port = 11111            # 富途牛牛端口，默认为11111
-    unlock_password = "123456"      # 美股和港股交易解锁密码
-    trade_env = 1                   # 0: 真实交易 1: 仿真交易（仿真交易无密码验证，美股暂不支持仿真）
+    unlock_password = "550517"      # 美股和港股交易解锁密码
+    trade_env = 0                   # 0: 真实交易 1: 仿真交易（仿真交易无密码验证，美股暂不支持仿真）
 
     # initial strategy parameter setting
     short_in_date = 20      # 系统1入市的trailing date
@@ -298,7 +298,7 @@ class Turtle(object):
             self.days += 1
             self.cal_N()    # 计算N的值
 
-        if self.days > self.number_days:
+        if self.days < self.number_days:
             # 当前持有的股票和现金的总价值
             ret_code, acc_info = self.trade_ctx.accinfo_query(envtype=self.trade_env)
             if ret_code != 0:

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-    本策略基于日线, 由于交易时间的限制，不考虑同时交易港股和每股的可能性
+    本策略基于日线, 由于交易时间的限制，不考虑同时交易港股和美股的可能性
     使用请先配置正确参数:
     API_SVR_IP: (string) ip
     API_SVR_PORT: (int) port
@@ -275,9 +275,9 @@ class SouthETF(object):
 
 
 if __name__ == "__main__":
-    API_SVR_IP = '127.0.0.1'
+    API_SVR_IP = '10.242.103.18'
     API_SVR_PORT = 11111
-    UNLOCK_PASSWORD = "123"
+    UNLOCK_PASSWORD = "550517"
     TRADE_ENV = 1
 
     if os.path.exists('south_etf.pkl'):
