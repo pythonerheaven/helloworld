@@ -154,6 +154,8 @@ if __name__ == "__main__":
     OBSERVATION = 150
 
 
+    print('Time of start task: {}'.format(datetime.datetime.now()))
+
     stock = 'US.APPL'
     #first to unlock
     test = MACD(stock, SHORT_PERIOD, LONG_PERIOD, SMOOTH_PERIOD, OBSERVATION)
@@ -164,4 +166,6 @@ if __name__ == "__main__":
         print(code)
 
         test.handle_data(code)
-        time.sleep(2*random.random())
+        time.sleep(3*random.random())
+
+    print('Time of End task: {}'.format(datetime.datetime.now()))
