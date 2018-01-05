@@ -2,3 +2,6 @@ geckodriver.log
 *.pyc
 .DS_Store
 mydata.db
+build
+dist
+helloworld.egg-info
