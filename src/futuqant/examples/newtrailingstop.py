@@ -243,7 +243,7 @@ def trailing_stop(api_svr_ip='127.0.0.1', api_svr_port=11111, unlock_password=""
 
 if __name__ == '__main__':
     # 全局参数配置
-    API_SVR_IP = '10.242.103.18'
+    API_SVR_IP = '192.168.0.105'
     API_SVR_PORT = 11111
     UNLOCK_PASSWORD = "550517"
     CODE = 'US.QD'  # 'US.BABA' #'HK.00700'

@@ -17,4 +17,5 @@ beautifulsoup4
 pymongo
 APScheduler
 lxml
+numpy
 -r other-requirements.txt
