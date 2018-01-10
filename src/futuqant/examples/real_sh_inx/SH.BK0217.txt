@@ -1,0 +1,12 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000518 100 四环生物  0 STOCK
+1 SZ.002382 100 蓝帆医疗  0 STOCK
+2 SZ.002399 100 海普瑞  0 STOCK
+3 SZ.002422 100 科伦药业  0 STOCK
+4 SZ.002432 100 九安医疗  0 STOCK
+5 SZ.002675 100 东诚药业  0 STOCK
+6 SZ.300110 100 华仁药业  0 STOCK
+7 SZ.300246 100 宝莱特  0 STOCK
+8 SZ.300255 100 常山药业  0 STOCK
+9 SH.600062 100 华润双鹤  0 STOCK
+10 SH.600587 100 新华医疗  0 STOCK

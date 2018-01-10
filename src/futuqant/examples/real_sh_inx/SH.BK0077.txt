@@ -1,0 +1,6 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SH.600291 100 西水股份  0 STOCK
+1 SH.601318 100 中国平安  0 STOCK
+2 SH.601336 100 新华保险  0 STOCK
+3 SH.601601 100 中国太保  0 STOCK
+4 SH.601628 100 中国人寿  0 STOCK

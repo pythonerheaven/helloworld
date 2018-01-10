@@ -1,0 +1,14 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AMWD 1 美国伍德马克  0 STOCK
+1 US.BCC 1 "Boise Cascade Co."  0 STOCK
+2 US.BECN 1 "Beacon Roofing Supply, Inc."  0 STOCK
+3 US.DEL 1 代尔提克木材  0 STOCK
+4 US.EVA 1 "Enviva Partners LP"  0 STOCK
+5 US.JCTCF 1 朱伊特卡梅伦贸易  0 STOCK
+6 US.LPX 1 路易斯安那太平洋  0 STOCK
+7 US.PATK 1 "Patrick Industries, Inc."  0 STOCK
+8 US.POPE 1 "Pope Resources LP"  0 STOCK
+9 US.RYN 1 雷欧尼尔  0 STOCK
+10 US.TREX 1 "Trex Co., Inc."  0 STOCK
+11 US.UFPI 1 "Universal Forest Products, Inc."  0 STOCK
+12 US.WY 1 惠好  0 STOCK

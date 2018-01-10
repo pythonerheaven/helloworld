@@ -1,0 +1,7 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000428 100 华天酒店  0 STOCK
+1 SZ.000524 100 岭南控股  0 STOCK
+2 SZ.000613 100 *ST东海A  0 STOCK
+3 SH.600258 100 首旅酒店  0 STOCK
+4 SH.600754 100 锦江股份  0 STOCK
+5 SH.601007 100 金陵饭店  0 STOCK

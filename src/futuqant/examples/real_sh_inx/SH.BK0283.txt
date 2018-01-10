@@ -1,0 +1,14 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000652 100 泰达股份  0 STOCK
+1 SZ.000839 100 中信国安  0 STOCK
+2 SZ.002024 100 苏宁云商  0 STOCK
+3 SZ.002395 100 双象股份  0 STOCK
+4 SZ.002587 100 奥拓电子  0 STOCK
+5 SZ.300002 100 神州泰岳  0 STOCK
+6 SZ.300052 100 中青宝  0 STOCK
+7 SZ.300162 100 雷曼股份  0 STOCK
+8 SH.600158 100 中体产业  0 STOCK
+9 SH.600287 100 江苏舜天  0 STOCK
+10 SH.600606 100 绿地控股  0 STOCK
+11 SH.600881 100 亚泰集团  0 STOCK
+12 SH.603555 100 贵人鸟  0 STOCK

@@ -1,0 +1,39 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AROC 1 "Archrock, Inc."  0 STOCK
+1 US.BAS 1 基本能源服务公司  0 STOCK
+2 US.BHI 1 贝克休斯  0 STOCK
+3 US.BRS 1 布里斯托  0 STOCK
+4 US.CCLP 1 "CSI Compressco LP"  0 STOCK
+5 US.CGG 1 CGG  0 STOCK
+6 US.CKH 1 海科控股  0 STOCK
+7 US.CKX 1 "CKX Lands, Inc."  0 STOCK
+8 US.CLB 1 "Core Laboratories NV"  0 STOCK
+9 US.CRR 1 卡波陶瓷  0 STOCK
+10 US.DNOW 1 "NOW, Inc."  0 STOCK
+11 US.DRQ 1 德久普公司  0 STOCK
+12 US.DWSN 1 道森地探  0 STOCK
+13 US.ESES 1 "Eco-Stim Energy Solutions, Inc."  0 STOCK
+14 US.FET 1 "Forum Energy Technologies, Inc."  0 STOCK
+15 US.FI 1 "Frank's International NV"  0 STOCK
+16 US.FMSA 1 "Fairmount Santrol Holdings, Inc."  0 STOCK
+17 US.FTI 1 FMC能源设备公司  0 STOCK
+18 US.FTK 1 Flotek工业  0 STOCK
+19 US.GIFI 1 "Gulf Island Fabrication, Inc."  0 STOCK
+20 US.HAL 1 哈里伯顿  0 STOCK
+21 US.HLX 1 螺旋能源  0 STOCK
+22 US.IO 1 离子地球物理  0 STOCK
+23 US.MDR 1 迈克德莫特国际  0 STOCK
+24 US.NGS 1 "Natural Gas Services Group, Inc."  0 STOCK
+25 US.NOA 1 "North American Energy Partners, Inc."  0 STOCK
+26 US.NR 1 新园能源  0 STOCK
+27 US.OII 1 国际海洋工程  0 STOCK
+28 US.OIS 1 "Oil States International, Inc."  0 STOCK
+29 US.RCON 1 研控科技  0 STOCK
+30 US.RES 1 "RPC, Inc."  0 STOCK
+31 US.SAEX 1 "SAExploration Holdings, Inc."  0 STOCK
+32 US.SDPI 1 "Superior Drilling Products, Inc."  0 STOCK
+33 US.SEMG 1 "SemGroup Corp."  0 STOCK
+34 US.TESO 1 特斯科公司  0 STOCK
+35 US.TRGP 1 "Targa Resources Corp."  0 STOCK
+36 US.TTI 1 "TETRA Technologies, Inc."  0 STOCK
+37 US.WG 1 "Willbros Group, Inc."  0 STOCK

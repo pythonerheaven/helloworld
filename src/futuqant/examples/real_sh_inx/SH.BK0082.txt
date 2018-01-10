@@ -1,0 +1,13 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000025 100 特力A  0 STOCK
+1 SZ.000753 100 漳州发展  0 STOCK
+2 SZ.000996 100 中国中期  0 STOCK
+3 SZ.002607 100 亚夏汽车  0 STOCK
+4 SZ.002682 100 龙洲股份  0 STOCK
+5 SH.600297 100 广汇汽车  0 STOCK
+6 SH.600335 100 国机汽车  0 STOCK
+7 SH.600653 100 申华控股  0 STOCK
+8 SH.601258 100 庞大集团  0 STOCK
+9 SH.601965 100 中国汽研  0 STOCK
+10 SH.603377 100 东方时尚  0 STOCK
+11 SH.603528 100 多伦科技  0 STOCK

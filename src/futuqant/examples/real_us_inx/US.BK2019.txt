@@ -1,0 +1,5 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AVHI 1 阿凡达地产  0 STOCK
+1 US.CXW 1 "CoreCivic, Inc."  0 STOCK
+2 US.EMITF 1 "Elbit Imaging Ltd."  0 STOCK
+3 US.STAR 1 "iStar, Inc."  0 STOCK

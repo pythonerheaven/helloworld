@@ -1,0 +1,8 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.CORE 1 科尔.马克控股  0 STOCK
+1 US.DIT 1 "AMCON Distributing Co."  0 STOCK
+2 US.ESND 1 "Essendant, Inc."  0 STOCK
+3 US.EVK 1 江苏华瑞服装有限公司  0 STOCK
+4 US.POOL 1 "Pool Corp."  0 STOCK
+5 US.UNFI 1 "United Natural Foods, Inc."  0 STOCK
+6 US.WSO 1 "Watsco, Inc."  0 STOCK

@@ -1,0 +1,8 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00691 1000 山水水泥  0 STOCK
+1 HK.00743 500 亚洲水泥(中国)  0 STOCK
+2 HK.00914 500 海螺水泥  0 STOCK
+3 HK.01313 2000 华润水泥控股  0 STOCK
+4 HK.01893 1000 中材股份  0 STOCK
+5 HK.02009 1000 金隅股份  0 STOCK
+6 HK.03323 2000 中国建材  0 STOCK

@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.BOOT 1 "Boot Barn Holdings, Inc."  0 STOCK
+1 US.CAL 1 "Caleres, Inc."  0 STOCK
+2 US.CROX 1 卡骆驰  0 STOCK
+3 US.DECK 1 "Deckers Outdoor Corp."  0 STOCK
+4 US.NKE 1 耐克  0 STOCK
+5 US.RCKY 1 "Rocky Brands, Inc."  0 STOCK
+6 US.SHOO 1 史蒂夫·马登  0 STOCK
+7 US.SKX 1 斯凯奇  0 STOCK
+8 US.WEYS 1 "Weyco Group, Inc."  0 STOCK
+9 US.WWW 1 沃尔弗林集团  0 STOCK

@@ -1,0 +1,25 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AMOT 1 "Allied Motion科技"  0 STOCK
+1 US.BHE 1 "Benchmark Electronics, Inc."  0 STOCK
+2 US.BRC 1 布雷迪  0 STOCK
+3 US.BRKS 1 布鲁克自动化  0 STOCK
+4 US.FLEX 1 伟创力国际  0 STOCK
+5 US.FN 1 Fabrinet  0 STOCK
+6 US.GSIT 1 广船国际技术  0 STOCK
+7 US.HIHO 1 公路控股有限公司  0 STOCK
+8 US.IGC 1 "India Globalization Capital, Inc."  0 STOCK
+9 US.IIN 1 "Intricon Corp."  0 STOCK
+10 US.JBL 1 捷普科技  0 STOCK
+11 US.LFUS 1 美国力特保险丝  0 STOCK
+12 US.LYTS 1 LSI设备  0 STOCK
+13 US.MRCY 1 "Mercury Systems, Inc."  0 STOCK
+14 US.NANO 1 耐诺  0 STOCK
+15 US.NLST 1 "Netlist, Inc."  0 STOCK
+16 US.NXTD 1 "Nxt-ID, Inc."  0 STOCK
+17 US.PDFS 1 "PDF Solutions, Inc."  0 STOCK
+18 US.PLXS 1 普雷克萨斯  0 STOCK
+19 US.RNVA 1 "Rennova Health, Inc."  0 STOCK
+20 US.ROG 1 罗杰斯  0 STOCK
+21 US.SANM 1 新美亚电子  0 STOCK
+22 US.SMTX 1 "SMTC Corp."  0 STOCK
+23 US.TTMI 1 TTM科技  0 STOCK

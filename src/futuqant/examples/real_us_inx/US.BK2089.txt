@@ -1,0 +1,44 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AIR 1 AAR公司  0 STOCK
+1 US.AIRI 1 "Air Industries Group"  0 STOCK
+2 US.AJRD 1 "Aerojet Rocketdyne Holdings, Inc."  0 STOCK
+3 US.AL 1 航空租赁公司  0 STOCK
+4 US.ASTC 1 "Astrotech Corp."  0 STOCK
+5 US.ATRO 1 Astronics公司  0 STOCK
+6 US.AVAV 1 AeroVironment公司  0 STOCK
+7 US.BA 1 波音  0 STOCK
+8 US.BEAV 1 BE航天航空  0 STOCK
+9 US.COL 1 罗柯  0 STOCK
+10 US.CUB 1 "Cubic Corp."  0 STOCK
+11 US.CVU 1 "CPI Aerostructures, Inc."  0 STOCK
+12 US.DCO 1 杜科蒙  0 STOCK
+13 US.EGL 1 "Engility Holdings, Inc."  0 STOCK
+14 US.ERJ 1 ERJ航空  0 STOCK
+15 US.ESL 1 埃斯特林科技  0 STOCK
+16 US.ESLT 1 "Elbit Systems Ltd."  0 STOCK
+17 US.FLIR 1 菲利尔系统  0 STOCK
+18 US.GD 1 通用动力  0 STOCK
+19 US.HAYN 1 海恩斯国际  0 STOCK
+20 US.HEI 1 海科航空  0 STOCK
+21 US.HII 1 "Huntington Ingalls Industries, Inc."  0 STOCK
+22 US.HON 1 霍尼韦尔  0 STOCK
+23 US.HXL 1 赫氏  0 STOCK
+24 US.KLXI 1 "KLX, Inc."  0 STOCK
+25 US.LLL 1 "L3 Technologies, Inc."  0 STOCK
+26 US.LMT 1 洛克希德马丁  0 STOCK
+27 US.LRAD 1 "LRAD Corp."  0 STOCK
+28 US.NOC 1 诺斯罗普格鲁曼  0 STOCK
+29 US.OA 1 "Orbital ATK, Inc."  0 STOCK
+30 US.RADA 1 "Rada Electronic Industries Ltd."  0 STOCK
+31 US.RGR 1 斯特姆-鲁格  0 STOCK
+32 US.RTN 1 雷神  0 STOCK
+33 US.SIF 1 "SIFCO Industries, Inc."  0 STOCK
+34 US.SPR 1 "Spirit AeroSystems Holdings Inc"  0 STOCK
+35 US.SWHC 1 "史密斯威森 (已退市)"  0 STOCK
+36 US.TATT 1 "TAT Technologies Ltd."  0 STOCK
+37 US.TDG 1 "TransDigm Group, Inc."  0 STOCK
+38 US.TGI 1 "Triumph Group, Inc."  0 STOCK
+39 US.TIK 1 "Tel-Instrument Electronics Corp."  0 STOCK
+40 US.TXT 1 德事隆  0 STOCK
+41 US.VSEC 1 VSE技术服务  0 STOCK
+42 US.WAIR 1 "Wesco Aircraft Holdings, Inc."  0 STOCK

@@ -1,0 +1,5 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000598 100 兴蓉环境  0 STOCK
+1 SZ.002100 100 天康生物  0 STOCK
+2 SH.600094 100 大名城  0 STOCK
+3 SH.600714 100 金瑞矿业  0 STOCK

@@ -1,0 +1,20 @@
+send2trash
+requests
+beautifulsoup4
+openpyxl
+PyPDF2
+selenium
+python-docx
+twilio
+pillow
+python3-xlib
+pyobjc-core
+pyobjc
+matplotlib
+TA-Lib
+requests
+beautifulsoup4
+pymongo
+APScheduler
+lxml
+-r other-requirements.txt

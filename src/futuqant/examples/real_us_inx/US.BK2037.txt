@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ACC 1 美国校园社区公司  0 STOCK
+1 US.BPY 1 "Brookfield Property Partners LP"  0 STOCK
+2 US.CCS 1 "Century Communities, Inc."  0 STOCK
+3 US.CHCI 1 康斯托克住宅建筑  0 STOCK
+4 US.CTO 1 "Consolidated-Tomoka Land Co."  0 STOCK
+5 US.JOE 1 圣乔  0 STOCK
+6 US.LGIH 1 "LGI Homes, Inc."  0 STOCK
+7 US.MLP 1 毛伊岛菠萝食品  0 STOCK
+8 US.SRC 1 "Spirit Realty Capital, Inc."  0 STOCK
+9 US.XIN 1 鑫苑置业  0 STOCK

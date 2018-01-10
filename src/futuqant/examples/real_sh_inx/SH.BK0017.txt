@@ -1,0 +1,12 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000922 100 *ST佳电  0 STOCK
+1 SZ.002176 100 江特电机  0 STOCK
+2 SZ.002196 100 方正电机  0 STOCK
+3 SZ.002249 100 大洋电机  0 STOCK
+4 SZ.002576 100 通达动力  0 STOCK
+5 SZ.002801 100 微光股份  0 STOCK
+6 SZ.002823 100 凯中精密  0 STOCK
+7 SZ.300308 100 中际旭创  0 STOCK
+8 SH.600580 100 卧龙电气  0 STOCK
+9 SH.603819 100 神力股份  0 STOCK
+10 SH.603988 100 中电电机  0 STOCK

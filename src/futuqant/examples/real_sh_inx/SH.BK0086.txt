@@ -1,0 +1,14 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000016 100 深康佳A  0 STOCK
+1 SZ.000100 100 TCL集团  0 STOCK
+2 SZ.000801 100 四川九洲  0 STOCK
+3 SZ.000810 100 创维数字  0 STOCK
+4 SZ.002052 100 同洲电子  0 STOCK
+5 SZ.002420 100 毅昌股份  0 STOCK
+6 SZ.002429 100 兆驰股份  0 STOCK
+7 SZ.002519 100 银河电子  0 STOCK
+8 SZ.002848 100 高斯贝尔  0 STOCK
+9 SH.600060 100 海信电器  0 STOCK
+10 SH.600839 100 四川长虹  0 STOCK
+11 SH.600870 100 厦华电子  0 STOCK
+12 SH.603996 100 中新科技  0 STOCK

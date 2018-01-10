@@ -1,0 +1,6 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00371 2000 北控水务集团  0 STOCK
+1 HK.00956 1000 新天绿色能源  0 STOCK
+2 HK.02009 1000 金隅股份  0 STOCK
+3 HK.03323 2000 中国建材  0 STOCK
+4 HK.03382 2000 天津港发展  0 STOCK

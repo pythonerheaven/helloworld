@@ -1,0 +1,20 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ABAC 1 奥信天力  0 STOCK
+1 US.ADM 1 阿彻丹尼尔斯米德兰公司  0 STOCK
+2 US.AGRO 1 "Adecoagro SA"  0 STOCK
+3 US.ALCO 1 阿利科公司  0 STOCK
+4 US.ANDE 1 安德森斯有限公司  0 STOCK
+5 US.BG 1 邦吉  0 STOCK
+6 US.CALM 1 "Cal-Maine Foods, Inc."  0 STOCK
+7 US.CHSCP 1 "CHS, Inc."  0 STOCK
+8 US.CRESY 1 "Cresud SA"  0 STOCK
+9 US.CVGW 1 卡拉沃养殖  0 STOCK
+10 US.INGR 1 "Ingredion, Inc."  0 STOCK
+11 US.K 1 家乐氏  0 STOCK
+12 US.LMNR 1 "Limoneira Co."  0 STOCK
+13 US.LND 1 "BrasilAgro Cia Brasileira de Propriedades Agricolas"  0 STOCK
+14 US.MHG 1 "MARINE HARVEST ASA"  0 STOCK
+15 US.RIBT 1 "RiceBran Technologies"  0 STOCK
+16 US.SANW 1 "S&W Seed Co."  0 STOCK
+17 US.SEED 1 奥瑞金种业  0 STOCK
+18 US.STKL 1 "SunOpta, Inc."  0 STOCK

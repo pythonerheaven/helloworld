@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000536 100 华映科技  0 STOCK
+1 SZ.002084 100 海鸥卫浴  0 STOCK
+2 SZ.002105 100 信隆健康  0 STOCK
+3 SZ.002158 100 汉钟精机  0 STOCK
+4 SZ.002162 100 悦心健康  0 STOCK
+5 SZ.002333 100 罗普斯金  0 STOCK
+6 SZ.002463 100 沪电股份  0 STOCK
+7 SZ.300046 100 台基股份  0 STOCK
+8 SH.601231 100 环旭电子  0 STOCK
+9 SH.603002 100 宏昌电子  0 STOCK

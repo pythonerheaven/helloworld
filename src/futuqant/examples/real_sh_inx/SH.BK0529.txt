@@ -1,0 +1,12 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000752 100 西藏发展  0 STOCK
+1 SZ.000762 100 西藏矿业  0 STOCK
+2 SZ.002287 100 奇正藏药  0 STOCK
+3 SZ.002653 100 海思科  0 STOCK
+4 SH.600211 100 西藏药业  0 STOCK
+5 SH.600326 100 西藏天路  0 STOCK
+6 SH.600338 100 西藏珠峰  0 STOCK
+7 SH.600749 100 西藏旅游  0 STOCK
+8 SH.600773 100 西藏城投  0 STOCK
+9 SH.600873 100 梅花生物  0 STOCK
+10 SH.603669 100 灵康药业  0 STOCK

@@ -1,0 +1,12 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.BETR 1 "Amplify Snack Brands, Inc."  0 STOCK
+1 US.DTEA 1 "DAVIDSTEA INC."  0 STOCK
+2 US.GNC 1 "GNC Holdings, Inc."  0 STOCK
+3 US.NGVC 1 "Natural Grocers by Vitamin Cottage Inc"  0 STOCK
+4 US.PLAY 1 "Dave & Buster"  0 STOCK
+5 US.SFM 1 "Sprouts Farmers Market Inc"  0 STOCK
+6 US.SFS 1 "Smart & Final Stores, Inc."  0 STOCK
+7 US.SVU 1 美国超值商店公司  0 STOCK
+8 US.THS 1 树屋食品  0 STOCK
+9 US.VSI 1 "Vitamin Shoppe, Inc."  0 STOCK
+10 US.WMK 1 "Weis Markets, Inc."  0 STOCK

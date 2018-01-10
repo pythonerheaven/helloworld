@@ -1,0 +1,10 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00030 2000 万隆控股集团  0 STOCK
+1 HK.00039 8000 中国北大荒  0 STOCK
+2 HK.00121 10000 卜蜂莲花  0 STOCK
+3 HK.00814 1000 北京京客隆  0 STOCK
+4 HK.00831 2000 利亚零售  0 STOCK
+5 HK.00974 1000 中国顺客隆  0 STOCK
+6 HK.00980 1000 联华超市  0 STOCK
+7 HK.00984 500 永旺  0 STOCK
+8 HK.06808 500 高鑫零售  0 STOCK

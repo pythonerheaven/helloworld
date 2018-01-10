@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000798 100 中水渔业  0 STOCK
+1 SZ.002069 100 獐子岛  0 STOCK
+2 SZ.002086 100 东方海洋  0 STOCK
+3 SZ.002173 100 创新医疗  0 STOCK
+4 SZ.002447 100 壹桥股份  0 STOCK
+5 SZ.002696 100 百洋股份  0 STOCK
+6 SZ.300094 100 国联水产  0 STOCK
+7 SH.600097 100 开创国际  0 STOCK
+8 SH.600257 100 大湖股份  0 STOCK
+9 SH.600467 100 好当家  0 STOCK

@@ -1,0 +1,120 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ACIW 1 ACI环球  0 STOCK
+1 US.ADBE 1 Adobe  0 STOCK
+2 US.ADSK 1 欧特克  0 STOCK
+3 US.ALRM 1 "ALARM.COM HOLDINGS, INC."  0 STOCK
+4 US.AMSWA 1 美国软件  0 STOCK
+5 US.ANSS 1 安西斯  0 STOCK
+6 US.APPF 1 "APPFOLIO INC"  0 STOCK
+7 US.APPS 1 "Digital Turbine, Inc."  0 STOCK
+8 US.ATTU 1 "Attunity Ltd."  0 STOCK
+9 US.ATVI 1 动视暴雪  0 STOCK
+10 US.AZPN 1 艾斯本  0 STOCK
+11 US.BDR 1 "Blonder Tongue Laboratories, Inc."  0 STOCK
+12 US.BLKB 1 布莱克波特科技  0 STOCK
+13 US.BNFT 1 "Benefitfocus, Inc."  0 STOCK
+14 US.BOX 1 "Box, Inc."  0 STOCK
+15 US.BSFT 1 "BroadSoft, Inc."  0 STOCK
+16 US.BSQR 1 BSQUARE科技  0 STOCK
+17 US.CA 1 联合电脑  0 STOCK
+18 US.CALD 1 卡利都斯软件  0 STOCK
+19 US.CDNS 1 铿腾电子  0 STOCK
+20 US.CIDM 1 Cinedigm数码影院  0 STOCK
+21 US.CIEN 1 Ciena科技  0 STOCK
+22 US.CNIT 1 中国信息技术  0 STOCK
+23 US.CNXR 1 Connecture  0 STOCK
+24 US.COOL 1 Majesco娱乐  0 STOCK
+25 US.CPAH 1 "CounterPath Corp."  0 STOCK
+26 US.CRDS 1 "Crossroads Systems"  0 STOCK
+27 US.CSOD 1 "Cornerstone OnDemand, Inc."  0 STOCK
+28 US.CVLT 1 康沃系统  0 STOCK
+29 US.CYRN 1 "CYREN Ltd."  0 STOCK
+30 US.DAIO 1 "Data I/O Corp."  0 STOCK
+31 US.DATA 1 "Tableau Software, Inc."  0 STOCK
+32 US.DBD 1 "Diebold Nixdorf Incorporated"  0 STOCK
+33 US.DLB 1 杜比  0 STOCK
+34 US.DMRC 1 数字标识  0 STOCK
+35 US.DTRM 1 "Determine, Inc."  0 STOCK
+36 US.DWCH 1 数据观察  0 STOCK
+37 US.EA 1 电子艺界  0 STOCK
+38 US.ECOM 1 "ChannelAdvisor Corp."  0 STOCK
+39 US.EGAN 1 "eGain Corp."  0 STOCK
+40 US.ELLI 1 "Ellie Mae, Inc."  0 STOCK
+41 US.EPAY 1 "Bottomline Technologies, Inc."  0 STOCK
+42 US.ESE 1 ESCO科技  0 STOCK
+43 US.FARO 1 法如科技  0 STOCK
+44 US.FFIV 1 F5网络  0 STOCK
+45 US.FORTY 1 配方系统  0 STOCK
+46 US.FTNT 1 飞塔信息  0 STOCK
+47 US.GIGM 1 和信超媒体公司  0 STOCK
+48 US.GLOB 1 "Globant SA"  0 STOCK
+49 US.GLUU 1 Glu移动  0 STOCK
+50 US.GRVY 1 "Gravity Co., Ltd."  0 STOCK
+51 US.GSB 1 "GlobalSCAPE, Inc."  0 STOCK
+52 US.GWRE 1 "Guidewire Software, Inc."  0 STOCK
+53 US.HDP 1 "HORTONWORKS  INC."  0 STOCK
+54 US.ICAD 1 "iCAD, Inc."  0 STOCK
+55 US.IDN 1 "Intellicheck, Inc."  0 STOCK
+56 US.IMPV 1 "Imperva, Inc."  0 STOCK
+57 US.INST 1 "INSTRUCTURE INC"  0 STOCK
+58 US.INTU 1 财捷  0 STOCK
+59 US.ISNS 1 图像传感系统  0 STOCK
+60 US.ITI 1 "Iteris, Inc."  0 STOCK
+61 US.LXFT 1 "Luxoft Holding, Inc."  0 STOCK
+62 US.MAGS 1 马加尔安全系统  0 STOCK
+63 US.MAMS 1 "MAM Software Group, Inc."  0 STOCK
+64 US.MDSO 1 Medidata解决方案公司  0 STOCK
+65 US.MIXT 1 "MiX Telematics Ltd."  0 STOCK
+66 US.MJCO 1 Majesco  0 STOCK
+67 US.MOBL 1 MOBL  0 STOCK
+68 US.MODN 1 "Model N, Inc."  0 STOCK
+69 US.MOMO 1 陌陌  0 STOCK
+70 US.MSFT 1 微软  0 STOCK
+71 US.MSTR 1 "MicroStrategy, Inc."  0 STOCK
+72 US.MTBC 1 "MEDICAL TRANSCRIPTION BILLING"  0 STOCK
+73 US.NATI 1 美国国家仪器  0 STOCK
+74 US.NCR 1 "NCR Corp."  0 STOCK
+75 US.NEWR 1 "New Relic, Inc."  0 STOCK
+76 US.NTIP 1 "Network-1 Technologies, Inc"  0 STOCK
+77 US.NTWK 1 奈特阳科技  0 STOCK
+78 US.NUAN 1 微妙通讯  0 STOCK
+79 US.ORCL 1 甲骨文  0 STOCK
+80 US.PAR 1 "PAR Technology Corp."  0 STOCK
+81 US.PCYG 1 "Park City Group, Inc."  0 STOCK
+82 US.PEGA 1 "Pegasystems, Inc."  0 STOCK
+83 US.PRGS 1 "Progress Software Corp."  0 STOCK
+84 US.PRO 1 "PROS Holdings, Inc."  0 STOCK
+85 US.PTC 1 "Par Technology "  0 STOCK
+86 US.QADA 1 "QAD, Inc."  0 STOCK
+87 US.QADB 1 "QAD, Inc."  0 STOCK
+88 US.RHT 1 红帽  0 STOCK
+89 US.RLJE 1 "RLJ Entertainment, Inc."  0 STOCK
+90 US.RNWK 1 "RealNetworks, Inc."  0 STOCK
+91 US.RP 1 "RealPage, Inc."  0 STOCK
+92 US.RST 1 如师通  0 STOCK
+93 US.RTEC 1 "Rudolph Technologies"  0 STOCK
+94 US.SAP 1 "SAP SE"  0 STOCK
+95 US.SLP 1 "Simulations Plus, Inc."  0 STOCK
+96 US.SMSI 1 "Smith Micro Software, Inc."  0 STOCK
+97 US.SNPS 1 新思科技  0 STOCK
+98 US.SPLK 1 "Splunk, Inc."  0 STOCK
+99 US.SPNS 1 "Sapiens International Corp. NV"  0 STOCK
+100 US.SYMC 1 赛门铁克  0 STOCK
+101 US.SYRX 1 "Sysorex Global Holding Corp."  0 STOCK
+102 US.TNGO 1 Tangoe  0 STOCK
+103 US.TTWO 1 "Take-Two Interactive Software"  0 STOCK
+104 US.TWOU 1 "2U, Inc."  0 STOCK
+105 US.TYPE 1 蒙泰图像  0 STOCK
+106 US.UEPS 1 "Net 1 U.E.P.S. Technologies, Inc."  0 STOCK
+107 US.ULTI 1 "The Ultimate Software Group, Inc."  0 STOCK
+108 US.UPIP 1 "Unwired Planet"  0 STOCK
+109 US.UPLD 1 "Upland Software"  0 STOCK
+110 US.USAT 1 全美科技  0 STOCK
+111 US.VDSI 1 "VASCO Data Security International, Inc."  0 STOCK
+112 US.VEEV 1 "Veeva Systems, Inc."  0 STOCK
+113 US.VHC 1 "VirnetX Holding Corp."  0 STOCK
+114 US.VMW 1 威睿  0 STOCK
+115 US.VRNS 1 "Varonis Systems, Inc."  0 STOCK
+116 US.WSTG 1 "Wayside Technology Group, Inc."  0 STOCK
+117 US.XPLR 1 "Xplore Technologies Corp."  0 STOCK
+118 US.ZIXI 1 "Zix Corp."  0 STOCK

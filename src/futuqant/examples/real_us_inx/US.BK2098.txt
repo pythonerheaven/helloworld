@@ -1,0 +1,66 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AEY 1 "ADDvantage Technologies Group, Inc."  0 STOCK
+1 US.APH 1 安诺电子  0 STOCK
+2 US.ARRS 1 艾利斯  0 STOCK
+3 US.AUDC 1 奥科  0 STOCK
+4 US.AVNW 1 阿维亚网络公司  0 STOCK
+5 US.BBOX 1 黑盒公司  0 STOCK
+6 US.BBRY 1 黑莓  0 STOCK
+7 US.CALX 1 "Calix, Inc."  0 STOCK
+8 US.CAMP 1 "CalAmp Corp."  0 STOCK
+9 US.CLFD 1 克利尔菲尔德通讯  0 STOCK
+10 US.CLRO 1 ClearOne通讯  0 STOCK
+11 US.CNTF 1 泰克飞石  0 STOCK
+12 US.COMM 1 "CommScope Holding Co., Inc."  0 STOCK
+13 US.CRNT 1 Ceragon网络  0 STOCK
+14 US.CSCO 1 思科  0 STOCK
+15 US.EGHT 1 "8x8, Inc."  0 STOCK
+16 US.ENPH 1 "Enphase Energy, Inc."  0 STOCK
+17 US.ERIC 1 爱立信  0 STOCK
+18 US.EXFO 1 "EXFO, Inc."  0 STOCK
+19 US.EXTR 1 极速网络  0 STOCK
+20 US.FEIM 1 高频电子  0 STOCK
+21 US.FNSR 1 菲尼萨网络通信  0 STOCK
+22 US.GILT 1 吉来特卫星网络  0 STOCK
+23 US.HIVE 1 "Aerohive Networks, Inc."  0 STOCK
+24 US.HLIT 1 谐波  0 STOCK
+25 US.HRS 1 哈里斯通讯  0 STOCK
+26 US.I 1 "Intelsat SA"  0 STOCK
+27 US.IDCC 1 "InterDigital, Inc."  0 STOCK
+28 US.IDSY 1 编号系统  0 STOCK
+29 US.INFN 1 英飞朗  0 STOCK
+30 US.INVT 1 "Inventergy Global, Inc."  0 STOCK
+31 US.JCS 1 通信系统  0 STOCK
+32 US.JNPR 1 瞻博网络  0 STOCK
+33 US.KONE 1 联合信息  0 STOCK
+34 US.KVHI 1 KVH通信  0 STOCK
+35 US.LITE 1 "Lumentum Holdings Inc. Common Stock When Issued"  0 STOCK
+36 US.LORL 1 劳拉空间通信  0 STOCK
+37 US.LTRX 1 创力  0 STOCK
+38 US.MIFI 1 "Novatel Wireless, Inc. (已退市)"  0 STOCK
+39 US.MITL 1 "Mitel Networks Corp."  0 STOCK
+40 US.MSI 1 摩托罗拉解决方案  0 STOCK
+41 US.NOK 1 诺基亚  0 STOCK
+42 US.NTCT 1 网侦系统  0 STOCK
+43 US.NTGR 1 "NETGEAR, Inc."  0 STOCK
+44 US.RDCM 1 "RADCOM Ltd."  0 STOCK
+45 US.RFIL 1 "RF Industries Ltd."  0 STOCK
+46 US.RITT 1 RIT科技  0 STOCK
+47 US.RNG 1 "RingCentral, Inc."  0 STOCK
+48 US.RSYS 1 "RadiSys Corp."  0 STOCK
+49 US.RWC 1 "RELM Wireless Corp."  0 STOCK
+50 US.SATS 1 回声星通信  0 STOCK
+51 US.SCON 1 超导技术  0 STOCK
+52 US.SILC 1 矽晶电信  0 STOCK
+53 US.SONS 1 圣思网络  0 STOCK
+54 US.SWIR 1 "Sierra Wireless, Inc."  0 STOCK
+55 US.TCCO 1 "Technical Communications Corp."  0 STOCK
+56 US.UBNT 1 厄比奎蒂  0 STOCK
+57 US.UTSI 1 UT斯达康  0 STOCK
+58 US.VCRA 1 Vocera通信  0 STOCK
+59 US.VIAV 1 "Viavi Solutions, Inc."  0 STOCK
+60 US.VSAT 1 卫讯公司  0 STOCK
+61 US.WATT 1 "Energous Corp."  0 STOCK
+62 US.WILN 1 "Wi-Lan Inc"  0 STOCK
+63 US.WSTL 1 "Westell Technologies, Inc."  0 STOCK
+64 US.ZHNE 1 "Zhone Technologies"  0 STOCK

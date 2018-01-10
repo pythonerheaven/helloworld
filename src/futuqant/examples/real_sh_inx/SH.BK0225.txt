@@ -1,0 +1,3 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SH.600182 100 S佳通  0 STOCK
+1 SH.600733 100 S*ST前锋  0 STOCK

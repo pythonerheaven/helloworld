@@ -1,0 +1,13 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000150 100 宜华健康  0 STOCK
+1 SZ.000503 100 海虹控股  0 STOCK
+2 SZ.002044 100 美年健康  0 STOCK
+3 SZ.002219 100 恒康医疗  0 STOCK
+4 SZ.300015 100 爱尔眼科  0 STOCK
+5 SZ.300244 100 迪安诊断  0 STOCK
+6 SZ.300347 100 泰格医药  0 STOCK
+7 SZ.300404 100 博济医药  0 STOCK
+8 SH.600721 100 百花村  0 STOCK
+9 SH.600763 100 通策医疗  0 STOCK
+10 SH.600767 100 *ST运盛  0 STOCK
+11 SH.603108 100 润达医疗  0 STOCK

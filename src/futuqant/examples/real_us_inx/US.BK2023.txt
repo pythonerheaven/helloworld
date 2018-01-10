@@ -1,0 +1,10 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.CFI 1 卡尔普纺织  0 STOCK
+1 US.DXYN 1 迪克希  0 STOCK
+2 US.HOFT 1 胡克家具  0 STOCK
+3 US.LEG 1 礼恩派  0 STOCK
+4 US.MHK 1 莫霍克工业公司  0 STOCK
+5 US.STLY 1 "Stanley Furniture Co., Inc."  0 STOCK
+6 US.TILE 1 "Interface, Inc."  0 STOCK
+7 US.TPX 1 泰浦陛迪国际公司  0 STOCK
+8 US.VIRC 1 "Virco Manufacturing Corp."  0 STOCK

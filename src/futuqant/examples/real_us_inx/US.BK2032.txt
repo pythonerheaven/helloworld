@@ -1,0 +1,22 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ACU 1 "Acme United Corp"  0 STOCK
+1 US.AWI 1 阿姆斯特朗工业  0 STOCK
+2 US.BLDR 1 "Builders FirstSource, Inc."  0 STOCK
+3 US.BMI 1 "Badger Meter, Inc."  0 STOCK
+4 US.CCCL 1 中国陶瓷  0 STOCK
+5 US.CSL 1 卡莱尔伙伴  0 STOCK
+6 US.CSTE 1 "Caesarstone Ltd."  0 STOCK
+7 US.DOOR 1 美森特  0 STOCK
+8 US.FAST 1 快扣  0 STOCK
+9 US.GFF 1 格里丰  0 STOCK
+10 US.IBP 1 "Installed Building Products, Inc."  0 STOCK
+11 US.LL 1 "Lumber Liquidators控股"  0 STOCK
+12 US.MAS 1 马斯科  0 STOCK
+13 US.NCS 1 "NCI Building Systems, Inc."  0 STOCK
+14 US.NX 1 "Quanex Building Products Corp."  0 STOCK
+15 US.PGEM 1 "Ply Gem Holdings, Inc."  0 STOCK
+16 US.PGTI 1 "PGT Innovations, Inc."  0 STOCK
+17 US.ROCK 1 "Gibraltar Industries, Inc."  0 STOCK
+18 US.SSD 1 "Simpson Manufacturing Co., Inc."  0 STOCK
+19 US.TTS 1 "Tile Shop Holdings, Inc."  0 STOCK
+20 US.VMI 1 维蒙特工业  0 STOCK

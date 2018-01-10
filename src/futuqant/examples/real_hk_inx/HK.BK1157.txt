@@ -1,0 +1,8 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00636 500 嘉里物流  0 STOCK
+1 HK.01396 2000 毅德国际  0 STOCK
+2 HK.01668 2000 华南城  0 STOCK
+3 HK.01803 2500 北京体育文化  0 STOCK
+4 HK.03399 1000 粤运交通  0 STOCK
+5 HK.08310 10000 大丰港  0 STOCK
+6 HK.08348 2000 滨海泰达物流  0 STOCK

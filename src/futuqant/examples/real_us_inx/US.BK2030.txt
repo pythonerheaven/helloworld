@@ -1,0 +1,29 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AMCN 1 航美传媒  0 STOCK
+1 US.ATV 1 橡果国际  0 STOCK
+2 US.CBS 1 哥伦比亚广播  0 STOCK
+3 US.CCO 1 "Clear Channel Outdoor Holdings, Inc."  0 STOCK
+4 US.CNET 1 中网在线  0 STOCK
+5 US.CRTO 1 "Criteo SA"  0 STOCK
+6 US.GRPN 1 GroupOn  0 STOCK
+7 US.HAWK 1 "Blackhawk Network Holdings, Inc."  0 STOCK
+8 US.HHS 1 哈特-汉克斯  0 STOCK
+9 US.IDI 1 "晶立传媒 (已退市)"  0 STOCK
+10 US.INUV 1 "Inuvo, Inc."  0 STOCK
+11 US.IPG 1 埃培智  0 STOCK
+12 US.ISIG 1 "Insignia Systems, Inc."  0 STOCK
+13 US.LAMR 1 拉马尔户外广告  0 STOCK
+14 US.MCHX 1 "Marchex, Inc."  0 STOCK
+15 US.MDCA 1 "MDC Partners, Inc."  0 STOCK
+16 US.MRIN 1 "Marin Software, Inc."  0 STOCK
+17 US.NCMI 1 "National CineMedia, Inc."  0 STOCK
+18 US.OMC 1 宏盟集团  0 STOCK
+19 US.OUT 1 "OUTFRONT Media, Inc."  0 STOCK
+20 US.QNST 1 "QuinStreet, Inc."  0 STOCK
+21 US.QUOT 1 "Quotient Technology, Inc."  0 STOCK
+22 US.TRIP 1 旅行顾问  0 STOCK
+23 US.TRMR 1 "TREMOR VIDEO INC COM"  0 STOCK
+24 US.VIA 1 维亚康姆  0 STOCK
+25 US.VIAB 1 维亚康姆  0 STOCK
+26 US.WPPGY 1 "WPP plc"  0 STOCK
+27 US.YUME 1 "YuMe, Inc."  0 STOCK

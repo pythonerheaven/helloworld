@@ -1,0 +1,12 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00084 1000 宝光实业  0 STOCK
+1 HK.00116 1000 周生生  0 STOCK
+2 HK.00280 2000 景福集团  0 STOCK
+3 HK.00398 2000 东方表行集团  0 STOCK
+4 HK.00590 1000 六福集团  0 STOCK
+5 HK.00887 10000 英皇钟表珠宝  0 STOCK
+6 HK.01856 1000 依波路  0 STOCK
+7 HK.01913 100 普拉达  0 STOCK
+8 HK.01929 200 周大福  0 STOCK
+9 HK.03389 4000 亨得利  0 STOCK
+10 HK.06388 100 COACH  0 STOCK

@@ -1,0 +1,20 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.APOG 1 远地点企业公司  0 STOCK
+1 US.BXC 1 布鲁林克斯  0 STOCK
+2 US.CADC 1 新奥混凝土  0 STOCK
+3 US.CBPX 1 "Continental Building Products, Inc."  0 STOCK
+4 US.CPAC 1 "Cementos Pacasmayo S.A.A."  0 STOCK
+5 US.CRH 1 CRH水泥  0 STOCK
+6 US.CUO 1 "Continental Materials Corp."  0 STOCK
+7 US.CX 1 西麦斯  0 STOCK
+8 US.EXP 1 "Eagle Materials, Inc."  0 STOCK
+9 US.HNH 1 "Handy & Harman Ltd"  0 STOCK
+10 US.JHX 1 詹姆斯哈迪  0 STOCK
+11 US.MLM 1 马丁-玛丽埃塔材料  0 STOCK
+12 US.OC 1 欧文斯科宁  0 STOCK
+13 US.SUM 1 "Summit Materials, Inc."  0 STOCK
+14 US.USCR 1 "U.S. Concrete, Inc."  0 STOCK
+15 US.USG 1 美国石绵  0 STOCK
+16 US.USLM 1 "United States Lime & Minerals, Inc."  0 STOCK
+17 US.VMC 1 火神材料  0 STOCK
+18 US.YECO 1 "YULONG ECO-MATERIALS LTD"  0 STOCK

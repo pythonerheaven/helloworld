@@ -1,0 +1,10 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00515 2000 达进东方照明  0 STOCK
+1 HK.00522 100 ASM太平洋  0 STOCK
+2 HK.00595 2000 先思行  0 STOCK
+3 HK.00751 2000 创维数码  0 STOCK
+4 HK.01184 2000 时捷集团  0 STOCK
+5 HK.01868 2000 同方友友  0 STOCK
+6 HK.02222 1000 雷士照明  0 STOCK
+7 HK.03823 2000 德普科技  0 STOCK
+8 HK.08150 10000 无缝绿色  0 STOCK

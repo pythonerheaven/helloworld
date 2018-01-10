@@ -1,0 +1,34 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ARCB 1 "ArcBest Corp."  0 STOCK
+1 US.CGI 1 萨拉东  0 STOCK
+2 US.CNI 1 加拿大国家铁路  0 STOCK
+3 US.CP 1 加拿大太平洋铁路  0 STOCK
+4 US.CSX 1 CSX运输  0 STOCK
+5 US.CVTI 1 契诺货运  0 STOCK
+6 US.EHIC 1 一嗨租车  0 STOCK
+7 US.FRPH 1 "FRP Holdings, Inc."  0 STOCK
+8 US.GSH 1 广深铁路  0 STOCK
+9 US.GWR 1 杰纳西及怀俄明  0 STOCK
+10 US.HTLD 1 哈特兰快递  0 STOCK
+11 US.HTZ 1 赫兹  0 STOCK
+12 US.HUBG 1 枢纽  0 STOCK
+13 US.JBHT 1 "JB Hunt运输服务"  0 STOCK
+14 US.KIQ 1 "Kelso Technologies, Inc."  0 STOCK
+15 US.KNX 1 "Knight-Swift Transportation Holdings, Inc."  0 STOCK
+16 US.KSU 1 堪萨斯南方铁路  0 STOCK
+17 US.LSTR 1 莱帝运输  0 STOCK
+18 US.MRTN 1 马尔登运输  0 STOCK
+19 US.NSC 1 诺福克南方  0 STOCK
+20 US.ODFL 1 "Old Dominion Freight Line, Inc."  0 STOCK
+21 US.PTSI 1 "P.A.M. Transportation Services, Inc."  0 STOCK
+22 US.RLGT 1 "Radiant Logistics, Inc."  0 STOCK
+23 US.SAIA 1 "Saia, Inc."  0 STOCK
+24 US.STB 1 "Student Transportation, Inc."  0 STOCK
+25 US.SWFT 1 美国转运交通公司  0 STOCK
+26 US.TRN 1 "Trinity Industries, Inc."  0 STOCK
+27 US.UHAL 1 AMERCO  0 STOCK
+28 US.UNP 1 联合太平洋  0 STOCK
+29 US.USAK 1 "USA Truck, Inc."  0 STOCK
+30 US.USDP 1 "USD Partners LP"  0 STOCK
+31 US.WERN 1 沃纳企业公司  0 STOCK
+32 US.YRCW 1 耶路全球  0 STOCK

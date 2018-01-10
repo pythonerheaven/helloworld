@@ -1,0 +1,210 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AAT 1 "American Assets Trust, Inc."  0 STOCK
+1 US.ACRE 1 战神商业房地产公司  0 STOCK
+2 US.ADC 1 美国同意房地产公司  0 STOCK
+3 US.AFCO 1 "AMERICAN FARMLAND CO "  0 STOCK
+4 US.AGNC 1 美国资本代理公司  0 STOCK
+5 US.AHH 1 "Armada Hoffler Properties, Inc."  0 STOCK
+6 US.AHP 1 "Ashford Hospitality Prime, Inc."  0 STOCK
+7 US.AHT 1 阿什福德酒店管理信托公司  0 STOCK
+8 US.AIV 1 公寓投管  0 STOCK
+9 US.AJX 1 "Great Ajax Corp."  0 STOCK
+10 US.AKR 1 阿卡迪亚房地产信托  0 STOCK
+11 US.ALX 1 亚历山大公司  0 STOCK
+12 US.AMH 1 "American Homes 4 Rent"  0 STOCK
+13 US.AMT 1 美国电塔  0 STOCK
+14 US.ANH 1 安沃思抵押资产公司  0 STOCK
+15 US.APLE 1 "Apple Hospitality REIT, Inc."  0 STOCK
+16 US.APTS 1 "Preferred Apartment Communities, Inc."  0 STOCK
+17 US.ARE 1 亚历山大房地产  0 STOCK
+18 US.ARI 1 阿波罗商业房地产  0 STOCK
+19 US.ARR 1 ARMOUR房地产资金信托  0 STOCK
+20 US.AVB 1 阿湾物产  0 STOCK
+21 US.BDN 1 布兰迪维因不动产信托  0 STOCK
+22 US.BFS 1 "Saul Centers, Inc."  0 STOCK
+23 US.BRG 1 "Bluerock Residential Growth REIT, Inc."  0 STOCK
+24 US.BRT 1 BRT房地产信托  0 STOCK
+25 US.BRX 1 "Brixmor Property Group, Inc."  0 STOCK
+26 US.BXMT 1 "Blackstone Mortgage Trust, Inc."  0 STOCK
+27 US.BXP 1 波士顿物产  0 STOCK
+28 US.CBL 1 CBL金融  0 STOCK
+29 US.CCP 1 "Care Capital Properties, Inc."  0 STOCK
+30 US.CDOR 1 "Condor Hospitality Trust, Inc."  0 STOCK
+31 US.CDR 1 西连购物中心  0 STOCK
+32 US.CHCT 1 "Community Healthcare Trust, Inc."  0 STOCK
+33 US.CHMI 1 "Cherry Hill Mortgage Investment Corp."  0 STOCK
+34 US.CHSP 1 "Chesapeake Lodging Trust"  0 STOCK
+35 US.CIM 1 奇美拉投资  0 STOCK
+36 US.CIO 1 "City Office REIT, Inc."  0 STOCK
+37 US.CLDT 1 "Chatham Lodging信托"  0 STOCK
+38 US.CLI 1 麦克凯利房地产  0 STOCK
+39 US.CLNY 1 科勒尼不动产  0 STOCK
+40 US.CMO 1 卡帕史丹抵押  0 STOCK
+41 US.CONE 1 "CyrusOne, Inc."  0 STOCK
+42 US.COR 1 CoreSite房产  0 STOCK
+43 US.CPT 1 卡姆登物业信托  0 STOCK
+44 US.CSAL 1 "Communications Sales & Leasing, Inc When Issued"  0 STOCK
+45 US.CTRE 1 "CareTrust REIT, Inc."  0 STOCK
+46 US.CTT 1 "CatchMark Timber Trust, Inc."  0 STOCK
+47 US.CUBE 1 CubeSmart  0 STOCK
+48 US.CUZ 1 卡津斯不动产信托基金  0 STOCK
+49 US.CXP 1 "Columbia Property Trust, Inc."  0 STOCK
+50 US.DCT 1 DCT工业信托  0 STOCK
+51 US.DDR 1 "DDR Corp."  0 STOCK
+52 US.DEA 1 "Easterly Government Properties, Inc."  0 STOCK
+53 US.DEI 1 道格拉斯艾美特  0 STOCK
+54 US.DFT 1 "DuPont Fabros Technology"  0 STOCK
+55 US.DLR 1 数字房地产信托公司  0 STOCK
+56 US.DOC 1 "Physicians Realty Trust"  0 STOCK
+57 US.DRE 1 杜克房地产  0 STOCK
+58 US.DRH 1 "DiamondRock Hospitality Co."  0 STOCK
+59 US.DX 1 德尼克斯投资  0 STOCK
+60 US.EARN 1 "Ellington Residential Mortgage REIT"  0 STOCK
+61 US.EDR 1 "Education Realty Trust, Inc."  0 STOCK
+62 US.EFC 1 Ellington投资  0 STOCK
+63 US.EGP 1 "EastGroup Properties, Inc."  0 STOCK
+64 US.ELS 1 宜居生活资产信托  0 STOCK
+65 US.EPR 1 娱乐房地产依托  0 STOCK
+66 US.EQC 1 "Equity Commonwealth"  0 STOCK
+67 US.EQR 1 资产住宅公司  0 STOCK
+68 US.EQY 1 "Equity One Inc"  0 STOCK
+69 US.ESRT 1 "Empire State Realty Trust, Inc."  0 STOCK
+70 US.ESS 1 埃塞克斯信托  0 STOCK
+71 US.EXR 1 "Extra Space Storage, Inc."  0 STOCK
+72 US.FCH 1 费尔科寄宿信托  0 STOCK
+73 US.FCPT 1 "Four Corners Property Trust, Inc."  0 STOCK
+74 US.FOR 1 福里斯特  0 STOCK
+75 US.FR 1 第一工业地产  0 STOCK
+76 US.FRT 1 FRT信托  0 STOCK
+77 US.FSP 1 "Franklin Street Properties Corp."  0 STOCK
+78 US.GFA 1 Gafisa建设  0 STOCK
+79 US.GGP 1 通用增长物业公司  0 STOCK
+80 US.GLPI 1 "Gaming & Leisure Properties, Inc."  0 STOCK
+81 US.GNL 1 "Global Net Lease, Inc."  0 STOCK
+82 US.GOOD 1 格拉德斯通商业  0 STOCK
+83 US.GRIF 1 "Griffin Industrial Realty, Inc."  0 STOCK
+84 US.GTY 1 "Getty Realty Corp."  0 STOCK
+85 US.GZT 1 "Gazit-Globe Ltd."  0 STOCK
+86 US.HASI 1 "Hannon Armstrong Sustainable Infrastructure Capital, Inc."  0 STOCK
+87 US.HCN 1 HCN房产信托  0 STOCK
+88 US.HCP 1 HCP房产信托  0 STOCK
+89 US.HF 1 HF抵押  0 STOCK
+90 US.HGSH 1 汉广厦房地产  0 STOCK
+91 US.HHC 1 "The Howard Hughes Corp."  0 STOCK
+92 US.HIFR 1 "InfraREIT, Inc."  0 STOCK
+93 US.HIW 1 海伍兹物业  0 STOCK
+94 US.HMG 1 "HMG/Courtland Properties, Inc."  0 STOCK
+95 US.HPP 1 "Hudson Pacific Properties, Inc."  0 STOCK
+96 US.HPT 1 HPT房产信托  0 STOCK
+97 US.HR 1 医疗保健房地产信托  0 STOCK
+98 US.HST 1 美国豪斯特酒店  0 STOCK
+99 US.HT 1 HT基金  0 STOCK
+100 US.HTA 1 "Healthcare Trust of America, Inc."  0 STOCK
+101 US.IMH 1 "Impac Mortgage Holdings, Inc."  0 STOCK
+102 US.INN 1 "Summit Hotel Properties"  0 STOCK
+103 US.INTG 1 "InterGroup Corp."  0 STOCK
+104 US.IOT 1 "Income Opportunity Realty Investors Inc"  0 STOCK
+105 US.IRCP 1 "IRSA Propiedades Comerciales SA"  0 STOCK
+106 US.IRET 1 IRET房产信托  0 STOCK
+107 US.IRS 1 "IRSA Inversiones y Representaciones SA"  0 STOCK
+108 US.IRT 1 "Independence Realty Trust, Inc."  0 STOCK
+109 US.IVR 1 景顺抵押资本  0 STOCK
+110 US.JCAP 1 "Jernigan Capital, Inc."  0 STOCK
+111 US.KIM 1 金科  0 STOCK
+112 US.KRC 1 吉劳埃地产  0 STOCK
+113 US.KRG 1 凯特地产信托  0 STOCK
+114 US.KW 1 "Kennedy-Wilson Holdings, Inc."  0 STOCK
+115 US.LADR 1 "Ladder Capital Corp."  0 STOCK
+116 US.LAND 1 "Gladstone Land Corp."  0 STOCK
+117 US.LHO 1 拉萨尔饭店  0 STOCK
+118 US.LMRK 1 "Landmark Infrastructure Partners"  0 STOCK
+119 US.LPT 1 "Liberty Property Trust"  0 STOCK
+120 US.LXP 1 莱星顿置业信托  0 STOCK
+121 US.MAA 1 MAA房产信托  0 STOCK
+122 US.MAC 1 马塞里奇房产  0 STOCK
+123 US.MAYS 1 梅斯物业  0 STOCK
+124 US.MFA 1 "MFA Financial, Inc."  0 STOCK
+125 US.MITT 1 "AG Mortgage Investment Trust, Inc."  0 STOCK
+126 US.MNR 1 "Monmouth Real Estate Investment Corp."  0 STOCK
+127 US.MPW 1 "Medical Properties Trust, Inc."  0 STOCK
+128 US.MTGE 1 "MTGE Investment Corp."  0 STOCK
+129 US.NCT 1 "Newcastle Investment Corp (已退市)"  0 STOCK
+130 US.NEN 1 "New England Realty Associates LP"  0 STOCK
+131 US.NHI 1 "National Health Investors, Inc."  0 STOCK
+132 US.NLY 1 "Annaly Capital Management, Inc."  0 STOCK
+133 US.NMIH 1 "NMI Holdings, Inc."  0 STOCK
+134 US.NNN 1 "National Retail Properties, Inc."  0 STOCK
+135 US.NRF 1 "Northstar Realty Finance Corp"  0 STOCK
+136 US.NRZ 1 "New Residential Investment Corp."  0 STOCK
+137 US.NXRT 1 "NexPoint Residential Trust, Inc."  0 STOCK
+138 US.NYMT 1 纽约抵押信托  0 STOCK
+139 US.NYRT 1 "New York REIT, Inc."  0 STOCK
+140 US.O 1 "Realty Income Corp."  0 STOCK
+141 US.OAK 1 橡树资本  0 STOCK
+142 US.OAKS 1 "Five Oaks Investment Corp."  0 STOCK
+143 US.OBAS 1 阿贝斯  0 STOCK
+144 US.OFC 1 "Corporate Office Properties Trust, Inc."  0 STOCK
+145 US.OHI 1 "Omega Healthcare Investors, Inc."  0 STOCK
+146 US.OLP 1 "One Liberty Properties, Inc."  0 STOCK
+147 US.ORC 1 "Orchid Island Capital, Inc."  0 STOCK
+148 US.ORM 1 "Owens Realty Mortgage, Inc."  0 STOCK
+149 US.PCH 1 "Potlatch Corp."  0 STOCK
+150 US.PDM 1 "Piedmont Office Realty Trust, Inc."  0 STOCK
+151 US.PEB 1 "Pebblebrook Hotel Trust"  0 STOCK
+152 US.PEI 1 宾夕法尼亚房地产投资信托  0 STOCK
+153 US.PGRE 1 "Paramount Group, Inc."  0 STOCK
+154 US.PLD 1 普洛斯  0 STOCK
+155 US.PMT 1 "PennyMac Mortgage Investment Trust"  0 STOCK
+156 US.PPS 1 "波斯特房产信托 (已退市)"  0 STOCK
+157 US.PSA 1 公共存储公司  0 STOCK
+158 US.PSB 1 "PS Business Parks, Inc."  0 STOCK
+159 US.PW 1 "Power REIT"  0 STOCK
+160 US.QTS 1 "QTS Realty Trust, Inc."  0 STOCK
+161 US.RAS 1 "RAIT Financial Trust"  0 STOCK
+162 US.REG 1 "Regency Centers Corp."  0 STOCK
+163 US.REXR 1 "Rexford Industrial Realty, Inc."  0 STOCK
+164 US.RHP 1 "Ryman Hospitality Properties, Inc."  0 STOCK
+165 US.RLJ 1 "RLJ Lodging Trust"  0 STOCK
+166 US.ROIC 1 "Retail Opportunity Investments Corp."  0 STOCK
+167 US.RPAI 1 "Retail Properties of America, Inc."  0 STOCK
+168 US.RPT 1 "Ramco-Gershenson Properties Trust"  0 STOCK
+169 US.RSO 1 "Resource Capital Corp."  0 STOCK
+170 US.RWT 1 "Redwood Trust, Inc."  0 STOCK
+171 US.SBRA 1 "Sabra Health Care REIT, Inc."  0 STOCK
+172 US.SHO 1 "Sunstone Hotel Investors, Inc."  0 STOCK
+173 US.SIR 1 "Select Income REIT"  0 STOCK
+174 US.SKT 1 "Tanger Factory Outlet Centers, Inc."  0 STOCK
+175 US.SLG 1 "SL Green Realty Corp."  0 STOCK
+176 US.SNH 1 "Senior Housing Properties Trust"  0 STOCK
+177 US.SOHO 1 "Sotherly Hotels, Inc."  0 STOCK
+178 US.SPG 1 西蒙地产  0 STOCK
+179 US.SSS 1 "Sovran Self Storage Inc (已退市)"  0 STOCK
+180 US.STAG 1 "STAG Industrial, Inc."  0 STOCK
+181 US.STC 1 "Stewart Information Services Corp."  0 STOCK
+182 US.STRS 1 "Stratus Properties, Inc."  0 STOCK
+183 US.STWD 1 "Starwood Property Trust, Inc."  0 STOCK
+184 US.SUI 1 "Sun Communities, Inc."  0 STOCK
+185 US.TCI 1 "Transcontinental Realty Investors, Inc."  0 STOCK
+186 US.TCO 1 陶布曼中心  0 STOCK
+187 US.TIER 1 "TIER REIT, Inc."  0 STOCK
+188 US.TRC 1 "Tejon Ranch Co."  0 STOCK
+189 US.TRNO 1 "Terreno Realty Corp."  0 STOCK
+190 US.TWO 1 "Two Harbors Investment Corp."  0 STOCK
+191 US.UBA 1 "Urstadt Biddle Properties, Inc."  0 STOCK
+192 US.UBP 1 优士达不动产  0 STOCK
+193 US.UCP 1 "UCP INC"  0 STOCK
+194 US.UDR 1 UDR不动产信托  0 STOCK
+195 US.UE 1 "Urban Edge Properties"  0 STOCK
+196 US.UHT 1 "Universal Health Realty Income Trust"  0 STOCK
+197 US.UMH 1 "UMH Properties, Inc."  0 STOCK
+198 US.VNO 1 沃那多房信  0 STOCK
+199 US.VRTB 1 威斯廷二号不动产抵押  0 STOCK
+200 US.VTR 1 芬塔公司  0 STOCK
+201 US.WAC 1 "Walter Investment Management Corp."  0 STOCK
+202 US.WMC 1 "Western Asset Mortgage Capital Corp."  0 STOCK
+203 US.WPG 1 "Washington Prime Group, Inc."  0 STOCK
+204 US.WRE 1 "Washington Real Estate Investment Trust"  0 STOCK
+205 US.WRI 1 魏因加滕房地产投资信托基金  0 STOCK
+206 US.WSR 1 "Whitestone REIT"  0 STOCK
+207 US.XHR 1 "Xenia Hotels & Resorts, Inc."  0 STOCK
+208 US.ZFC 1 "ZAIS Financial Corp. (已退市)"  0 STOCK

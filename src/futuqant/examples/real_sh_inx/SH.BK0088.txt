@@ -1,0 +1,6 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000889 100 茂业通信  0 STOCK
+1 SZ.002467 100 二六三  0 STOCK
+2 SZ.300571 100 平治信息  0 STOCK
+3 SZ.300578 100 会畅通讯  0 STOCK
+4 SH.600050 100 中国联通  0 STOCK

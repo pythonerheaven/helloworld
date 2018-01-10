@@ -1,0 +1,17 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00032 1000 港通控股  0 STOCK
+1 HK.00066 500 港铁公司  0 STOCK
+2 HK.00097 1000 恒基发展  0 STOCK
+3 HK.00107 2000 四川成渝高速公路  0 STOCK
+4 HK.00152 500 深圳国际  0 STOCK
+5 HK.00177 2000 江苏宁沪高速公路  0 STOCK
+6 HK.00269 5000 中国资源交通  0 STOCK
+7 HK.00351 10000 亚洲能源物流  0 STOCK
+8 HK.00525 2000 广深铁路股份  0 STOCK
+9 HK.00548 2000 深圳高速公路股份  0 STOCK
+10 HK.00576 2000 浙江沪杭甬  0 STOCK
+11 HK.00737 500 合和公路基建  0 STOCK
+12 HK.00995 2000 安徽皖通高速公路  0 STOCK
+13 HK.01052 2000 越秀交通基建  0 STOCK
+14 HK.01823 2000 华昱高速  0 STOCK
+15 HK.80737 500 合和公路基建-R  0 STOCK

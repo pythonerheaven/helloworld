@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SH.600095 100 哈高科  0 STOCK
+1 SH.600178 100 东安动力  0 STOCK
+2 SH.600202 100 哈空调  0 STOCK
+3 SH.600289 100 ST信通  0 STOCK
+4 SH.600701 100 工大高新  0 STOCK
+5 SH.600811 100 东方集团  0 STOCK
+6 SH.600853 100 龙建股份  0 STOCK
+7 SH.600864 100 哈投股份  0 STOCK
+8 SH.600891 100 秋林集团  0 STOCK
+9 SH.601188 100 龙江交通  0 STOCK

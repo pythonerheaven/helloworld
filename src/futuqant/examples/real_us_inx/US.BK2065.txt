@@ -1,0 +1,25 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AHGP 1 阿莱恩斯控股  0 STOCK
+1 US.AMTX 1 "Aemetis, Inc."  0 STOCK
+2 US.ARLP 1 "Alliance Resource Partners LP"  0 STOCK
+3 US.BLDP 1 巴拉德动力系统  0 STOCK
+4 US.CLD 1 "Cloud Peak Energy, Inc."  0 STOCK
+5 US.CLMT 1 卡路美  0 STOCK
+6 US.CLNE 1 "Clean Energy Fuels Corp"  0 STOCK
+7 US.CNX 1 康索尔能源  0 STOCK
+8 US.CNXC 1 "CNX COAL RESOURCES LP"  0 STOCK
+9 US.FELP 1 "Foresight Energy LP"  0 STOCK
+10 US.GEVO 1 "Gevo, Inc."  0 STOCK
+11 US.GRBK 1 "Green Brick Partners, Inc."  0 STOCK
+12 US.HNRG 1 Hallador能源  0 STOCK
+13 US.INT 1 全球燃料服务  0 STOCK
+14 US.MNGA 1 "MagneGas Corp."  0 STOCK
+15 US.MUSA 1 "Murphy USA, Inc."  0 STOCK
+16 US.NRP 1 "Natural Resource Partners LP"  0 STOCK
+17 US.REGI 1 "Renewable Energy Group, Inc."  0 STOCK
+18 US.REX 1 "REX American Resources Corp."  0 STOCK
+19 US.SXCP 1 "SunCoke Energy Partners LP"  0 STOCK
+20 US.TRQ 1 "Turquoise Hill Resources Ltd."  0 STOCK
+21 US.WLB 1 "Westmoreland Coal Co."  0 STOCK
+22 US.WMLP 1 "Westmoreland Resource Partners LP"  0 STOCK
+23 US.YZC 1 兖州煤业  0 STOCK

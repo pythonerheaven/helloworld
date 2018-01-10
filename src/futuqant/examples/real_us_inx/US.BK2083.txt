@@ -1,0 +1,12 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.FBR 1 "Fibria Celulose纸业"  0 STOCK
+1 US.GLT 1 PH格拉特费尔  0 STOCK
+2 US.IP 1 国际纸业公司  0 STOCK
+3 US.KAI 1 凯登纸业  0 STOCK
+4 US.KS 1 KapStone造纸  0 STOCK
+5 US.MERC 1 美世国际  0 STOCK
+6 US.NP 1 尼拿纸业  0 STOCK
+7 US.ONP 1 东方纸业  0 STOCK
+8 US.RFP 1 "Resolute Forest Products, Inc."  0 STOCK
+9 US.SWM 1 "Schweitzer-Mauduit International, Inc."  0 STOCK
+10 US.UFS 1 "Domtar Corp."  0 STOCK

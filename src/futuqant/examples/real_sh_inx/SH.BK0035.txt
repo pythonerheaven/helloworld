@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.002151 100 北斗星通  0 STOCK
+1 SZ.002829 100 星网宇达  0 STOCK
+2 SZ.300101 100 振芯科技  0 STOCK
+3 SZ.300456 100 耐威科技  0 STOCK
+4 SZ.300474 100 景嘉微  0 STOCK
+5 SZ.300581 100 晨曦航空  0 STOCK
+6 SH.600118 100 中国卫星  0 STOCK
+7 SH.600343 100 航天动力  0 STOCK
+8 SH.600677 100 航天通信  0 STOCK
+9 SH.600879 100 航天电子  0 STOCK

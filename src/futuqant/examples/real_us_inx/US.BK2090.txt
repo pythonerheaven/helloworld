@@ -1,0 +1,20 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AAL 1 美国航空  0 STOCK
+1 US.ALK 1 阿拉斯加航空集团有限公司  0 STOCK
+2 US.CEA 1 东方航空  0 STOCK
+3 US.CPA 1 科帕控股  0 STOCK
+4 US.DAL 1 达美航空  0 STOCK
+5 US.GOL 1 勒莫国航  0 STOCK
+6 US.HA 1 夏威夷控股  0 STOCK
+7 US.JBLU 1 捷蓝航空  0 STOCK
+8 US.LFL 1 "LATAM Airlines Group S.A. ADS"  0 STOCK
+9 US.LUV 1 西南航空  0 STOCK
+10 US.PAC 1 太平洋航空  0 STOCK
+11 US.PHII 1 "PHI, Inc."  0 STOCK
+12 US.PHIIK 1 "PHI, Inc."  0 STOCK
+13 US.RYAAY 1 "Ryanair Holdings Plc"  0 STOCK
+14 US.SAVE 1 "Spirit Airlines, Inc."  0 STOCK
+15 US.SKYW 1 西空航空  0 STOCK
+16 US.UAL 1 联合大陆航空  0 STOCK
+17 US.VLRS 1 "Controladora Vuela Compania de Aviacion"  0 STOCK
+18 US.ZNH 1 南方航空  0 STOCK

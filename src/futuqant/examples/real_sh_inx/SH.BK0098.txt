@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SH.600064 100 南京高科  0 STOCK
+1 SH.600215 100 长春经开  0 STOCK
+2 SH.600463 100 空港股份  0 STOCK
+3 SH.600604 100 市北高新  0 STOCK
+4 SH.600639 100 浦东金桥  0 STOCK
+5 SH.600648 100 外高桥  0 STOCK
+6 SH.600658 100 电子城  0 STOCK
+7 SH.600663 100 陆家嘴  0 STOCK
+8 SH.600848 100 上海临港  0 STOCK
+9 SH.600895 100 张江高科  0 STOCK

@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ANTM 1 "Anthem, Inc."  0 STOCK
+1 US.CI 1 信诺  0 STOCK
+2 US.FMS 1 "Fresenius Medical Care AG & Co K"  0 STOCK
+3 US.GTS 1 三S管理  0 STOCK
+4 US.HQY 1 HealthEquity  0 STOCK
+5 US.HUM 1 休曼纳  0 STOCK
+6 US.KANG 1 爱康国宾  0 STOCK
+7 US.MOH 1 "Molina Healthcare, Inc."  0 STOCK
+8 US.UNH 1 联合健康  0 STOCK
+9 US.WCG 1 "WellCare Health Plans, Inc."  0 STOCK

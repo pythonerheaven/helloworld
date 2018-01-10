@@ -1,0 +1,25 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AAC 1 "AAC Holdings, Inc."  0 STOCK
+1 US.ACHC 1 阿卡迪亚医疗保健公司  0 STOCK
+2 US.ADUS 1 爱德斯  0 STOCK
+3 US.AFAM 1 阿莫斯特家庭保健  0 STOCK
+4 US.AHS 1 "AMN医疗保健服务公司 (已退市)"  0 STOCK
+5 US.AMED 1 阿米斯医疗  0 STOCK
+6 US.ATOS 1 "Atossa Genetics, Inc."  0 STOCK
+7 US.BIOS 1 拜尔斯普保健  0 STOCK
+8 US.CHE 1 "Chemed Corp."  0 STOCK
+9 US.CIVI 1 "Civitas Solutions, Inc."  0 STOCK
+10 US.CNC 1 "Centene Corp."  0 STOCK
+11 US.CRCM 1 "Care.com, Inc."  0 STOCK
+12 US.DVA 1 "DaVita Inc."  0 STOCK
+13 US.DVCR 1 "Diversicare Healthcare Services, Inc."  0 STOCK
+14 US.ENSG 1 恩赛因  0 STOCK
+15 US.ENTL 1 "ENTELLUS MEDICAL INC"  0 STOCK
+16 US.HH 1 "Hooper Holmes Inc"  0 STOCK
+17 US.HWAY 1 健康之路医疗  0 STOCK
+18 US.LH 1 实验美控  0 STOCK
+19 US.LHCG 1 "LHC Group, Inc."  0 STOCK
+20 US.MD 1 "MEDNAX, Inc."  0 STOCK
+21 US.NHC 1 "National HealthCare Corp."  0 STOCK
+22 US.OPGN 1 "OpGen, Inc."  0 STOCK
+23 US.TDOC 1 "Teladoc, Inc."  0 STOCK

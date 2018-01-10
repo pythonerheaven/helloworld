@@ -1,0 +1,4 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00338 2000 上海石油化工股份  0 STOCK
+1 HK.00386 2000 中国石油化工股份  0 STOCK
+2 HK.01033 2000 中石化油服  0 STOCK

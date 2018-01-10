@@ -1,0 +1,21 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ABCD 1 新生  0 STOCK
+1 US.APEI 1 美国公共教育公司  0 STOCK
+2 US.ATAI 1 ATA公司  0 STOCK
+3 US.BFAM 1 "Bright Horizons Family Solutions, Inc."  0 STOCK
+4 US.BPI 1 "Bridgepoint Education, Inc."  0 STOCK
+5 US.CECO 1 职业教育  0 STOCK
+6 US.CHGG 1 "Chegg, Inc."  0 STOCK
+7 US.CPLA 1 卡佩拉教育  0 STOCK
+8 US.DL 1 正保远程教育  0 STOCK
+9 US.DV 1 "DeVry Inc"  0 STOCK
+10 US.EDU 1 新东方  0 STOCK
+11 US.GHC 1 "Graham Holdings Cpmpany"  0 STOCK
+12 US.HLG 1 海亮教育  0 STOCK
+13 US.LINC 1 林肯教育服务  0 STOCK
+14 US.LOPE 1 大峡谷教育  0 STOCK
+15 US.LRN 1 K12国际学校  0 STOCK
+16 US.NAUH 1 "National American University Holdings, Inc."  0 STOCK
+17 US.PSO 1 培生  0 STOCK
+18 US.STRA 1 "Strayer Education, Inc."  0 STOCK
+19 US.UTI 1 "Universal Technical Institute, Inc."  0 STOCK

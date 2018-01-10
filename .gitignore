@@ -3,3 +3,6 @@ geckodriver.log
 .DS_Store
 mydata.db
 *.svg
+build
+dist
+helloworld.egg-info

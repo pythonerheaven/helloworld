@@ -1,0 +1,4 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ASR 1 "Grupo Aeroportuario del Sureste"  0 STOCK
+1 US.MIC 1 麦格里基础设施  0 STOCK
+2 US.OMAB 1 北方中心机场  0 STOCK

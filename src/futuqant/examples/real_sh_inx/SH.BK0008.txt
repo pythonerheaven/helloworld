@@ -1,0 +1,14 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000415 100 渤海金控  0 STOCK
+1 SZ.000416 100 民生控股  0 STOCK
+2 SZ.000563 100 陕国投A  0 STOCK
+3 SZ.000666 100 经纬纺机  0 STOCK
+4 SZ.300023 100 宝德股份  0 STOCK
+5 SH.600318 100 新力金融  0 STOCK
+6 SH.600643 100 爱建集团  0 STOCK
+7 SH.600705 100 中航资本  0 STOCK
+8 SH.600747 100 *ST大控  0 STOCK
+9 SH.600783 100 鲁信创投  0 STOCK
+10 SH.600816 100 安信信托  0 STOCK
+11 SH.600830 100 香溢融通  0 STOCK
+12 SH.603300 100 华铁科技  0 STOCK

@@ -1,0 +1,10 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.002119 100 康强电子  0 STOCK
+1 SZ.002269 100 美邦服饰  0 STOCK
+2 SZ.002298 100 中电鑫龙  0 STOCK
+3 SZ.002515 100 金字火腿  0 STOCK
+4 SZ.002529 100 海源机械  0 STOCK
+5 SH.600086 100 东方金钰  0 STOCK
+6 SH.600288 100 大恒科技  0 STOCK
+7 SH.600401 100 *ST海润  0 STOCK
+8 SH.601010 100 文峰股份  0 STOCK

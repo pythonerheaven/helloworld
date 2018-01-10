@@ -1,0 +1,15 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AVP 1 雅芳  0 STOCK
+1 US.CAW 1 "CCA Industries, Inc."  0 STOCK
+2 US.CL 1 高露洁  0 STOCK
+3 US.COTY 1 科蒂  0 STOCK
+4 US.EL 1 雅诗兰黛  0 STOCK
+5 US.EPC 1 "Edgewell Personal Care Co."  0 STOCK
+6 US.IPAR 1 依特香水  0 STOCK
+7 US.KMB 1 金伯利  0 STOCK
+8 US.MTEX 1 寰泰生技  0 STOCK
+9 US.NHTC 1 "Natural Health Trends Corp."  0 STOCK
+10 US.NUS 1 如新集团  0 STOCK
+11 US.REV 1 露华浓  0 STOCK
+12 US.SPB 1 "Spectrum Brands Holdings, Inc."  0 STOCK
+13 US.UG 1 "United-Guardian, Inc."  0 STOCK

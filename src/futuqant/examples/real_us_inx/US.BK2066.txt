@@ -1,0 +1,13 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ATO 1 ATMOS能源公司  0 STOCK
+1 US.CPK 1 切萨皮克气业  0 STOCK
+2 US.NFG 1 "National Fuel Gas Co."  0 STOCK
+3 US.NGG 1 英国国家电网公司  0 STOCK
+4 US.NI 1 印北瓦电  0 STOCK
+5 US.NJR 1 新泽西能源  0 STOCK
+6 US.NWN 1 西北天然气  0 STOCK
+7 US.PCG 1 太平洋煤气电力  0 STOCK
+8 US.RGCO 1 "RGC Resources, Inc."  0 STOCK
+9 US.SJI 1 "South Jersey Industries, Inc."  0 STOCK
+10 US.VVC 1 埃文斯威市电力  0 STOCK
+11 US.WGL 1 WGL控股  0 STOCK

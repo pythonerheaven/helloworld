@@ -1,0 +1,26 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ADK 1 "AdCare Health Systems"  0 STOCK
+1 US.ADPT 1 "ADEPTUS HEALTH INC."  0 STOCK
+2 US.AMSG 1 "埃姆外科 (已退市)"  0 STOCK
+3 US.BKD 1 布鲁克代尔高级护理  0 STOCK
+4 US.CO 1 中国脐带血库  0 STOCK
+5 US.CSU 1 "Capital Senior Living Corp."  0 STOCK
+6 US.CYH 1 "Community Health Systems, Inc."  0 STOCK
+7 US.EVHC 1 "Envision Healthcare Holdings, Inc."  0 STOCK
+8 US.FVE 1 "Five Star Senior Living, Inc."  0 STOCK
+9 US.GEN 1 "Genesis Healthcare, Inc."  0 STOCK
+10 US.HCA 1 HCA控股  0 STOCK
+11 US.HLS 1 南方保健  0 STOCK
+12 US.HLTH 1 "Nobilis Health Corp."  0 STOCK
+13 US.HYH 1 "Halyard Health, Inc."  0 STOCK
+14 US.KND 1 金德里德保健  0 STOCK
+15 US.LPNT 1 "LifePoint Health, Inc."  0 STOCK
+16 US.MGLN 1 麦哲伦健康服务  0 STOCK
+17 US.SCAI 1 "SURGICAL CARE AFFILIATES INC COM"  0 STOCK
+18 US.SEM 1 "Select Medical Holdings Corp."  0 STOCK
+19 US.SIEN 1 Sientra  0 STOCK
+20 US.SSY 1 "SunLink Health Systems, Inc."  0 STOCK
+21 US.STRM 1 "Streamline Health Solutions, Inc."  0 STOCK
+22 US.THC 1 泰尼特  0 STOCK
+23 US.UHS 1 "Universal Health Services Inc Cl B"  0 STOCK
+24 US.USPH 1 "U.S. Physical Therapy, Inc."  0 STOCK

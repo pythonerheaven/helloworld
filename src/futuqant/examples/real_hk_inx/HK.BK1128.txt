@@ -1,0 +1,10 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00135 2000 昆仑能源  0 STOCK
+1 HK.00342 2000 新海能源  0 STOCK
+2 HK.00384 200 中国燃气(二百)  0 STOCK
+3 HK.00392 500 北京控股  0 STOCK
+4 HK.00603 20000 中油燃气  0 STOCK
+5 HK.01083 1000 港华燃气  0 STOCK
+6 HK.01193 2000 华润燃气  0 STOCK
+7 HK.02688 1000 新奥能源  0 STOCK
+8 HK.03633 2000 中裕燃气  0 STOCK

@@ -1,0 +1,8 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00285 500 比亚迪电子  0 STOCK
+1 HK.00698 10000 通达集团  0 STOCK
+2 HK.01415 1000 高伟电子  0 STOCK
+3 HK.02018 500 瑞声科技  0 STOCK
+4 HK.02038 1000 富智康集团  0 STOCK
+5 HK.02283 2000 东江集团控股  0 STOCK
+6 HK.02382 1000 舜宇光学科技  0 STOCK

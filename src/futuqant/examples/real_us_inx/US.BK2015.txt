@@ -1,0 +1,73 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ADI 1 亚德诺  0 STOCK
+1 US.AMBA 1 安霸  0 STOCK
+2 US.AMCC 1 应用微电路公司  0 STOCK
+3 US.AMD 1 美国超微公司  0 STOCK
+4 US.AMKR 1 艾马克技术公司  0 STOCK
+5 US.AOSL 1 阿尔法和欧米伽半导体有限公司  0 STOCK
+6 US.ASX 1 日月光半导体  0 STOCK
+7 US.AVGO 1 博通  0 STOCK
+8 US.AXTI 1 AXT  0 STOCK
+9 US.CAMT 1 康特科技  0 STOCK
+10 US.CAVM 1 卡姆网络  0 STOCK
+11 US.CCMP 1 卡伯特微电子  0 STOCK
+12 US.CEVA 1 "CEVA, Inc."  0 STOCK
+13 US.CRUS 1 凌云半导体  0 STOCK
+14 US.CY 1 赛普拉斯半导体  0 STOCK
+15 US.DIOD 1 "Diodes, Inc."  0 STOCK
+16 US.DQ 1 大全新能源  0 STOCK
+17 US.DSPG 1 "DSP Group, Inc."  0 STOCK
+18 US.EMAN 1 "eMagin Corp."  0 STOCK
+19 US.FORM 1 "FormFactor, Inc."  0 STOCK
+20 US.HIMX 1 奇景光电  0 STOCK
+21 US.HQCL 1 "Hanwha Q CELLS Co., Ltd."  0 STOCK
+22 US.IDTI 1 集成设备技术  0 STOCK
+23 US.INTC 1 英特尔  0 STOCK
+24 US.IPHI 1 "Inphi Corp."  0 STOCK
+25 US.IXYS 1 "IXYS Corp."  0 STOCK
+26 US.KYO 1 日本京瓷  0 STOCK
+27 US.LLTC 1 凌力尔特  0 STOCK
+28 US.LPTH 1 "LightPath Technologies, Inc."  0 STOCK
+29 US.LSCC 1 莱迪思半导体  0 STOCK
+30 US.MCHP 1 微芯科技  0 STOCK
+31 US.MLNX 1 迈勒罗斯科技  0 STOCK
+32 US.MOSY 1 正一科技  0 STOCK
+33 US.MPWR 1 "Monolithic Power Systems, Inc."  0 STOCK
+34 US.MRVL 1 迈威尔科技  0 STOCK
+35 US.MSCC 1 美高森美集成电路  0 STOCK
+36 US.MTSI 1 "MACOM Technology Solutions Holdings, Inc."  0 STOCK
+37 US.MU 1 美光科技  0 STOCK
+38 US.MX 1 "MagnaChip Semiconductor Corp."  0 STOCK
+39 US.MXIM 1 美信集成  0 STOCK
+40 US.MXL 1 "MaxLinear, Inc."  0 STOCK
+41 US.NEON 1 "Neonode, Inc."  0 STOCK
+42 US.NPTN 1 "NeoPhotonics Corp."  0 STOCK
+43 US.NVDA 1 英伟达  0 STOCK
+44 US.NVEC 1 "NVE Corp."  0 STOCK
+45 US.NXPI 1 恩智浦  0 STOCK
+46 US.OIIM 1 凹凸科技  0 STOCK
+47 US.OLED 1 "Universal Display Corp."  0 STOCK
+48 US.PKE 1 "Park Electrochemical Corp."  0 STOCK
+49 US.PLAB 1 福尼克斯  0 STOCK
+50 US.POWI 1 帕沃英蒂格盛  0 STOCK
+51 US.PRKR 1 "ParkerVision, Inc."  0 STOCK
+52 US.PXLW 1 美国像素  0 STOCK
+53 US.QUIK 1 快辑半导体  0 STOCK
+54 US.RBCN 1 卢比肯科技  0 STOCK
+55 US.RESN 1 "Resonant, Inc."  0 STOCK
+56 US.RMBS 1 "Rambus, Inc."  0 STOCK
+57 US.RVLT 1 "Revolution Lighting Technologies, Inc."  0 STOCK
+58 US.SGMA 1 喜玛庆国际  0 STOCK
+59 US.SIGM 1 西格玛设计  0 STOCK
+60 US.SIMO 1 慧荣科技  0 STOCK
+61 US.SLAB 1 芯科实验室  0 STOCK
+62 US.SMI 1 中芯国际  0 STOCK
+63 US.SMTC 1 先科电子  0 STOCK
+64 US.STM 1 意法半导体  0 STOCK
+65 US.SWKS 1 思佳讯  0 STOCK
+66 US.TSEM 1 "Tower Semiconductor Ltd."  0 STOCK
+67 US.TSM 1 台积电  0 STOCK
+68 US.UMC 1 联电  0 STOCK
+69 US.VSH 1 威世科技  0 STOCK
+70 US.XLNX 1 赛灵思  0 STOCK
+71 US.XPER 1 "Tessera Holding Corporation"  0 STOCK

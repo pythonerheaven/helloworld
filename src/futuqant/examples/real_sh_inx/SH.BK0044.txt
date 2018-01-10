@@ -1,0 +1,12 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.002155 100 湖南黄金  0 STOCK
+1 SZ.002237 100 恒邦股份  0 STOCK
+2 SH.600311 100 荣华实业  0 STOCK
+3 SH.600385 100 山东金泰  0 STOCK
+4 SH.600489 100 中金黄金  0 STOCK
+5 SH.600547 100 山东黄金  0 STOCK
+6 SH.600687 100 刚泰控股  0 STOCK
+7 SH.600766 100 园城黄金  0 STOCK
+8 SH.600988 100 赤峰黄金  0 STOCK
+9 SH.601069 100 西部黄金  0 STOCK
+10 SH.601899 100 紫金矿业  0 STOCK

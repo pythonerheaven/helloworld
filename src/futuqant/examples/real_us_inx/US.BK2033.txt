@@ -1,0 +1,23 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ACM 1 "AECOM Technology Corporation"  0 STOCK
+1 US.CBI 1 西比埃公司  0 STOCK
+2 US.DY 1 戴康工业  0 STOCK
+3 US.ENG 1 ENG环球  0 STOCK
+4 US.FIX 1 "Comfort Systems USA, Inc."  0 STOCK
+5 US.GLDD 1 "Great Lakes Dredge & Dock Corp."  0 STOCK
+6 US.GRAM 1 "Grana y Montero S.A.A"  0 STOCK
+7 US.GVA 1 花岗岩建筑  0 STOCK
+8 US.ICA 1 "Empresas ICA S.A. de C.V. ADS"  0 STOCK
+9 US.IESC 1 "IES Holdings, Inc."  0 STOCK
+10 US.KBR 1 KBR科技  0 STOCK
+11 US.LAYN 1 莱尼-克里斯滕森工程  0 STOCK
+12 US.MTZ 1 "MasTec, Inc."  0 STOCK
+13 US.MYRG 1 "MYR Group, Inc."  0 STOCK
+14 US.NWHM 1 "The New Home Co., Inc."  0 STOCK
+15 US.ORN 1 "Orion Group Holdings, Inc."  0 STOCK
+16 US.PRIM 1 "Primoris Services Corp."  0 STOCK
+17 US.PWR 1 广达公司  0 STOCK
+18 US.STRL 1 "Sterling Construction Company Inc"  0 STOCK
+19 US.THR 1 "Thermon Group Holdings, Inc."  0 STOCK
+20 US.TPC 1 "Tutor Perini Corp."  0 STOCK
+21 US.WPCS 1 "WPCS International, Inc."  0 STOCK

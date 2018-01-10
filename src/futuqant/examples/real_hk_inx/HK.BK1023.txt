@@ -1,0 +1,7 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00288 500 万洲国际  0 STOCK
+1 HK.00834 4000 康大食品  0 STOCK
+2 HK.01068 1000 雨润食品  0 STOCK
+3 HK.01174 2000 太平洋恩利  0 STOCK
+4 HK.01340 4000 惠生国际  0 STOCK
+5 HK.01699 4000 普甜食品  0 STOCK

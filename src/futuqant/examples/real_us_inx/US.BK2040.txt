@@ -1,0 +1,13 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ARW 1 艾睿  0 STOCK
+1 US.CDW 1 "CDW Corp."  0 STOCK
+2 US.CLS 1 天弘科技  0 STOCK
+3 US.IOTS 1 "ADESTO TECHNOLOGIES CORP"  0 STOCK
+4 US.MKSI 1 MKS仪器  0 STOCK
+5 US.NSIT 1 "Insight Enterprises, Inc."  0 STOCK
+6 US.OTIV 1 "On Track Innovations Ltd."  0 STOCK
+7 US.PCCC 1 "PC Connection"  0 STOCK
+8 US.SCSC 1 "ScanSource, Inc."  0 STOCK
+9 US.SITO 1 "SITO Mobile Ltd."  0 STOCK
+10 US.SYX 1 "Systemax, Inc."  0 STOCK
+11 US.TAIT 1 "Taitron Components, Inc."  0 STOCK

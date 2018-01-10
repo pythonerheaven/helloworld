@@ -1,0 +1,59 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ABY 1 "Atlantica Yield Plc"  0 STOCK
+1 US.ADGE 1 美国DG能源公司  0 STOCK
+2 US.AEE 1 阿美能  0 STOCK
+3 US.AEP 1 美国电力  0 STOCK
+4 US.AES 1 爱依斯电力  0 STOCK
+5 US.ALE 1 阿里特  0 STOCK
+6 US.AT 1 "Atlantic Power Corp"  0 STOCK
+7 US.BEP 1 "Brookfield Renewable Energy Partners LP Partnership Units (Bermu"  0 STOCK
+8 US.BIP 1 布鲁克菲尔德公共建设  0 STOCK
+9 US.BKH 1 黑山  0 STOCK
+10 US.CIG 1 "Companhia Energetica de Minas Ge"  0 STOCK
+11 US.CNP 1 中点能源  0 STOCK
+12 US.CPL 1 CPFL能源  0 STOCK
+13 US.CPN 1 卡尔派电业  0 STOCK
+14 US.CREG 1 盈丰科技  0 STOCK
+15 US.CZZ 1 科桑  0 STOCK
+16 US.D 1 道明尼资源  0 STOCK
+17 US.DTE 1 DTE能源  0 STOCK
+18 US.DUK 1 杜克能源  0 STOCK
+19 US.DYN 1 戴纳基  0 STOCK
+20 US.EDN 1 恩普雷萨电力  0 STOCK
+21 US.EE 1 阿尔帕索电力  0 STOCK
+22 US.EIX 1 爱迪生国际  0 STOCK
+23 US.ELLO 1 "Ellomay Capital Ltd."  0 STOCK
+24 US.ELP 1 "Companhia Paranaense de Energia"  0 STOCK
+25 US.ETR 1 安特吉  0 STOCK
+26 US.EXC 1 爱克斯龙  0 STOCK
+27 US.FCEL 1 燃料电池能源  0 STOCK
+28 US.FE 1 第一能源公司  0 STOCK
+29 US.GXP 1 大平原能源  0 STOCK
+30 US.HE 1 夏威夷电力  0 STOCK
+31 US.HNP 1 华能电力  0 STOCK
+32 US.HTM 1 "U.S. Geothermal, Inc."  0 STOCK
+33 US.HYGS 1 "Hydrogenics Corp."  0 STOCK
+34 US.IDA 1 "IDACORP, Inc."  0 STOCK
+35 US.KEP 1 韩国电力  0 STOCK
+36 US.LEU 1 "Centrus Energy Corp."  0 STOCK
+37 US.MGEE 1 "MGE Energy Inc"  0 STOCK
+38 US.NEE 1 新纪元能源  0 STOCK
+39 US.NRG 1 NRG能源  0 STOCK
+40 US.NYLD 1 "NRG Yield, Inc."  0 STOCK
+41 US.OGE 1 "OGE Energy Corp."  0 STOCK
+42 US.OPTT 1 "Ocean Power Technologies, Inc."  0 STOCK
+43 US.ORA 1 奥玛特科技  0 STOCK
+44 US.OTTR 1 奥特泰尔  0 STOCK
+45 US.PAM 1 "Pampa Energ铆a SA"  0 STOCK
+46 US.PEG 1 公务集团  0 STOCK
+47 US.PEGI 1 "Pattern Energy Group, Inc."  0 STOCK
+48 US.PNM 1 "PNM Resources, Inc."  0 STOCK
+49 US.PNW 1 品尼高西方资本品西资本  0 STOCK
+50 US.POR 1 波特兰通用电气  0 STOCK
+51 US.PPL 1 宾州电力  0 STOCK
+52 US.SO 1 美国南方公司  0 STOCK
+53 US.SPKE 1 "Spark Energy"  0 STOCK
+54 US.SRE 1 桑普拉能源  0 STOCK
+55 US.TAC 1 "TransAlta Corp."  0 STOCK
+56 US.WR 1 "Westar Energy, Inc."  0 STOCK
+57 US.XEL 1 埃克西尔能源  0 STOCK

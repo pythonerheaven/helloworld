@@ -1,0 +1,6 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.CBD 1 "Companhia Brasileira de Distribuicao"  0 STOCK
+1 US.IMKTA 1 安格莱斯市场  0 STOCK
+2 US.QKLS 1 庆客隆  0 STOCK
+3 US.VLGEA 1 "Village Super Market, Inc."  0 STOCK
+4 US.WMT 1 沃尔玛  0 STOCK

@@ -1,0 +1,15 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AAWW 1 阿特拉斯航空全球控股公司  0 STOCK
+1 US.AIRT 1 "Air T, Inc."  0 STOCK
+2 US.ATSG 1 美国航空运输服务集团  0 STOCK
+3 US.AVH 1 哥伦比亚航空  0 STOCK
+4 US.CHRW 1 罗宾逊物流  0 STOCK
+5 US.CYRX 1 "CryoPort, Inc."  0 STOCK
+6 US.ECHO 1 "Echo Global Logistics, Inc."  0 STOCK
+7 US.ERA 1 "Era Group, Inc."  0 STOCK
+8 US.EXPD 1 康捷国际物流  0 STOCK
+9 US.FDX 1 联邦快递  0 STOCK
+10 US.FWRD 1 福沃运输  0 STOCK
+11 US.RRTS 1 "Roadrunner Transportation Systems, Inc."  0 STOCK
+12 US.UPS 1 联合包裹  0 STOCK
+13 US.XPO 1 "XPO Logistics, Inc."  0 STOCK

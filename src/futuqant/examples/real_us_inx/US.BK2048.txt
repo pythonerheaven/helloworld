@@ -1,0 +1,24 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AMOV 1 "America Movil SAB de CV"  0 STOCK
+1 US.AMX 1 美洲移动  0 STOCK
+2 US.CCI 1 冠城  0 STOCK
+3 US.CEL 1 以色列塞康  0 STOCK
+4 US.DCM 1 NTT道康姆  0 STOCK
+5 US.GSAT 1 全球星  0 STOCK
+6 US.IPAS 1 "iPass, Inc."  0 STOCK
+7 US.NIHD 1 国家信息基础设施控股  0 STOCK
+8 US.ORBC 1 ORBCOMM轨道通讯系统  0 STOCK
+9 US.PDVW 1 "Pacific DataVision, Inc."  0 STOCK
+10 US.PTNR 1 "Partner Communications Co. Ltd."  0 STOCK
+11 US.S 1 斯普林特奈科斯特公司  0 STOCK
+12 US.SBAC 1 SBA通信公司  0 STOCK
+13 US.SHEN 1 "Shenandoah Telecommunications Co. (Virginia)"  0 STOCK
+14 US.SKM 1 韩国SK电信  0 STOCK
+15 US.STRP 1 "Straight Path Communications, Inc."  0 STOCK
+16 US.TESS 1 特斯科技术  0 STOCK
+17 US.TKC 1 土耳其移动通信  0 STOCK
+18 US.TMUS 1 "T-Mobile US Inc"  0 STOCK
+19 US.TNAV 1 "TeleNav, Inc."  0 STOCK
+20 US.USM 1 "United States Cellular Corp."  0 STOCK
+21 US.WIFI 1 "Boingo Wireless, Inc."  0 STOCK
+22 US.XGTI 1 "xG Technology, Inc."  0 STOCK

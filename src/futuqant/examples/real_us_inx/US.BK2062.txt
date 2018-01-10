@@ -1,0 +1,52 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ASC 1 "Ardmore Shipping Corp."  0 STOCK
+1 US.CMRE 1 "Costamare Inc."  0 STOCK
+2 US.CPLP 1 "Capital Product Partners LP"  0 STOCK
+3 US.DAC 1 达那俄斯  0 STOCK
+4 US.DCIX 1 "Diana Containerships, Inc."  0 STOCK
+5 US.DHT 1 DHT控股  0 STOCK
+6 US.DRYS 1 "DryShips, Inc."  0 STOCK
+7 US.DSX 1 黛安娜船舶  0 STOCK
+8 US.EGLE 1 伊格尔散货航运  0 STOCK
+9 US.ESEA 1 "Euroseas Ltd."  0 STOCK
+10 US.EURN 1 "Euronav NV"  0 STOCK
+11 US.FRO 1 "Frontline Ltd."  0 STOCK
+12 US.GASS 1 斯蒂加斯海运  0 STOCK
+13 US.GLBS 1 "Globus Maritime Ltd."  0 STOCK
+14 US.GLOG 1 "GasLog Ltd."  0 STOCK
+15 US.GMLP 1 "Golar LNG Partners LP"  0 STOCK
+16 US.GNK 1 根科船务贸易  0 STOCK
+17 US.GNRT 1 "Gener8 Maritime, Inc."  0 STOCK
+18 US.GOGL 1 "Golden Ocean Group Ltd."  0 STOCK
+19 US.GSL 1 环球租船  0 STOCK
+20 US.HMLP 1 "H枚egh LNG Partners LP"  0 STOCK
+21 US.KEX 1 卡比海运  0 STOCK
+22 US.KNOP 1 "KNOT Offshore Partners LP"  0 STOCK
+23 US.MATX 1 "Matson, Inc."  0 STOCK
+24 US.NAP 1 "Navios Maritime Midstream Partners LP"  0 STOCK
+25 US.NAT 1 "Nordic American Tankers Ltd."  0 STOCK
+26 US.NCLH 1 挪威邮轮  0 STOCK
+27 US.NM 1 Navios海事控股  0 STOCK
+28 US.NMM 1 "Navios Maritime Partners LP"  0 STOCK
+29 US.NNA 1 "Navios Maritime Acquisition Corp."  0 STOCK
+30 US.NVGS 1 "Navigator Holdings Ltd."  0 STOCK
+31 US.PANL 1 "Pangaea Logistics Solutions Ltd."  0 STOCK
+32 US.PXS 1 "Pyxis Tankers Inc"  0 STOCK
+33 US.RLOG 1 "Rand Logistics, Inc."  0 STOCK
+34 US.SALT 1 "Scorpio Bulkers, Inc."  0 STOCK
+35 US.SB 1 "Safe Bulkers"  0 STOCK
+36 US.SBLK 1 "Star Bulk Carriers Corp."  0 STOCK
+37 US.SFL 1 "Ship Finance International Ltd."  0 STOCK
+38 US.SHIP 1 "Seanergy Maritime Holdings Corp."  0 STOCK
+39 US.SINO 1 中环球船务  0 STOCK
+40 US.SSW 1 塞斯潘  0 STOCK
+41 US.STNG 1 "Scorpio Tankers, Inc."  0 STOCK
+42 US.TDW 1 潮水公司  0 STOCK
+43 US.TGH 1 "Textainer Group Holdings Ltd."  0 STOCK
+44 US.TGP 1 "Teekay LNG Partners LP"  0 STOCK
+45 US.TK 1 "Teekay Corp."  0 STOCK
+46 US.TNK 1 "Teekay Tankers Ltd."  0 STOCK
+47 US.TNP 1 "Tsakos Energy Navigation Ltd"  0 STOCK
+48 US.TOO 1 "Teekay Offshore Partners LP"  0 STOCK
+49 US.TOPS 1 "Top Ships, Inc."  0 STOCK
+50 US.ULTR 1 巴哈马超级石油海运  0 STOCK

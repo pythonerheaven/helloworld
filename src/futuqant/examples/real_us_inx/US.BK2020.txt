@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AMRS 1 阿米瑞斯公司  0 STOCK
+1 US.BCPC 1 拜切  0 STOCK
+2 US.CC 1 "The Chemours Co."  0 STOCK
+3 US.IPHS 1 "Innophos Holdings, Inc."  0 STOCK
+4 US.KOP 1 科佩斯控股  0 STOCK
+5 US.KWR 1 奎克化学  0 STOCK
+6 US.MTX 1 "Minerals Technologies, Inc."  0 STOCK
+7 US.OCIP 1 "OCI Partners LP"  0 STOCK
+8 US.PEIX 1 "Pacific Ethanol, Inc."  0 STOCK
+9 US.WDFC 1 "WD-40 Co."  0 STOCK

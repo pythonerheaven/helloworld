@@ -1,0 +1,14 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.FORD 1 福沃德工业  0 STOCK
+1 US.GPRO 1 GoPro  0 STOCK
+2 US.HEAR 1 "Turtle Beach Corp."  0 STOCK
+3 US.IRBT 1 "iRobot Corp."  0 STOCK
+4 US.KOSS 1 高斯电子  0 STOCK
+5 US.LPL 1 "LG Display Co., Ltd."  0 STOCK
+6 US.MCZ 1 "Mad Catz Interactive Inc"  0 STOCK
+7 US.PLT 1 缤特力  0 STOCK
+8 US.SGOC 1 上为集团  0 STOCK
+9 US.SNE 1 索尼  0 STOCK
+10 US.VOXX 1 奥迪富斯  0 STOCK
+11 US.VUZI 1 "Vuzix Corp."  0 STOCK
+12 US.ZAGG 1 "Zagg, Inc."  0 STOCK

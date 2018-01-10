@@ -1,0 +1,238 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AAAP 1 "ADVANCED ACCELERATOR APPLICATIONS S.A."  0 STOCK
+1 US.ABBV 1 艾伯维公司  0 STOCK
+2 US.ACRS 1 "ACLARIS THERAPEUTICS, INC."  0 STOCK
+3 US.ACRX 1 "AcelRx Pharmaceuticals, Inc."  0 STOCK
+4 US.ACST 1 "Acasti Pharma, Inc."  0 STOCK
+5 US.ACUR 1 讴歌制药公司  0 STOCK
+6 US.ADAP 1 "ADAPTIMMUNE THERAPEUTICS PLC"  0 STOCK
+7 US.ADHD 1 "Alcobra Ltd."  0 STOCK
+8 US.ADMA 1 "ADMA Biologics, Inc."  0 STOCK
+9 US.ADMP 1 "Adamis Pharmaceuticals Corp."  0 STOCK
+10 US.ADMS 1 "Adamas Pharmaceuticals, Inc."  0 STOCK
+11 US.ADRO 1 "ADURO BIOTECH, INC."  0 STOCK
+12 US.AEGR 1 "Aegerion制药 (已退市)"  0 STOCK
+13 US.AFMD 1 "Affimed Therapeutics B.V."  0 STOCK
+14 US.AGN 1 艾尔建  0 STOCK
+15 US.AGRX 1 "Agile Therapeutics"  0 STOCK
+16 US.AIMT 1 "AIMMUNE THERAPEUTICS, INC."  0 STOCK
+17 US.AKAO 1 "Achaogen, Inc."  0 STOCK
+18 US.AKTX 1 "Akari Therapeutics Plc"  0 STOCK
+19 US.ALDX 1 "Aldeyra Therapeutics, Inc."  0 STOCK
+20 US.ALKS 1 阿尔凯默斯  0 STOCK
+21 US.ALNY 1 阿里拉姆制药  0 STOCK
+22 US.AMAG 1 AMAG制药公司  0 STOCK
+23 US.AMPE 1 安皮奥制药  0 STOCK
+24 US.AMPH 1 "Amphastar Pharmaceuticals"  0 STOCK
+25 US.AMRN 1 阿玛琳  0 STOCK
+26 US.ANIP 1 "ANI Pharmaceuticals, Inc."  0 STOCK
+27 US.ARDM 1 "Aradigm Corp."  0 STOCK
+28 US.ARDX 1 Ardelyx  0 STOCK
+29 US.ARGS 1 "Argos Therapeutics"  0 STOCK
+30 US.ASMB 1 "Assembly Biosciences, Inc."  0 STOCK
+31 US.ATNM 1 "Actinium Pharmaceuticals, Inc."  0 STOCK
+32 US.ATRS 1 安塔尔制药公司  0 STOCK
+33 US.AUPH 1 "Aurinia Pharmaceuticals, Inc."  0 STOCK
+34 US.AVXL 1 "Anavex Life Sciences Corp."  0 STOCK
+35 US.AXN 1 河北奥星  0 STOCK
+36 US.AXON 1 "Axovant Sciences Ltd."  0 STOCK
+37 US.AZN 1 阿斯利康  0 STOCK
+38 US.BIOD 1 "百代 (已退市)"  0 STOCK
+39 US.BLPH 1 "BELLEROPHON THERAPEUTICS LLC"  0 STOCK
+40 US.BMRN 1 拜玛林制药  0 STOCK
+41 US.BMY 1 施贵宝  0 STOCK
+42 US.BNTC 1 "BENITEC BIOPHARMA LTD/ADR"  0 STOCK
+43 US.BPMC 1 "BLUEPRINT MEDICINES CORP"  0 STOCK
+44 US.BPMX 1 "BioPharmX Corp."  0 STOCK
+45 US.BPTH 1 "Bio-Path Holdings, Inc."  0 STOCK
+46 US.BSPM 1 奥星制药  0 STOCK
+47 US.CAH 1 卡迪纳医药  0 STOCK
+48 US.CANF 1 "Can-Fite BioPharma Ltd."  0 STOCK
+49 US.CAPR 1 "Capricor Therapeutics, Inc."  0 STOCK
+50 US.CARA 1 "CARA Therapeutics, Inc."  0 STOCK
+51 US.CATB 1 "CATABASIS PHARMACEUTICALS INC"  0 STOCK
+52 US.CBAY 1 "CymaBay Therapeutics, Inc."  0 STOCK
+53 US.CBIO 1 "Catalyst Biosciences, Inc."  0 STOCK
+54 US.CBYL 1 "Carbylan Therapeutics, Inc. (已退市)"  0 STOCK
+55 US.CCXI 1 "ChemoCentryx, Inc."  0 STOCK
+56 US.CDTX 1 "CIDARA THERAPEUTICS, INC."  0 STOCK
+57 US.CDXS 1 "Codexis, Inc."  0 STOCK
+58 US.CEMP 1 Cempra  0 STOCK
+59 US.CERC 1 "Cerecor, Inc."  0 STOCK
+60 US.CERU 1 "CERULEAN PHARMA INC COM"  0 STOCK
+61 US.CHMA 1 "CHIASMA, INC"  0 STOCK
+62 US.CHRS 1 "Coherus BioSciences"  0 STOCK
+63 US.CLDX 1 塞德斯医疗  0 STOCK
+64 US.CLRB 1 "Cellectar BioSciences, Inc."  0 STOCK
+65 US.CLSN 1 克莱瑞恩  0 STOCK
+66 US.CLVS 1 "Clovis Oncology, Inc."  0 STOCK
+67 US.CNAT 1 "Conatus Pharmaceuticals, Inc."  0 STOCK
+68 US.CNCE 1 "Concert Pharmaceuticals, Inc."  0 STOCK
+69 US.COLL 1 "COLLEGIUM PHARMACEUTICAL, INC"  0 STOCK
+70 US.CORT 1 Corcept医疗  0 STOCK
+71 US.CPHI 1 中国医药控股有限公司  0 STOCK
+72 US.CPIX 1 坎伯兰药业  0 STOCK
+73 US.CRBP 1 "Corbus Pharmaceuticals Holdings, Inc."  0 STOCK
+74 US.CRMD 1 "CorMedix, Inc."  0 STOCK
+75 US.CSBR 1 "Champions Oncology, Inc."  0 STOCK
+76 US.CTLT 1 "Catalent, Inc."  0 STOCK
+77 US.CTMX 1 "CYTOMX THERAPEUTICS, INC."  0 STOCK
+78 US.CTRV 1 "ContraVir Pharmaceuticals, Inc."  0 STOCK
+79 US.CXRX 1 "Concordia International Corp"  0 STOCK
+80 US.CYAD 1 "CELYAD S.A."  0 STOCK
+81 US.CYTK 1 "Cytokinetics, Inc."  0 STOCK
+82 US.CYTR 1 赛特科科技  0 STOCK
+83 US.DEPO 1 "Depomed, Inc."  0 STOCK
+84 US.DMTX 1 "DIMENSION THERAPEUTI"  0 STOCK
+85 US.DPRX 1 "DIPEXIUM PHARMACEU"  0 STOCK
+86 US.EARS 1 "Auris Medical Holding AG"  0 STOCK
+87 US.EBIO 1 "Eleven Biotherapeutics, Inc."  0 STOCK
+88 US.ECYT 1 "Endocyte, Inc."  0 STOCK
+89 US.EGLT 1 "Egalet Corp."  0 STOCK
+90 US.EGRX 1 "Eagle Pharmaceuticals, Inc."  0 STOCK
+91 US.ENDP 1 远藤制药  0 STOCK
+92 US.EPIX 1 "ESSA Pharma, Inc."  0 STOCK
+93 US.EPZM 1 "Epizyme, Inc."  0 STOCK
+94 US.ESPR 1 "Esperion Therapeutics, Inc."  0 STOCK
+95 US.EVOK 1 "Evoke Pharma, Inc."  0 STOCK
+96 US.FATE 1 "Fate Therapeutics, Inc."  0 STOCK
+97 US.FBIO 1 "Fortress Biotech, Inc."  0 STOCK
+98 US.FLKS 1 "FLEX PHARMA  INC."  0 STOCK
+99 US.FLML 1 "弗莱莫科技 (已退市)"  0 STOCK
+100 US.FLXN 1 "Flexion Therapeutics, Inc."  0 STOCK
+101 US.FOMX 1 Foamix  0 STOCK
+102 US.FPRX 1 "Five Prime Therapeutics, Inc."  0 STOCK
+103 US.FWP 1 "Forward Pharma"  0 STOCK
+104 US.GBT 1 "GLOBAL BLOOD THERAPEUTICS, INC."  0 STOCK
+105 US.GLMD 1 "Galmed Pharmaceuticals Ltd."  0 STOCK
+106 US.GLPG 1 "GALAPAGOS NV"  0 STOCK
+107 US.GSK 1 葛兰素史克  0 STOCK
+108 US.GWPH 1 "GW Pharmaceuticals Plc"  0 STOCK
+109 US.HEB 1 "Hemispherx Biopharma, Inc."  0 STOCK
+110 US.HRTX 1 "Heron Therapeutics, Inc."  0 STOCK
+111 US.HSKA 1 赫斯卡医疗  0 STOCK
+112 US.HZNP 1 "Horizon Pharma Plc"  0 STOCK
+113 US.ICPT 1 "Intercept Pharmaceuticals, Inc."  0 STOCK
+114 US.IMMY 1 "Imprimis Pharmaceuticals, Inc."  0 STOCK
+115 US.IMUC 1 "ImmunoCellular Therapeutics Ltd."  0 STOCK
+116 US.INFI 1 "Infinity Pharmaceuticals, Inc."  0 STOCK
+117 US.INSM 1 "Insmed, Inc."  0 STOCK
+118 US.INSY 1 "INSYS Therapeutics, Inc."  0 STOCK
+119 US.IPCI 1 "Intellipharmaceutics International, Inc."  0 STOCK
+120 US.IPXL 1 Impax制药  0 STOCK
+121 US.IRWD 1 Ironwood医药  0 STOCK
+122 US.ITCI 1 "Intra-Cellular Therapies, Inc."  0 STOCK
+123 US.JAZZ 1 爵士制药  0 STOCK
+124 US.JNJ 1 强生  0 STOCK
+125 US.JNP 1 "Juniper Pharmaceuticals, Inc."  0 STOCK
+126 US.JUNO 1 " Juno Therapeutics"  0 STOCK
+127 US.KBIO 1 "KaloBios Pharmaceuticals, Inc."  0 STOCK
+128 US.KIN 1 "Kindred Biosciences, Inc."  0 STOCK
+129 US.KMPH 1 "KEMPHARM, INC"  0 STOCK
+130 US.KURA 1 "KURA ONCOLOGY, INC."  0 STOCK
+131 US.LCI 1 "Lannett Co., Inc."  0 STOCK
+132 US.LLY 1 礼来  0 STOCK
+133 US.LPCN 1 "Lipocine, Inc."  0 STOCK
+134 US.MACK 1 "Merrimack Pharmaceuticals, Inc."  0 STOCK
+135 US.MCRB 1 "SERES THERAPEUTICS, INC."  0 STOCK
+136 US.MDCO 1 麦迪逊医药  0 STOCK
+137 US.MEIP 1 "MEI Pharma, Inc."  0 STOCK
+138 US.MIRN 1 "MIRNA THERAPEUTICS, INC."  0 STOCK
+139 US.MNK 1 "Mallinckrodt Plc"  0 STOCK
+140 US.MRK 1 默沙东  0 STOCK
+141 US.MRNS 1 "Marinus Pharmaceuticals"  0 STOCK
+142 US.MYL 1 迈兰制药  0 STOCK
+143 US.MYOK 1 "MYOKARDIA INC"  0 STOCK
+144 US.NATR 1 天然阳光产品  0 STOCK
+145 US.NBIX 1 神经分泌生物科学  0 STOCK
+146 US.NBRV 1 "NABRIVA THERAPEUTICS AG"  0 STOCK
+147 US.NEOS 1 "NEOS THERAPEUTICS, INC."  0 STOCK
+148 US.NEOT 1 Neothetics  0 STOCK
+149 US.NERV 1 "Minerva Neurosciences"  0 STOCK
+150 US.NK 1 "NANTKWEST, INC."  0 STOCK
+151 US.NLNK 1 "NewLink Genetics Corp."  0 STOCK
+152 US.NTEC 1 "Intec Pharma Ltd."  0 STOCK
+153 US.NVGN 1 "Novogen Limited"  0 STOCK
+154 US.NVLS 1 诺发系统  0 STOCK
+155 US.NVS 1 诺华  0 STOCK
+156 US.NWBO 1 "Northwest Biotherapeutics, Inc."  0 STOCK
+157 US.NYMX 1 "Nymox Pharmaceutical Corp."  0 STOCK
+158 US.OASM 1 "OASMIA PHARMACEUTICAL AB"  0 STOCK
+159 US.OCUL 1 "Ocular Therapeutix"  0 STOCK
+160 US.OGEN 1 "Oragenics, Inc."  0 STOCK
+161 US.OGXI 1 "OncoGenex Pharmaceuticals Inc"  0 STOCK
+162 US.OMED 1 "OncoMed Pharmaceuticals, Inc."  0 STOCK
+163 US.ONCS 1 "OncoSec Medical, Inc."  0 STOCK
+164 US.OPHT 1 "Ophthotech Corp."  0 STOCK
+165 US.OREX 1 "Orexigen Therapeutics, Inc."  0 STOCK
+166 US.ORPN 1 "Bio Blast Pharma"  0 STOCK
+167 US.OTIC 1 Otonomy  0 STOCK
+168 US.PARN 1 "Parnell (已退市)"  0 STOCK
+169 US.PCRX 1 "Pacira Pharmaceuticals, Inc."  0 STOCK
+170 US.PETX 1 "Aratana Therapeutics, Inc."  0 STOCK
+171 US.PFE 1 辉瑞  0 STOCK
+172 US.PRAN 1 Prana生物工艺  0 STOCK
+173 US.PRGO 1 百利高  0 STOCK
+174 US.PRPH 1 "ProPhase Labs, Inc."  0 STOCK
+175 US.PRTK 1 "Paratek Pharmaceuticals, Inc."  0 STOCK
+176 US.PRTO 1 "Proteon Therapeutics"  0 STOCK
+177 US.PTIE 1 疼痛治疗  0 STOCK
+178 US.PTN 1 "Palatin Technologies, Inc."  0 STOCK
+179 US.PTX 1 "Pernix Therapeutics Holdings, Inc."  0 STOCK
+180 US.PULM 1 "Pulmatrix, Inc."  0 STOCK
+181 US.PVCT 1 "Provectus Biopharmaceuticals, Inc."  0 STOCK
+182 US.RDHL 1 "RedHill Biopharma Ltd."  0 STOCK
+183 US.RDUS 1 "Radius Health"  0 STOCK
+184 US.RDY 1 如瑞迪博士  0 STOCK
+185 US.REGN 1 再生元制药公司  0 STOCK
+186 US.RGLS 1 "Regulus Therapeutics, Inc."  0 STOCK
+187 US.RIGL 1 "Rigel Pharmaceuticals, Inc."  0 STOCK
+188 US.RNN 1 "Rexahn Pharmaceuticals, Inc."  0 STOCK
+189 US.RTRX 1 "Retrophin, Inc."  0 STOCK
+190 US.RTTR 1 "RITTER PHARMACEUTICALS INC"  0 STOCK
+191 US.RVNC 1 "Revance Therapeutics, Inc."  0 STOCK
+192 US.RXII 1 "RXi Pharmaceuticals Corp."  0 STOCK
+193 US.SAGE 1 "Sage Therapeutics"  0 STOCK
+194 US.SBBP 1 "STRONGBRIDGE BIOPHARMA PLC"  0 STOCK
+195 US.SCMP 1 "Sucampo Pharmaceuticals, Inc."  0 STOCK
+196 US.SCYX 1 "SCYNEXIS, Inc."  0 STOCK
+197 US.SGYP 1 "Synergy Pharmaceuticals, Inc."  0 STOCK
+198 US.SKBI 1 天星生物  0 STOCK
+199 US.SNY 1 赛诺菲安万特  0 STOCK
+200 US.SPHS 1 "Sophiris Bio, Inc."  0 STOCK
+201 US.SPPI 1 "Spectrum Pharmaceuticals, Inc."  0 STOCK
+202 US.SRNE 1 "Sorrento Therapeutics, Inc."  0 STOCK
+203 US.SRPT 1 "Sarepta Therapeutics, Inc."  0 STOCK
+204 US.STDY 1 "STEADYMED LTD."  0 STOCK
+205 US.STML 1 "Stemline Therapeutics, Inc."  0 STOCK
+206 US.SUPN 1 "Supernus Pharmaceuticals, Inc."  0 STOCK
+207 US.SYN 1 "Synthetic Biologics, Inc."  0 STOCK
+208 US.TARO 1 "Taro Pharmaceutical Industries L"  0 STOCK
+209 US.TBPH 1 "Theravance Biopharma, Inc."  0 STOCK
+210 US.TCON 1 "TRACON PHARMACEUTICALS  INC."  0 STOCK
+211 US.TEVA 1 梯瓦制药  0 STOCK
+212 US.TGTX 1 "TG Therapeutics, Inc."  0 STOCK
+213 US.TKAI 1 "Tokai Pharmaceuticals"  0 STOCK
+214 US.TLGT 1 "Teligent, Inc."  0 STOCK
+215 US.TNXP 1 "Tonix Pharmaceuticals Holding Corp."  0 STOCK
+216 US.TRIL 1 "Trillium Therapeutics, Inc."  0 STOCK
+217 US.TRVN 1 "Trevena, Inc."  0 STOCK
+218 US.TSRO 1 "TESARO, Inc."  0 STOCK
+219 US.TTNP 1 "Titan Pharmaceuticals, Inc."  0 STOCK
+220 US.VBLT 1 "Vascular Biogenics Ltd."  0 STOCK
+221 US.VKTX 1 "Viking Therapeutics"  0 STOCK
+222 US.VNDA 1 "Vanda Pharmaceuticals, Inc."  0 STOCK
+223 US.VRTX 1 福泰制药  0 STOCK
+224 US.VRX 1 凡利亚药品国际  0 STOCK
+225 US.VSAR 1 "Versartis, Inc."  0 STOCK
+226 US.VSTM 1 "Verastem, Inc."  0 STOCK
+227 US.VTVT 1 "VTV THERAPEUTICS INC."  0 STOCK
+228 US.WVE 1 "WAVE LIFE SCIENCES P"  0 STOCK
+229 US.XBIT 1 Xbiotech  0 STOCK
+230 US.XLRN 1 "Acceleron Pharma, Inc."  0 STOCK
+231 US.XOMA 1 标记临床研究  0 STOCK
+232 US.XTNT 1 "Xtant Medical Holdings, Inc."  0 STOCK
+233 US.ZFGN 1 Zafgen  0 STOCK
+234 US.ZGNX 1 "Zogenix, Inc."  0 STOCK
+235 US.ZTS 1 "Zoetis, Inc."  0 STOCK
+236 US.ZYNE 1 "ZYNERBA PHARMACEUTICALS, INC."  0 STOCK

@@ -1,0 +1,38 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ABB 1 阿西布朗勃法瑞公司  0 STOCK
+1 US.ACPW 1 "艾泰沃 (已退市)"  0 STOCK
+2 US.AETI 1 美国电力技术  0 STOCK
+3 US.APWC 1 亚太电线电缆股份有限公司  0 STOCK
+4 US.AZZ 1 宜易贸易  0 STOCK
+5 US.BDC 1 百通公司  0 STOCK
+6 US.BGC 1 通用电缆  0 STOCK
+7 US.BW 1 "Babcock & Wilcox Enterprises, Inc."  0 STOCK
+8 US.BWEN 1 "Broadwind Energy, Inc."  0 STOCK
+9 US.BWXT 1 "BWX Technologies, Inc."  0 STOCK
+10 US.CCF 1 "Chase Corp."  0 STOCK
+11 US.CFX 1 科尔法克斯  0 STOCK
+12 US.CMI 1 康明斯  0 STOCK
+13 US.CPST 1 凯普斯通涡轮  0 STOCK
+14 US.DPW 1 "Digital Power Corp."  0 STOCK
+15 US.EFOI 1 "Energy Focus, Inc."  0 STOCK
+16 US.ERII 1 "Energy Recovery, Inc."  0 STOCK
+17 US.ESNC 1 "EnSync, Inc."  0 STOCK
+18 US.ETN 1 伊顿  0 STOCK
+19 US.GHM 1 "Graham Corp."  0 STOCK
+20 US.GNRC 1 Generac控股  0 STOCK
+21 US.GV 1 "Goldfield Corp."  0 STOCK
+22 US.HWCC 1 休斯顿电线电缆  0 STOCK
+23 US.IPWR 1 "Ideal Power, Inc."  0 STOCK
+24 US.NFEC 1 能发伟业  0 STOCK
+25 US.NL 1 "NL Industries, Inc."  0 STOCK
+26 US.OCC 1 "Optical Cable Corp."  0 STOCK
+27 US.OFLX 1 欧美佳福莱克斯  0 STOCK
+28 US.PLPC 1 "Preformed Line Products Co."  0 STOCK
+29 US.POWL 1 "Powell Industries, Inc."  0 STOCK
+30 US.PPSI 1 "Pioneer Power Solutions, Inc."  0 STOCK
+31 US.PSIX 1 "Power Solutions International, Inc."  0 STOCK
+32 US.RELY 1 "REAL INDUSTRY INC"  0 STOCK
+33 US.TWIN 1 "Twin Disc, Inc."  0 STOCK
+34 US.WCC 1 西科国际有限公司  0 STOCK
+35 US.WIRE 1 "Encore Wire Corp. (Delaware)"  0 STOCK
+36 US.WWD 1 "Woodward, Inc."  0 STOCK

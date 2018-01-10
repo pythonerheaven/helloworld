@@ -1,0 +1,18 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AMZN 1 亚马逊  0 STOCK
+1 US.BABA 1 阿里巴巴  0 STOCK
+2 US.BZUN 1 宝尊电商  0 STOCK
+3 US.CPRT 1 科帕特  0 STOCK
+4 US.EVLV 1 "EVINE Live, Inc."  0 STOCK
+5 US.FLWS 1 "1-800-FLOWERS.COM, Inc."  0 STOCK
+6 US.HSNI 1 "HSN Inc"  0 STOCK
+7 US.JD 1 京东  0 STOCK
+8 US.JMEI 1 聚美优品  0 STOCK
+9 US.LE 1 "Lands' End, Inc."  0 STOCK
+10 US.LITB 1 兰亭集势  0 STOCK
+11 US.OSTK 1 "Overstock.com, Inc."  0 STOCK
+12 US.PCMI 1 "PCM, Inc."  0 STOCK
+13 US.QVCA 1 "Liberty Interactive Corp."  0 STOCK
+14 US.QVCB 1 "Liberty Interactive Corp."  0 STOCK
+15 US.VIPS 1 唯品会  0 STOCK
+16 US.W 1 "Wayfair, Inc."  0 STOCK

@@ -1,0 +1,14 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.000048 100 康达尔  0 STOCK
+1 SZ.000529 100 广弘控股  0 STOCK
+2 SZ.000860 100 顺鑫农业  0 STOCK
+3 SZ.002143 100 印纪传媒  0 STOCK
+4 SZ.002157 100 正邦科技  0 STOCK
+5 SZ.002330 100 得利斯  0 STOCK
+6 SZ.002477 100 雏鹰农牧  0 STOCK
+7 SZ.002505 100 大康农业  0 STOCK
+8 SZ.002567 100 唐人神  0 STOCK
+9 SZ.002714 100 牧原股份  0 STOCK
+10 SZ.002726 100 龙大肉食  0 STOCK
+11 SH.600695 100 绿庭投资  0 STOCK
+12 SH.600975 100 新五丰  0 STOCK

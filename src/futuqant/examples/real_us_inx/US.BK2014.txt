@@ -1,0 +1,127 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ABAX 1 爱贝斯公司  0 STOCK
+1 US.ABMD 1 阿比奥梅德  0 STOCK
+2 US.AEMD 1 "Aethlon Medical, Inc."  0 STOCK
+3 US.AHPI 1 联合保健产品  0 STOCK
+4 US.ALGN 1 艾利科技  0 STOCK
+5 US.ALOG 1 安络杰公司  0 STOCK
+6 US.AMDA 1 "Amedica Corp."  0 STOCK
+7 US.AMS 1 "American Shared Hospital Services"  0 STOCK
+8 US.ANGO 1 阿吉奥动态有限公司  0 STOCK
+9 US.ANIK 1 阿尼卡疗法有限公司  0 STOCK
+10 US.ARAY 1 精确射线股份有限公司  0 STOCK
+11 US.ATRC 1 AtriCure公司  0 STOCK
+12 US.AVGR 1 AVGR  0 STOCK
+13 US.AXDX 1 "Accelerate Diagnostics"  0 STOCK
+14 US.BABY 1 纳图斯医疗  0 STOCK
+15 US.BAX 1 百特国际  0 STOCK
+16 US.BCR 1 巴德  0 STOCK
+17 US.BDX 1 碧迪公司  0 STOCK
+18 US.BEAT 1 "BioTelemetry, Inc."  0 STOCK
+19 US.BIO 1 "Bio Rad实验室"  0 STOCK
+20 US.BIOL 1 "BIOLASE, Inc."  0 STOCK
+21 US.BRKR 1 布鲁克  0 STOCK
+22 US.BSX 1 波士顿科学  0 STOCK
+23 US.BVX 1 "Bovie Medical Corp"  0 STOCK
+24 US.CASM 1 CAS医疗  0 STOCK
+25 US.CDNA 1 CareDx  0 STOCK
+26 US.CEMI 1 "Chembio Diagnostics, Inc."  0 STOCK
+27 US.CERS 1 "Cerus Corp."  0 STOCK
+28 US.CFMS 1 "CONFORMIS INC"  0 STOCK
+29 US.CGNT 1 "Cogentix Medical, Inc."  0 STOCK
+30 US.CMN 1 "康塔尔医疗 (已退市)"  0 STOCK
+31 US.CNMD 1 "CONMED Corp."  0 STOCK
+32 US.COO 1 库珀医疗  0 STOCK
+33 US.CRY 1 "CryoLife, Inc."  0 STOCK
+34 US.CSII 1 "Cardiovascular Systems, Inc."  0 STOCK
+35 US.CUTR 1 古特拉  0 STOCK
+36 US.CVRS 1 "Corindus Vascular Robotics, Inc."  0 STOCK
+37 US.DCTH 1 迪卡斯  0 STOCK
+38 US.DGX 1 奎斯特诊疗  0 STOCK
+39 US.DRAD 1 "Digirad Corp."  0 STOCK
+40 US.DXCM 1 德康医疗  0 STOCK
+41 US.DXR 1 "Daxor Corp."  0 STOCK
+42 US.DYNT 1 "Dynatronics Corp."  0 STOCK
+43 US.EDAP 1 "EDAP TMS S.A."  0 STOCK
+44 US.ELGX 1 恩多勒吉克斯  0 STOCK
+45 US.ELMD 1 "Electromed, Inc."  0 STOCK
+46 US.ERB 1 "ERBA Diagnostics"  0 STOCK
+47 US.ESMC 1 埃斯卡龙医疗  0 STOCK
+48 US.ETRM 1 项由永恒医疗器材  0 STOCK
+49 US.EVAR 1 "LOMBARD MED INC COM"  0 STOCK
+50 US.EW 1 爱德华兹  0 STOCK
+51 US.EYES 1 "Second Sight Medical Products, Inc."  0 STOCK
+52 US.FLDM 1 "Fluidigm Corp."  0 STOCK
+53 US.FONR 1 福纳  0 STOCK
+54 US.GBSN 1 "Great Basin Scientific, Inc. (已退市)"  0 STOCK
+55 US.GKOS 1 "Glaukos Corp."  0 STOCK
+56 US.GMED 1 "Globus Medical, Inc."  0 STOCK
+57 US.GNMK 1 "GenMark Diagnostics, Inc."  0 STOCK
+58 US.HAE 1 美国血液技术  0 STOCK
+59 US.HOLX 1 上巨实业医疗  0 STOCK
+60 US.HRC 1 希尔罗控股  0 STOCK
+61 US.HRT 1 "Arrhythmia Research Technology Inc"  0 STOCK
+62 US.IART 1 英特格拉生命科学  0 STOCK
+63 US.ICUI 1 ICU医疗  0 STOCK
+64 US.IDXX 1 IDEXX实验室  0 STOCK
+65 US.INFU 1 "InfuSystem Holdings, Inc."  0 STOCK
+66 US.INGN 1 "Inogen, Inc."  0 STOCK
+67 US.IRIX 1 艾里德克斯  0 STOCK
+68 US.IRMD 1 "IRadimed Corp."  0 STOCK
+69 US.ISR 1 "IsoRay, Inc."  0 STOCK
+70 US.ISRG 1 直觉外科公司  0 STOCK
+71 US.IVC 1 英伐凯  0 STOCK
+72 US.IVTY 1 "INVUITY, INC."  0 STOCK
+73 US.KTWO 1 "K2M Group"  0 STOCK
+74 US.LIVN 1 "LivaNova Plc"  0 STOCK
+75 US.LMAT 1 勒梅特微管医疗  0 STOCK
+76 US.MASI 1 麦斯莫医疗  0 STOCK
+77 US.MDGS 1 "Medigus Ltd."  0 STOCK
+78 US.MDT 1 美敦力  0 STOCK
+79 US.MDVX 1 "Medovex Corp."  0 STOCK
+80 US.MGCD 1 "MGC Diagnostics Corp."  0 STOCK
+81 US.MLAB 1 "Mesa Laboratories, Inc."  0 STOCK
+82 US.MLSS 1 "Milestone Scientific, Inc."  0 STOCK
+83 US.MMSI 1 "Merit Medical Systems, Inc."  0 STOCK
+84 US.MSON 1 "Misonix, Inc."  0 STOCK
+85 US.MTD 1 梅特勒-托利多  0 STOCK
+86 US.MZOR 1 "Mazor Robotics Ltd."  0 STOCK
+87 US.NSPR 1 "InspireMD, Inc."  0 STOCK
+88 US.NUVA 1 纽瓦索器材  0 STOCK
+89 US.NVCN 1 "Neovasc, Inc."  0 STOCK
+90 US.NVCR 1 "NOVOCURE LTD"  0 STOCK
+91 US.NVIV 1 "Invivo Therapeutics Holdings Corp."  0 STOCK
+92 US.NVRO 1 "Nevro Corp."  0 STOCK
+93 US.NXTM 1 "NxStage Medical, Inc."  0 STOCK
+94 US.OXFD 1 "Oxford Immunotec Global Plc"  0 STOCK
+95 US.PDEX 1 "Pro-Dex, Inc."  0 STOCK
+96 US.PEN 1 "Penumbra, Inc."  0 STOCK
+97 US.PHMD 1 PhotoMedex  0 STOCK
+98 US.PKI 1 珀金  0 STOCK
+99 US.PODD 1 "Insulet Corp."  0 STOCK
+100 US.RDNT 1 "RadNet, Inc."  0 STOCK
+101 US.RMD 1 瑞思迈公司  0 STOCK
+102 US.RMTI 1 "Rockwell Medical, Inc."  0 STOCK
+103 US.RWLK 1 "ReWalk Robotics"  0 STOCK
+104 US.SGRY 1 "SURGERY PARTNERS, INC."  0 STOCK
+105 US.SKLN 1 "Skyline Medical, Inc."  0 STOCK
+106 US.SMLR 1 "Semler Scientific, Inc."  0 STOCK
+107 US.SNN 1 "Smith & Nephew Plc"  0 STOCK
+108 US.SRDX 1 "SurModics, Inc."  0 STOCK
+109 US.SSH 1 "Sunshine Heart Inc"  0 STOCK
+110 US.STJ 1 "美国圣犹达医疗 (已退市)"  0 STOCK
+111 US.STXS 1 趋实医疗设备  0 STOCK
+112 US.SYK 1 史赛克  0 STOCK
+113 US.TEAR 1 "TearLab Corp."  0 STOCK
+114 US.TFX 1 泰利福  0 STOCK
+115 US.TMO 1 赛默飞世尔  0 STOCK
+116 US.TRXC 1 "TransEnterix, Inc."  0 STOCK
+117 US.TTOO 1 "T2 Biosystems"  0 STOCK
+118 US.UTMD 1 犹他医疗产品  0 STOCK
+119 US.VAR 1 瓦里安医疗系统  0 STOCK
+120 US.VASC 1 "Vascular Solutions"  0 STOCK
+121 US.VIVO 1 "Meridian Bioscience, Inc."  0 STOCK
+122 US.VRML 1 "Vermillion, Inc."  0 STOCK
+123 US.WMGI 1 "Wright Medical Group NV"  0 STOCK
+124 US.XENT 1 "Intersect ENT"  0 STOCK
+125 US.ZBH 1 "Zimmer Biomet Holdings, Inc."  0 STOCK

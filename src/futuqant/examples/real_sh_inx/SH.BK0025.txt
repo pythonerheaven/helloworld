@@ -1,0 +1,8 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 SZ.002688 100 金河生物  0 STOCK
+1 SZ.300119 100 瑞普生物  0 STOCK
+2 SH.600195 100 中牧股份  0 STOCK
+3 SH.600201 100 生物股份  0 STOCK
+4 SH.600226 100 瀚叶股份  0 STOCK
+5 SH.603566 100 普莱柯  0 STOCK
+6 SH.603718 100 海利生物  0 STOCK

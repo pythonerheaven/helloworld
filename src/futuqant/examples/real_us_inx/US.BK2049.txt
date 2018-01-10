@@ -1,0 +1,26 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.BEBE 1 碧碧  0 STOCK
+1 US.CHKE 1 切诺基  0 STOCK
+2 US.CHS 1 "Chico's FAS, Inc."  0 STOCK
+3 US.COH 1 蔻驰  0 STOCK
+4 US.COLM 1 哥伦比亚户外  0 STOCK
+5 US.CRI 1 卡特  0 STOCK
+6 US.CTHR 1 诗思(香港)  0 STOCK
+7 US.DLA 1 "Delta Apparel, Inc."  0 STOCK
+8 US.FOSL 1 福思  0 STOCK
+9 US.GIL 1 吉登运动服  0 STOCK
+10 US.HBI 1 哈尼斯品牌服装  0 STOCK
+11 US.ICON 1 艾康尼斯  0 STOCK
+12 US.KORS 1 迈克高仕  0 STOCK
+13 US.LAKE 1 雷克兰医疗工业  0 STOCK
+14 US.MOV 1 摩凡陀  0 STOCK
+15 US.NILE 1 蓝色尼罗河  0 STOCK
+16 US.OXM 1 牛津工业  0 STOCK
+17 US.RL 1 拉夫劳伦  0 STOCK
+18 US.SGC 1 "Superior Uniform Group, Inc."  0 STOCK
+19 US.TIF 1 蒂芙尼  0 STOCK
+20 US.UA 1 "Under Armour, Inc. Class C"  0 STOCK
+21 US.VFC 1 威富集团  0 STOCK
+22 US.VRA 1 "Vera Bradley, Inc."  0 STOCK
+23 US.XELB 1 "XCel Brands, Inc."  0 STOCK
+24 US.XNY 1 希尼亚  0 STOCK

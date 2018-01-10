@@ -1,0 +1,8 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00008 1000 电讯盈科  0 STOCK
+1 HK.00215 2000 和记电讯香港  0 STOCK
+2 HK.00315 500 数码通电讯  0 STOCK
+3 HK.00728 2000 中国电信  0 STOCK
+4 HK.00762 2000 中国联通  0 STOCK
+5 HK.00941 500 中国移动  0 STOCK
+6 HK.06823 1000 香港电讯-SS  0 STOCK

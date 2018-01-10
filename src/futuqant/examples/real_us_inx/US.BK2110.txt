@@ -1,0 +1,37 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ABX 1 巴里克黄金  0 STOCK
+1 US.AEM 1 伊格尔矿业  0 STOCK
+2 US.AMRK 1 "A-Mark Precious Metals, Inc."  0 STOCK
+3 US.AU 1 "AngloGold Ashanti Ltd."  0 STOCK
+4 US.AUY 1 "Yamana Gold, Inc."  0 STOCK
+5 US.BAA 1 "Banro Corp."  0 STOCK
+6 US.BTG 1 "B2Gold Corp."  0 STOCK
+7 US.CDE 1 科尔黛伦矿业  0 STOCK
+8 US.DRD 1 "DRDGOLD Ltd."  0 STOCK
+9 US.EGO 1 埃氏金业  0 STOCK
+10 US.FCX 1 麦克莫兰銅金  0 STOCK
+11 US.GFI 1 金田  0 STOCK
+12 US.GG 1 "Goldcorp, Inc."  0 STOCK
+13 US.GOLD 1 兰德黄金资源公司  0 STOCK
+14 US.GORO 1 "Gold Resource Corp."  0 STOCK
+15 US.GSS 1 "Golden Star Resources"  0 STOCK
+16 US.HMY 1 哈莫尼黄金  0 STOCK
+17 US.KGC 1 金罗斯黄金  0 STOCK
+18 US.KGJI 1 金凰珠宝  0 STOCK
+19 US.LODE 1 "Comstock Mining, Inc."  0 STOCK
+20 US.MUX 1 "McEwen Mining, Inc."  0 STOCK
+21 US.NAK 1 "Northern Dynasty Minerals Ltd."  0 STOCK
+22 US.NEM 1 纽曼矿业  0 STOCK
+23 US.NG 1 诺华黄金资源公司  0 STOCK
+24 US.NGD 1 "New Gold, Inc."  0 STOCK
+25 US.NSU 1 "Nevsun Resources Ltd."  0 STOCK
+26 US.PGLC 1 "Pershing Gold Corp."  0 STOCK
+27 US.PVG 1 "Pretium Resources, Inc."  0 STOCK
+28 US.RGLD 1 皇家黄金  0 STOCK
+29 US.SA 1 "Seabridge Gold, Inc."  0 STOCK
+30 US.SAND 1 "Sandstorm Gold Ltd."  0 STOCK
+31 US.SBGL 1 Sibanye-Stillwater  0 STOCK
+32 US.TGD 1 "Timmins Gold Corp"  0 STOCK
+33 US.THM 1 "International Tower Hill Mines Ltd."  0 STOCK
+34 US.TRX 1 "Tanzanian Royalty Exploration Corp."  0 STOCK
+35 US.VGZ 1 "Vista Gold Corp."  0 STOCK

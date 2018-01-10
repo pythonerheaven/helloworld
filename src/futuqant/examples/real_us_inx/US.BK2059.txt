@@ -1,0 +1,25 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.AAU 1 "Almaden Minerals Ltd."  0 STOCK
+1 US.ATW 1 Atwood海洋工程公司  0 STOCK
+2 US.DO 1 钻石钻探  0 STOCK
+3 US.ESV 1 恩斯克  0 STOCK
+4 US.HP 1 赫尔默里奇和佩恩材料  0 STOCK
+5 US.ICD 1 "Independence Contract Drilling, Inc."  0 STOCK
+6 US.NBR 1 纳伯斯实业  0 STOCK
+7 US.NE 1 诺布尔  0 STOCK
+8 US.NOV 1 华高  0 STOCK
+9 US.ORIG 1 "Ocean Rig UDW, Inc."  0 STOCK
+10 US.PACD 1 "Pacific Drilling Ltd"  0 STOCK
+11 US.PDS 1 "Precision Drilling Corp."  0 STOCK
+12 US.PES 1 "Pioneer Energy Services Corp."  0 STOCK
+13 US.PKD 1 帕克钻井  0 STOCK
+14 US.PTEN 1 "Patterson-UTI Energy, Inc."  0 STOCK
+15 US.RDC 1 罗文  0 STOCK
+16 US.RIG 1 "Transocean Ltd."  0 STOCK
+17 US.RIGP 1 "TRANSOCEAN PARTNERS LLC (已退市)"  0 STOCK
+18 US.SDLP 1 "Seadrill Partners LLC"  0 STOCK
+19 US.SDRL 1 "Seadrill Ltd."  0 STOCK
+20 US.SPN 1 "Superior Energy Services, Inc."  0 STOCK
+21 US.TRCH 1 "Torchlight Energy Resources, Inc."  0 STOCK
+22 US.UNT 1 "Unit Corp."  0 STOCK
+23 US.WFT 1 "Weatherford International Plc"  0 STOCK

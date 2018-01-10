@@ -1,0 +1,69 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 US.ADXS 1 "Advaxis, Inc."  0 STOCK
+1 US.AKBA 1 "Akebia Therapeutics, Inc."  0 STOCK
+2 US.APRI 1 "Apricus Biosciences, Inc."  0 STOCK
+3 US.APTO 1 "Aptose Biosciences, Inc."  0 STOCK
+4 US.AQXP 1 "Aquinox Pharmaceuticals, Inc."  0 STOCK
+5 US.ASND 1 "Ascendis Pharma A/S"  0 STOCK
+6 US.AST 1 "Asterias Biotherapeutics, Inc."  0 STOCK
+7 US.AXGN 1 "AxoGen, Inc."  0 STOCK
+8 US.BASI 1 "Bioanalytical Systems, Inc."  0 STOCK
+9 US.BIOC 1 "Biocept, Inc."  0 STOCK
+10 US.BLCM 1 "Bellicum Pharmaceuticals"  0 STOCK
+11 US.BLRX 1 "BioLineRx Ltd."  0 STOCK
+12 US.CALA 1 "Calithera Biosciences Inc"  0 STOCK
+13 US.CAPN 1 "Capnia, Inc."  0 STOCK
+14 US.CBM 1 凯姆布雷克斯  0 STOCK
+15 US.CBMX 1 "CombiMatrix Corporation"  0 STOCK
+16 US.CCM 1 泰和诚医疗  0 STOCK
+17 US.CHEK 1 "Check-Cap Ltd."  0 STOCK
+18 US.CRL 1 查尔斯河  0 STOCK
+19 US.CTSO 1 "CytoSorbents Corp."  0 STOCK
+20 US.DBVT 1 "DBV TECHNOLOGIES S.A."  0 STOCK
+21 US.DERM 1 Dermira  0 STOCK
+22 US.DPLO 1 "Diplomat Pharmacy, Inc."  0 STOCK
+23 US.FCSC 1 "Fibrocell Science, Inc."  0 STOCK
+24 US.FGEN 1 FibroGen  0 STOCK
+25 US.GERN 1 杰龙  0 STOCK
+26 US.GLYC 1 "GlycoMimetics, Inc."  0 STOCK
+27 US.HBIO 1 哈佛生物科学  0 STOCK
+28 US.HSGX 1 Histogenics  0 STOCK
+29 US.HTBX 1 "Heat Biologics, Inc."  0 STOCK
+30 US.HTGM 1 "HTG MOLECULAR DIAGNOSTICS, INC"  0 STOCK
+31 US.ICLR 1 "ICON plc"  0 STOCK
+32 US.ILMN 1 "Illumina, Inc."  0 STOCK
+33 US.IMDZ 1 "Immune Design"  0 STOCK
+34 US.INCR 1 "INC Research Holdings"  0 STOCK
+35 US.ITEK 1 "INOTEK PHARMACEUTICALS CORP"  0 STOCK
+36 US.KOOL 1 热动力医疗  0 STOCK
+37 US.KPTI 1 "Karyopharm Therapeutics, Inc."  0 STOCK
+38 US.LMNX 1 路明克斯  0 STOCK
+39 US.LNTH 1 "LANTHEUS HOLDINGS, INC."  0 STOCK
+40 US.MDXG 1 "MiMedx Group, Inc."  0 STOCK
+41 US.MESO 1 "MESOBLAST LTD"  0 STOCK
+42 US.MRTX 1 "Mirati Therapeutics, Inc."  0 STOCK
+43 US.NSTG 1 "NanoString Technologies, Inc."  0 STOCK
+44 US.OMER 1 奥麦罗制药  0 STOCK
+45 US.ORMP 1 "Oramed Pharmaceuticals Inc."  0 STOCK
+46 US.PACB 1 "Pacific Biosciences of California, Inc."  0 STOCK
+47 US.PRAH 1 "PRA Health Sciences"  0 STOCK
+48 US.Q 1 昆泰医药  0 STOCK
+49 US.QTNT 1 "Quotient Ltd."  0 STOCK
+50 US.RARE 1 "Ultragenyx Pharmaceutical, Inc."  0 STOCK
+51 US.REPH 1 "Recro Pharma, Inc."  0 STOCK
+52 US.SGNL 1 "SIGNAL GENETICS LLC"  0 STOCK
+53 US.SPNE 1 "SeaSpine Holdings Corp."  0 STOCK
+54 US.STE 1 思泰瑞医疗  0 STOCK
+55 US.TBIO 1 "TRANSGENOMIC INC"  0 STOCK
+56 US.TENX 1 "Tenax Therapeutics, Inc."  0 STOCK
+57 US.TLOG 1 "TetraLogic Pharmaceuticals Corp."  0 STOCK
+58 US.TRIB 1 "Trinity Biotech Plc"  0 STOCK
+59 US.TTPH 1 "Tetraphase Pharmaceuticals, Inc."  0 STOCK
+60 US.VCYT 1 "Veracyte, Inc."  0 STOCK
+61 US.VNRX 1 "VolitionRX Ltd."  0 STOCK
+62 US.VTL 1 "Vital Therapies, Inc."  0 STOCK
+63 US.WAT 1 沃特世  0 STOCK
+64 US.XENE 1 "Xenon Pharmaceuticals"  0 STOCK
+65 US.XNCR 1 "Xencor, Inc."  0 STOCK
+66 US.XTLB 1 "XTL Biopharmaceuticals Ltd."  0 STOCK
+67 US.ZSAN 1 "Zosano Pharma Corp."  0 STOCK
