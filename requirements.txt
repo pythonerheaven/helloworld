@@ -18,4 +18,5 @@ pymongo
 APScheduler
 lxml
 numpy
+eth-bloom
 -r other-requirements.txt

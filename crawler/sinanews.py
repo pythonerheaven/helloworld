@@ -3,10 +3,17 @@ import bs4
 import sys
 import random
 import time
+from eth_bloom import BloomFilter
 
 class Sinanews(object):
     def __init__(self):
         self.itemArray = []
+        originalBloom = self.readBloomValueFromFile()
+        if originalBloom == '' :
+            self.b = BloomFilter()
+        else:
+            self.b = BloomFilter(int.from_bytes(originalBloom,byteorder='big'))
+        self.urlExist = False
 
     def get_page(self,code,url):
         self.itemArray = []
@@ -36,6 +43,14 @@ class Sinanews(object):
     def get_content(self,url):
         content = ''
         ret = 1
+
+        self.urlExist = bytes(url.encode('utf-8')) in self.b
+        if self.urlExist:
+            print('This url:{} has existed'.format(url))
+            return ret, content
+        else:
+            self.b.add(bytes(url.encode('utf-8')))
+
         header = {
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
         res = requests.get(url,headers=header,timeout=10)
@@ -67,3 +82,21 @@ class Sinanews(object):
         content = file.read()
         print(content)
         file.close()
+
+    def writeBloomValueToFile(self):
+        file = open('./bloom.txt','wb')
+        file.write(bytes(bin(self.b).encode('utf-8')))
+        file.close()
+
+    def readBloomValueFromFile(self):
+        file = None
+        content = ''
+        try:
+            file = open('./bloom.txt','rb')
+            content = file.read()
+            print(content)
+            file.close()
+        except Exception as err:
+            print(err)
+
+        return content
