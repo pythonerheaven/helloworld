@@ -48,6 +48,7 @@ for market in MARKET:
         except Exception as err:
             time.sleep(4 * random.random())
             print(err)
+            sinanews.writeBloomValueToFile()
     sinanews.writeBloomValueToFile()
 
 print('Ending time: {}'.format(datetime.datetime.now()))

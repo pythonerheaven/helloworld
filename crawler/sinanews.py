@@ -34,7 +34,9 @@ class Sinanews(object):
                 print("date:{},title:{}".format(s,json['title']))
                 json['href'] = ele[len(ele)-1].attrs['href']
                 ret,content = self.get_content(json['href'])
-                time.sleep(4 * random.random())
+                if ret != -1 :
+                    time.sleep(4 * random.random())
+
                 if ret == 0 :
                     json['content'] = content
                     self.itemArray.append(json)
@@ -42,7 +44,7 @@ class Sinanews(object):
 
     def get_content(self,url):
         content = ''
-        ret = 1
+        ret = -1
 
         self.urlExist = bytes(url.encode('utf-8')) in self.b
         if self.urlExist:
