@@ -6,3 +6,4 @@ mydata.db
 build
 dist
 helloworld.egg-info
+crawler/sinanews_crawler.log
