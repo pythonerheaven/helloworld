@@ -1,1 +1,3 @@
 futuquant
+PyPDF2
+chardet

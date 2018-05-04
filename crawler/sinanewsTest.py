@@ -11,7 +11,8 @@ import datetime
 sinanews = Sinanews()
 mongodbutil = Mongodbutil('10.173.32.123',27017,'sinanews')
 
-MARKET = ['US','HK','SZ','SH']
+#MARKET = ['MY', 'US','HK','SZ','SH']
+MARKET = ['MY']
 
 def read_file(market):
     data = pd.read_csv("../src/futuqant/examples/all_stocks/ALL_" + market + ".txt", sep=' ', names=['code'])
@@ -34,6 +35,7 @@ print('Starting time: {}'.format(datetime.datetime.now()))
 for market in MARKET:
     data = read_file(market)
     for indexs in data.index:
+        market = data.loc[indexs].values[0][0:2]
         code = data.loc[indexs].values[0][3:]
         url = generate_url(market,code)
 
@@ -42,9 +44,12 @@ for market in MARKET:
         try:
             sinanews.get_page(code,url)
             items = sinanews.get_item_array()
-            mongodbutil.insertItems(items)
-
-            time.sleep(4*random.random())
+            if len(items) > 0 :
+                mongodbutil.insertItems(items)
+                time.sleep(4*random.random())
+                print("store items to mongodb ...")
+            else:
+                print("all items exists")
         except Exception as err:
             time.sleep(4 * random.random())
             print(err)
@@ -66,3 +71,4 @@ print('Ending time: {}'.format(datetime.datetime.now()))
 #
 # c = BloomFilter(3458628712844765018311492773359360516229024449585949240367644166080576879632652362184119765613545163153674691520749911733485693171622325900647078772681584616740134230153806267998022370194756399579977294154062696916779055028045657302214591620589415314367270329881298073237757853875497241510733954508399863880080986777555986663988492288946856978031023631618215522505971170427986911575695114157059398791122395379400594948096)
 # print(b'b value'  in b)
+

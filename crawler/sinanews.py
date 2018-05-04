@@ -86,7 +86,7 @@ class Sinanews(object):
         file.close()
 
     def writeBloomValueToFile(self):
-        file = open('./bloom.txt','wb')
+        file = open('./bloom.txt','w')
         file.write(bytes(bin(self.b).encode('utf-8')))
         file.close()
 
@@ -94,7 +94,7 @@ class Sinanews(object):
         file = None
         content = ''
         try:
-            file = open('./bloom.txt','rb')
+            file = open('./bloom.txt','r')
             content = file.read()
             print(content)
             file.close()
