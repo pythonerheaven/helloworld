@@ -13,9 +13,10 @@ from selenium import webdriver
 browser = webdriver.Firefox(executable_path='/Applications/geckodriver')
 browser.get('http://account.youdao.com/login?service=dict&back_url=http://dict.youdao.com/wordbook/wordlist%3Fkeyfrom%3Dlogin_from_dict2.index')
 editor = browser.find_element_by_id('username')
-editor.send_keys('hujb2014@163.com')
+editor.send_keys('hujb2033@163.com')
 password = browser.find_element_by_id('password')
-password.send_keys('storewords')
+#password.send_keys('storewords')
+password.send_keys('baojinta')
 login = browser.find_element_by_class_name('login_btn')
 login.click()
 
@@ -29,15 +30,15 @@ def strLen(str):
 
 #
 
-a = os.path.join('/Users/hujiabao/books/english/en/','words')
-print(a)
+# a = os.path.join('/Users/hujiabao/books/english/en/','words')
+# print(a)
+#
+# print(os.getcwd())
 
-print(os.getcwd())
-
-file = open('/Users/hujiabao/books/english/en/words/postgraduated2.md')
-fileContent = file.read();
-# print (fileContent)
-file.close();
+# file = open('/Users/hujiabao/books/english/en/words/英汉互译.md')
+# fileContent = file.read();
+# # print (fileContent)
+# file.close();
 
 shelveFile = shelve.open("mydata")
 cats = ['a','b']
@@ -55,7 +56,8 @@ logging.disable(logging.DEBUG)
 # basicConfig, provided the filename , save the log to file
 
 
-for folderName, subfolders, filenames in os.walk('/Users/hujiabao/books/english/en/words/store/'):
+path = '/Users/hujiabao/PycharmProjects/books/english/en/words/store/'
+for folderName, subfolders, filenames in os.walk(path):
     print('The current folder is  ' + folderName)
 
     for subfolder in subfolders:
@@ -77,16 +79,17 @@ for folderName, subfolders, filenames in os.walk('/Users/hujiabao/books/english/
 
             if strLen(line) < 12:
                 addword = browser.find_element_by_id('addword')
-                time.sleep(0.3)
+                time.sleep(0.4)
                 addword.click()
-                time.sleep(0.3)
+                time.sleep(0.4)
                 word = browser.find_element_by_css_selector('#word')
-                time.sleep(0.3)
+                time.sleep(0.4)
+                logging.info(line)
                 word.send_keys(line)
                 submit = browser.find_element_by_css_selector('#editwordform  form')
-                time.sleep(1)
+                time.sleep(4)
                 submit.submit()
-                time.sleep(1)
+                time.sleep(0.5)
         file.close()
 
 # try:
@@ -97,9 +100,9 @@ for folderName, subfolders, filenames in os.walk('/Users/hujiabao/books/english/
 
 browser.close()
 
-assert( '1' == '2','aa' )
+assert( '1' == '1','aa' )
 sys.exit(1)
 
 
-storeWords = StoreWords('/Users/hujiabao/books/english/en/words/')
-print(storeWords.folderPath)
+# storeWords = StoreWords('/Users/hujiabao/books/english/en/words/')
+# print(storeWords.folderPath)
