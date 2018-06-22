@@ -1,0 +1,9 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00031 2000 航天控股  0 STOCK
+1 HK.00161 2000 中航国际控股  0 STOCK
+2 HK.00232 2000 中国航空工业国际  0 STOCK
+3 HK.00317 2000 中船防务  0 STOCK
+4 HK.01045 2000 亚太卫星  0 STOCK
+5 HK.01185 2000 中国航天万源  0 STOCK
+6 HK.01292 1000 长安民生物流  0 STOCK
+7 HK.02357 1000 中航科工  0 STOCK

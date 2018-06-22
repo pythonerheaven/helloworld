@@ -1,0 +1,12 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00358 1000 江西铜业股份  0 STOCK
+1 HK.00476 10000 中国动力控股  0 STOCK
+2 HK.00505 1000 欢悦互娱  0 STOCK
+3 HK.00661 2000 中国大冶有色金属  0 STOCK
+4 HK.00847 30 哈萨克矿业-S  0 STOCK
+5 HK.00976 2000 齐合环保  0 STOCK
+6 HK.00985 8000 中誉集团  0 STOCK
+7 HK.01258 1000 中国有色矿业  0 STOCK
+8 HK.01636 4000 中国金属利用  0 STOCK
+9 HK.03939 2000 万国国际矿业  0 STOCK
+10 HK.08007 10000 环球战略集团  0 STOCK

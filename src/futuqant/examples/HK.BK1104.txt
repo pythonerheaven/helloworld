@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00082 2000 第一视频  0 STOCK
+1 HK.00434 1000 博雅互动  0 STOCK
+2 HK.00484 100 云游控股  0 STOCK
+3 HK.00700 100 腾讯控股  0 STOCK
+4 HK.00777 500 网龙  0 STOCK
+5 HK.00799 1000 IGG  0 STOCK
+6 HK.01439 5000 移动互联(中国)  0 STOCK
+7 HK.02100 2000 百奥家庭互动  0 STOCK
+8 HK.06899 1000 联众  0 STOCK
+9 HK.08267 500 蓝港互动  0 STOCK

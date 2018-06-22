@@ -1,0 +1,14 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00220 1000 统一企业中国  0 STOCK
+1 HK.00345 2000 维他奶国际  0 STOCK
+2 HK.00359 4000 海升果汁  0 STOCK
+3 HK.00364 8000 区块链集团  0 STOCK
+4 HK.00506 2000 中国食品  0 STOCK
+5 HK.00756 4000 森美控股  0 STOCK
+6 HK.01115 1000 西藏水资源  0 STOCK
+7 HK.01446 2000 鸿福堂  0 STOCK
+8 HK.01886 500 汇源果汁  0 STOCK
+9 HK.02218 500 安德利果汁  0 STOCK
+10 HK.02898 10000 龙润茶  0 STOCK
+11 HK.06868 1000 天福  0 STOCK
+12 HK.08241 5000 英记茶庄集团  0 STOCK

@@ -1,0 +1,15 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00097 1000 恒基发展  0 STOCK
+1 HK.00162 2000 世纪金花  0 STOCK
+2 HK.00244 1000 先施  0 STOCK
+3 HK.00289 1000 永安百货  0 STOCK
+4 HK.00312 2000 岁宝百货  0 STOCK
+5 HK.00602 2500 佳华百货控股  0 STOCK
+6 HK.00825 1000 新世界百货中国  0 STOCK
+7 HK.00848 1000 茂业国际  0 STOCK
+8 HK.01212 500 利福国际  0 STOCK
+9 HK.01700 1000 华地国际控股  0 STOCK
+10 HK.02136 500 利福中国  0 STOCK
+11 HK.02213 2000 益华控股  0 STOCK
+12 HK.03308 1000 金鹰商贸集团  0 STOCK
+13 HK.03368 500 百盛集团  0 STOCK

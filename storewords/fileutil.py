@@ -13,7 +13,7 @@ from selenium import webdriver
 browser = webdriver.Firefox(executable_path='/Applications/geckodriver')
 browser.get('http://account.youdao.com/login?service=dict&back_url=http://dict.youdao.com/wordbook/wordlist%3Fkeyfrom%3Dlogin_from_dict2.index')
 editor = browser.find_element_by_id('username')
-editor.send_keys('hujb2033@163.com')
+editor.send_keys('hujb2035@163.com')
 password = browser.find_element_by_id('password')
 #password.send_keys('storewords')
 password.send_keys('baojinta')
@@ -56,7 +56,7 @@ logging.disable(logging.DEBUG)
 # basicConfig, provided the filename , save the log to file
 
 
-path = '/Users/hujiabao/PycharmProjects/books/english/en/words/store/'
+path = '/Users/hujiabao/workspace_python/books/english/en/words/store/'
 for folderName, subfolders, filenames in os.walk(path):
     print('The current folder is  ' + folderName)
 
@@ -87,7 +87,7 @@ for folderName, subfolders, filenames in os.walk(path):
                 logging.info(line)
                 word.send_keys(line)
                 submit = browser.find_element_by_css_selector('#editwordform  form')
-                time.sleep(4)
+                time.sleep(5)
                 submit.submit()
                 time.sleep(0.5)
         file.close()

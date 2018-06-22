@@ -1,0 +1,6 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00555 25000 御泰中彩控股  0 STOCK
+1 HK.01280 2000 汇银智慧社区  0 STOCK
+2 HK.01371 20000 华彩控股  0 STOCK
+3 HK.08156 5000 众彩股份  0 STOCK
+4 HK.08198 4000 乐透互娱  0 STOCK

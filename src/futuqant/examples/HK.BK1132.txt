@@ -1,0 +1,7 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00135 2000 昆仑能源  0 STOCK
+1 HK.00386 2000 中国石油化工股份  0 STOCK
+2 HK.00702 5000 中国油气控股  0 STOCK
+3 HK.00857 2000 中国石油股份  0 STOCK
+4 HK.00883 1000 中国海洋石油  0 STOCK
+5 HK.02883 2000 中海油田服务  0 STOCK

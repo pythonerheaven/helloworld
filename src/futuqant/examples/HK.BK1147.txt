@@ -1,0 +1,6 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00012 1000 恒基地产  0 STOCK
+1 HK.00016 1000 新鸿基地产  0 STOCK
+2 HK.00017 1000 新世界发展  0 STOCK
+3 HK.00083 2000 信和置业  0 STOCK
+4 HK.01113 500 长实集团  0 STOCK

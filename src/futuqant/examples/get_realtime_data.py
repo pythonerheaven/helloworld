@@ -239,7 +239,7 @@ def _example_global_state(quote_ctx):
 
 
 if __name__ == "__main__":
-    quote_context = OpenQuoteContext(host='10.242.103.18', port=11111)
+    quote_context = OpenQuoteContext(host='10.242.45.130', port=11111)
 
     # 获取实时数据
     # _example_stock_quote(quote_context)
@@ -259,7 +259,7 @@ if __name__ == "__main__":
     #         r1, d1 = _example_plate_stock(quote_context,data.loc[indexs].values[0])
     #         if r1 == 0 :
     #             d1.to_csv(data.loc[indexs].values[0]+'.txt', index=True, sep=' ', columns=['code', 'lot_size','stock_name','owner_market','stock_child_type','stock_type'])
-    #
+
 
     # _example_plate_stock(quote_context,'SH.BK0531')
     # _example_broker_queue(quote_context)

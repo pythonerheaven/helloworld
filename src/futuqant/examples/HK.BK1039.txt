@@ -1,0 +1,17 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00270 2000 粤海投资  0 STOCK
+1 HK.00371 2000 北控水务集团  0 STOCK
+2 HK.00646 8000 中国环保科技  0 STOCK
+3 HK.00807 1000 上海实业环境  0 STOCK
+4 HK.00855 2000 中国水务  0 STOCK
+5 HK.00967 1000 桑德国际  0 STOCK
+6 HK.01026 10000 环球实业科技  0 STOCK
+7 HK.01065 2000 天津创业环保股份  0 STOCK
+8 HK.01129 4000 中国水业集团  0 STOCK
+9 HK.01363 2000 中滔环保  0 STOCK
+10 HK.01395 5000 强泰环保  0 STOCK
+11 HK.02281 1000 兴泸水务  0 STOCK
+12 HK.03768 1000 滇池水务  0 STOCK
+13 HK.06136 1000 康达环保  0 STOCK
+14 HK.06839 1000 云南水务  0 STOCK
+15 HK.08196 4000 建禹集团  0 STOCK

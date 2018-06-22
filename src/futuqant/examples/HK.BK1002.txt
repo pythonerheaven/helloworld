@@ -1,0 +1,9 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00517 2000 中远海运国际  0 STOCK
+1 HK.00572 4000 未来世界金融  0 STOCK
+2 HK.08047 4000 中国海洋捕捞  0 STOCK
+3 HK.08053 20000 比优集团  0 STOCK
+4 HK.08166 20000 中国农业生态  0 STOCK
+5 HK.08203 10000 凯顺能源  0 STOCK
+6 HK.08265 4000 中国之信集团  0 STOCK
+7 HK.08457 10000 健升物流中国  0 STOCK

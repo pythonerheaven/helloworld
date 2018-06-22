@@ -1,0 +1,16 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00103 2000 首长宝佳  0 STOCK
+1 HK.00317 2000 中船防务  0 STOCK
+2 HK.00651 5000 中海重工  0 STOCK
+3 HK.00716 2000 胜狮货柜  0 STOCK
+4 HK.01039 1000 鑫网易商  0 STOCK
+5 HK.01101 2000 华荣能源  0 STOCK
+6 HK.01122 2000 庆铃汽车股份  0 STOCK
+7 HK.01596 1000 翼辰实业  0 STOCK
+8 HK.01766 1000 中国中车  0 STOCK
+9 HK.01899 1000 兴达国际  0 STOCK
+10 HK.02039 100 中集集团  0 STOCK
+11 HK.02338 1000 潍柴动力  0 STOCK
+12 HK.03808 500 中国重汽  0 STOCK
+13 HK.03898 100 中车时代电气  0 STOCK
+14 HK.06163 2000 彭顺国际  0 STOCK

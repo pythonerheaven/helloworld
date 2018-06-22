@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00297 2000 中化化肥  0 STOCK
+1 HK.00509 5000 世纪阳光  0 STOCK
+2 HK.00660 10000 伟俊矿业集团  0 STOCK
+3 HK.00809 2000 大成生化科技  0 STOCK
+4 HK.00827 4000 玖源集团  0 STOCK
+5 HK.00841 2000 木薯资源  0 STOCK
+6 HK.01073 2000 浩伦农科  0 STOCK
+7 HK.01866 1000 中国心连心化肥  0 STOCK
+8 HK.03983 2000 中海石油化学  0 STOCK
+9 HK.08189 5000 泰达生物  0 STOCK

@@ -1,0 +1,5 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00062 400 载通  0 STOCK
+1 HK.00066 500 港铁公司  0 STOCK
+2 HK.00077 2000 进智公共交通  0 STOCK
+3 HK.00306 2000 冠忠巴士集团  0 STOCK

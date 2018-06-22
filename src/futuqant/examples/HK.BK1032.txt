@@ -1,0 +1,9 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.01655 5000 "OKURA HOLDINGS"  0 STOCK
+1 HK.02255 1000 海昌海洋公园  0 STOCK
+2 HK.02309 20000 伯明翰体育  0 STOCK
+3 HK.03358 500 荣威国际  0 STOCK
+4 HK.08032 8000 非凡中国  0 STOCK
+5 HK.08052 10000 陆庆娱乐  0 STOCK
+6 HK.08175 10000 中国数码文化  0 STOCK
+7 HK.08431 10000 浩柏国际  0 STOCK

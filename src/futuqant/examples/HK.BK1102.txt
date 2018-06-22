@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00397 10000 君阳金融  0 STOCK
+1 HK.00451 2000 协鑫新能源  0 STOCK
+2 HK.00686 2000 熊猫绿能  0 STOCK
+3 HK.00712 2000 卡姆丹克太阳能  0 STOCK
+4 HK.00750 1000 兴业太阳能  0 STOCK
+5 HK.00757 1000 阳光能源  0 STOCK
+6 HK.00968 2000 信义光能  0 STOCK
+7 HK.01165 2000 顺风清洁能源  0 STOCK
+8 HK.02468 1000 创益太阳能  0 STOCK
+9 HK.03800 1000 保利协鑫能源  0 STOCK

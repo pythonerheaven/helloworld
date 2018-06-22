@@ -1033,12 +1033,12 @@ def get_index_stocks(ip, port, strcode):
     return ret, data_frame
 
 if __name__ == "__main__":
-    api_ip = '10.242.103.18' #''119.29.141.202'
+    api_ip = '10.242.45.130' #''119.29.141.202'
     api_port = 11111
 
-    #enum_all_index(api_ip, api_port)
+    enum_all_index(api_ip, api_port)
 
-    data = pd.read_csv("index_hk.txt", sep=' ',names=['code','name'])
+    data = pd.read_csv("inx/index_hk.txt", sep=' ',names=['code','name'])
     for indexs in data.index:
         print(data.loc[indexs].values[0])
         print(data.loc[indexs].values[1])

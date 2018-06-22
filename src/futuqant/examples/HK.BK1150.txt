@@ -1,0 +1,7 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.01361 1000 361度  0 STOCK
+1 HK.01368 500 特步国际  0 STOCK
+2 HK.02020 1000 安踏体育  0 STOCK
+3 HK.02331 500 李宁  0 STOCK
+4 HK.03818 1000 中国动向  0 STOCK
+5 HK.06858 500 本间高尔夫  0 STOCK

@@ -1,0 +1,9 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00082 2000 第一视频  0 STOCK
+1 HK.00511 100 电视广播  0 STOCK
+2 HK.00888 2000 贝森金融  0 STOCK
+3 HK.01097 10000 有线宽频  0 STOCK
+4 HK.01137 1000 香港电视  0 STOCK
+5 HK.02008 2000 凤凰卫视  0 STOCK
+6 HK.08046 4000 恒芯中国  0 STOCK
+7 HK.08280 2000 中国数字视频  0 STOCK

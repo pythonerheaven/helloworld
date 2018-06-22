@@ -1,0 +1,14 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00839 1000 中教控股  0 STOCK
+1 HK.01082 8000 香港教育国际  0 STOCK
+2 HK.01565 1000 成实外教育  0 STOCK
+3 HK.01569 2000 民生教育  0 STOCK
+4 HK.02001 1000 新高教集团  0 STOCK
+5 HK.02371 4000 创联教育金融  0 STOCK
+6 HK.02779 1000 中国新华教育  0 STOCK
+7 HK.06068 2000 睿见教育  0 STOCK
+8 HK.06169 2000 宇华教育  0 STOCK
+9 HK.08055 8000 中国网络信息科技  0 STOCK
+10 HK.08160 12000 "GOLDWAY EDU"  0 STOCK
+11 HK.08363 2000 爵士芭蕾舞学院  0 STOCK
+12 HK.08417 10000 大地教育  0 STOCK
