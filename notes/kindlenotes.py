@@ -78,9 +78,10 @@ if __name__ == '__main__':
     #pdf = KindleNotes(
     #    "/Users/hujiabao/books/technical/notebooks/极简思考：来自世界顶尖咨询公司的高效工作法-Notebook.html")
 
-    pdf = KindleNotes(
-         "/Users/hujiabao/books/technical/notebooks/当机立断（教你如何通过数字、事实、逻辑快速做决定，完成工作任务，推动事业发展！）-Notebook.html")
+    #pdf = KindleNotes(
+    #         "/Users/hujiabao/books/technical/notebooks/当机立断（教你如何通过数字、事实、逻辑快速做决定，完成工作任务，推动事业发展！）-Notebook.html")
 
+    pdf = KindleNotes("/Users/hujiabao/books/technical/notebooks/深度学习：彻底解决你的知识焦虑 - Notebook.html")
 
 
 
