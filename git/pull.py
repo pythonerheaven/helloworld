@@ -13,7 +13,7 @@ for root, dirs, files in os.walk(my_root,True):
             if '.git' in dirs2:
                 os.chdir(path)
                 print(os.getcwd())
-                os.system('git checkout dev')
+                os.system('git checkout release')
                 os.system('git pull')
                 break
     break

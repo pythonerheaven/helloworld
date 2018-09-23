@@ -1,0 +1,6 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00658 1000 中国高速传动  0 STOCK
+1 HK.01072 200 东方电气  0 STOCK
+2 HK.01133 2000 哈尔滨电气  0 STOCK
+3 HK.02208 200 金风科技  0 STOCK
+4 HK.02727 2000 上海电气  0 STOCK

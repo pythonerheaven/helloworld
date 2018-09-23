@@ -1,0 +1,8 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.01818 500 招金矿业  0 STOCK
+1 HK.02099 100 中国黄金国际  0 STOCK
+2 HK.02840 10 SPDR金ETF  0 ETF
+3 HK.02899 2000 紫金矿业  0 STOCK
+4 HK.03081 100 价值黄金  0 ETF
+5 HK.03330 2000 灵宝黄金  0 STOCK
+6 HK.83168 100 恒生人币金ETF  0 ETF

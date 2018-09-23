@@ -1,0 +1,6 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00052 500 大快活  0 STOCK
+1 HK.00341 2000 大家乐集团  0 STOCK
+2 HK.00538 1000 味千(中国)  0 STOCK
+3 HK.01181 2000 唐宫中国  0 STOCK
+4 HK.01314 2000 翠华控股  0 STOCK

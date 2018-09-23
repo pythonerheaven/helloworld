@@ -1,0 +1,8 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00108 2000 国锐地产  0 STOCK
+1 HK.01417 2000 浦江中国  0 STOCK
+2 HK.01538 2000 中奥到家  0 STOCK
+3 HK.01778 1000 彩生活  0 STOCK
+4 HK.02669 5000 中海物业  0 STOCK
+5 HK.08181 8000 港深联合  0 STOCK
+6 HK.08426 10000 雅居投资控股  0 STOCK

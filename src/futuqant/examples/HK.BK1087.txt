@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00405 1000 越秀房产信托基金  0 ETF
+1 HK.00435 1000 阳光房地产基金  0 ETF
+2 HK.00778 1000 置富产业信托  0 ETF
+3 HK.00808 1000 泓富产业信托  0 ETF
+4 HK.00823 500 领展房产基金  0 ETF
+5 HK.01275 1000 开元产业信托  0 ETF
+6 HK.01426 1000 春泉产业信托  0 ETF
+7 HK.01881 1000 富豪产业信托  0 ETF
+8 HK.02778 1000 冠君产业信托  0 ETF
+9 HK.87001 1000 汇贤产业信托  0 ETF

@@ -1,0 +1,16 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00662 2000 亚洲金融  0 STOCK
+1 HK.00945 100 宏利金融-S  0 STOCK
+2 HK.00966 200 中国太平  0 STOCK
+3 HK.01019 6000 康宏环球  0 STOCK
+4 HK.01299 200 友邦保险  0 STOCK
+5 HK.01336 100 新华保险  0 STOCK
+6 HK.01339 1000 中国人民保险集团  0 STOCK
+7 HK.01508 1000 中国再保险  0 STOCK
+8 HK.02318 500 中国平安  0 STOCK
+9 HK.02328 2000 中国财险  0 STOCK
+10 HK.02378 500 保诚  0 STOCK
+11 HK.02601 200 中国太保  0 STOCK
+12 HK.02628 1000 中国人寿  0 STOCK
+13 HK.06060 100 众安在线  0 STOCK
+14 HK.06161 2000 泰加保险  0 STOCK

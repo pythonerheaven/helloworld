@@ -1,0 +1,3 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00547 10000 数字王国  0 STOCK
+1 HK.01566 1000 华夏动漫  0 STOCK

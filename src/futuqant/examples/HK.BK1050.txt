@@ -1,0 +1,10 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00928 20000 莲和医疗  0 STOCK
+1 HK.01035 1500 BBI生命科学  0 STOCK
+2 HK.01349 1000 复旦张江  0 STOCK
+3 HK.01548 2000 金斯瑞生物科技  0 STOCK
+4 HK.02269 500 药明生物  0 STOCK
+5 HK.03839 500 正大企业国际  0 STOCK
+6 HK.06826 100 昊海生物科技  0 STOCK
+7 HK.08158 5000 中国再生医学  0 STOCK
+8 HK.08247 2000 中生北控生物科技  0 STOCK

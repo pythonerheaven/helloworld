@@ -1,0 +1,11 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00462 4000 天然乳品  0 STOCK
+1 HK.01117 1000 现代牧业  0 STOCK
+2 HK.01230 1000 雅士利国际  0 STOCK
+3 HK.01431 1000 原生态牧业  0 STOCK
+4 HK.01432 1000 中国圣牧  0 STOCK
+5 HK.01492 2000 中地乳业  0 STOCK
+6 HK.01533 500 庄园牧场  0 STOCK
+7 HK.01717 1000 澳优  0 STOCK
+8 HK.02319 1000 蒙牛乳业  0 STOCK
+9 HK.06863 1000 辉山乳业  0 STOCK

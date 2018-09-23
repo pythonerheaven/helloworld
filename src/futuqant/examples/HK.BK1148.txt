@@ -1,0 +1,7 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00162 2000 世纪金花  0 STOCK
+1 HK.00312 2000 岁宝百货  0 STOCK
+2 HK.00825 1000 新世界百货中国  0 STOCK
+3 HK.00848 1000 茂业国际  0 STOCK
+4 HK.03308 1000 金鹰商贸集团  0 STOCK
+5 HK.03368 500 百盛集团  0 STOCK

@@ -1,0 +1,13 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00986 2000 中国环保能源  0 STOCK
+1 HK.03623 2000 中国金融发展  0 STOCK
+2 HK.08072 20000 罗马集团  0 STOCK
+3 HK.08149 10000 浩德控股  0 STOCK
+4 HK.08168 10000 宝积资本  0 STOCK
+5 HK.08193 5000 汉华专业服务  0 STOCK
+6 HK.08221 20000 "PF GROUP"  0 STOCK
+7 HK.08295 20000 中植资本国际  0 STOCK
+8 HK.08333 5000 阿仕特朗金融  0 STOCK
+9 HK.08340 10000 域高金融  0 STOCK
+10 HK.08365 5000 建泉国际控股  0 STOCK
+11 HK.08439 2000 新百利融资  0 STOCK

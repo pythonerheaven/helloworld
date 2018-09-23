@@ -1,0 +1,17 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00151 1000 中国旺旺  0 STOCK
+1 HK.01044 500 恒安国际  0 STOCK
+2 HK.01086 1000 好孩子国际  0 STOCK
+3 HK.01112 500 H&H国际控股  0 STOCK
+4 HK.01117 1000 现代牧业  0 STOCK
+5 HK.01225 20000 隆成金融  0 STOCK
+6 HK.01230 1000 雅士利国际  0 STOCK
+7 HK.01247 2000 米格国际控股  0 STOCK
+8 HK.01259 1000 中国儿童护理  0 STOCK
+9 HK.01317 2000 枫叶教育  0 STOCK
+10 HK.01509 1000 和美医疗  0 STOCK
+11 HK.02100 2000 百奥家庭互动  0 STOCK
+12 HK.02255 1000 海昌海洋公园  0 STOCK
+13 HK.02319 1000 蒙牛乳业  0 STOCK
+14 HK.06863 1000 辉山乳业  0 STOCK
+15 HK.08361 2000 中国育儿网络  0 STOCK

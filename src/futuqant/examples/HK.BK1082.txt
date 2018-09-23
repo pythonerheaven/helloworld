@@ -1,0 +1,9 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00336 1000 华宝国际  0 STOCK
+1 HK.00546 1000 阜丰集团  0 STOCK
+2 HK.00954 4000 常茂生物  0 STOCK
+3 HK.01579 1000 颐海国际  0 STOCK
+4 HK.01695 5000 椰丰集团  0 STOCK
+5 HK.02226 500 老恒和酿造  0 STOCK
+6 HK.02317 4000 味丹国际  0 STOCK
+7 HK.03318 2000 中国香精香料  0 STOCK

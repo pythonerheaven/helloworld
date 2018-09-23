@@ -1,0 +1,8 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00196 1000 宏华集团  0 STOCK
+1 HK.00568 400 山东墨龙  0 STOCK
+2 HK.01251 2000 华油能源  0 STOCK
+3 HK.02883 2000 中海油田服务  0 STOCK
+4 HK.03303 2000 巨涛海洋石油服务  0 STOCK
+5 HK.03337 2000 安东油田服务  0 STOCK
+6 HK.03899 2000 中集安瑞科  0 STOCK

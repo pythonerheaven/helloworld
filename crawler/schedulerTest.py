@@ -14,12 +14,12 @@ sched = BlockingScheduler()
 # def timed_job():
 #     logging.info('This job is run every three minutes')
 
-#@sched.scheduled_job('cron',day_of_week='mon-fri',hour='16-17', minute='20-59',seconds='*/10')
+#@sched.scheduled_job('cron',day_of_week='mon-fri',hour='16-17', minute='20-59',second='*/10')
 @sched.scheduled_job('cron',day_of_week='mon-fri',hour='16', minute='39')
 def scheduled_job():
     logging.info('This job is run every weekday at 5pm')
-    crawler = Crawler('/Users/hujiabao/Downloads/fv.txt', '##','fiv')
-    mongodbutil = Mongodbutil('10.173.32.123', 27017)
+    crawler = Crawler('/Users/hujiabao/Downloads/fv.txt', '##')
+    mongodbutil = Mongodbutil('10.173.32.123', 27017,'fiv')
     pos = 0
     while pos < 7101:
         print(pos)

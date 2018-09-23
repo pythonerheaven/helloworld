@@ -1,0 +1,7 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00293 1000 国泰航空  0 STOCK
+1 HK.00357 1000 航基股份  0 STOCK
+2 HK.00670 2000 中国东方航空股份  0 STOCK
+3 HK.00694 2000 北京首都机场股份  0 STOCK
+4 HK.00753 2000 中国国航  0 STOCK
+5 HK.01055 2000 中国南方航空股份  0 STOCK

@@ -1,0 +1,12 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00094 2000 绿心集团  0 STOCK
+1 HK.00706 10000 美丽中国控股  0 STOCK
+2 HK.00723 60000 永保林业  0 STOCK
+3 HK.00930 2000 中国森林  0 STOCK
+4 HK.01580 5000 大森控股  0 STOCK
+5 HK.01885 4000 中国优材  0 STOCK
+6 HK.08003 2000 世大控股  0 STOCK
+7 HK.08186 20000 同仁资源  0 STOCK
+8 HK.08191 6000 鸿伟亚洲  0 STOCK
+9 HK.08277 2000 骏东控股  0 STOCK
+10 HK.08566 4000 同仁资源(旧)  0 STOCK

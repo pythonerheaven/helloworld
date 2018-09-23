@@ -1,0 +1,8 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00439 1000 光启科学  0 STOCK
+1 HK.00471 4000 中播控股  0 STOCK
+2 HK.00633 2000 中国全通  0 STOCK
+3 HK.01045 2000 亚太卫星  0 STOCK
+4 HK.01135 500 亚洲卫星  0 STOCK
+5 HK.08061 20000 光亚  0 STOCK
+6 HK.08147 4000 汇思太平洋  0 STOCK

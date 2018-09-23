@@ -1,0 +1,8 @@
+ code lot_size stock_name owner_market stock_child_type stock_type
+0 HK.00027 1000 银河娱乐  0 STOCK
+1 HK.00200 1000 新濠国际发展  0 STOCK
+2 HK.00880 1000 澳博控股  0 STOCK
+3 HK.01128 400 永利澳门  0 STOCK
+4 HK.01180 4000 汇彩控股  0 STOCK
+5 HK.01928 400 金沙中国有限公司  0 STOCK
+6 HK.02282 400 美高梅中国  0 STOCK
