@@ -13,7 +13,7 @@ from selenium import webdriver
 browser = webdriver.Firefox(executable_path='/Applications/geckodriver')
 browser.get('http://account.youdao.com/login?service=dict&back_url=http://dict.youdao.com/wordbook/wordlist%3Fkeyfrom%3Dlogin_from_dict2.index')
 editor = browser.find_element_by_id('username')
-editor.send_keys('hujb2037@163.com')
+editor.send_keys('hujb2038@163.com')
 password = browser.find_element_by_id('password')
 #password.send_keys('storewords')
 password.send_keys('baojinta')
@@ -64,33 +64,50 @@ for folderName, subfolders, filenames in os.walk(path):
         print ('Subfolder of  ' + folderName + ': ' + subfolder)
     for filename  in filenames:
         print('File inside ' + folderName + ': ' + filename)
+        if filename == 'temp.md':
+            continue
         file = open(folderName + filename)
         fileContent = file.read()
         # logging.info(fileContent)
         lines = fileContent.split('\n')
-        logging.info(lines)
+
+        file.close()
+        file = open(folderName + filename,mode = 'w')
+        file.truncate(0)
+
+        words = set()
         for line in lines:
+            words.add(line
+                      )
+        for line in words:
+            file.write(line + '\n')
+        file.close()
+
+        print('Total words: ' + str(len(lines)) + " after removal the duplicated: " + str(len(words)))
+        logging.info(lines)
+        for line in words:
             # logging.debug(line)
             line.strip()
             line.strip('\'')
             line.strip('\"')
+            logging.info(line)
+
             if len(line) == 0:
                 continue
 
-            if strLen(line) < 15:
+            if strLen(line) < 20:
+                time.sleep(1)
                 addword = browser.find_element_by_id('addword')
-                time.sleep(0.6)
+                time.sleep(1)
                 addword.click()
-                time.sleep(0.6)
+                time.sleep(1)
                 word = browser.find_element_by_css_selector('#word')
-                time.sleep(0.6)
-                logging.info(line)
+                time.sleep(1)
                 word.send_keys(line)
                 submit = browser.find_element_by_css_selector('#editwordform  form')
-                time.sleep(6)
+                time.sleep(5)
                 submit.submit()
                 time.sleep(2)
-        file.close()
 
 # try:
 #     raise Exception('Symbol must be a single character string.')
