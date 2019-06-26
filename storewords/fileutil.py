@@ -13,7 +13,7 @@ from selenium import webdriver
 browser = webdriver.Firefox(executable_path='/Applications/geckodriver')
 browser.get('http://account.youdao.com/login?service=dict&back_url=http://dict.youdao.com/wordbook/wordlist%3Fkeyfrom%3Dlogin_from_dict2.index')
 editor = browser.find_element_by_id('username')
-editor.send_keys('hujb2038@163.com')
+editor.send_keys('hujb2040@163.com')
 password = browser.find_element_by_id('password')
 #password.send_keys('storewords')
 password.send_keys('baojinta')
@@ -95,7 +95,7 @@ for folderName, subfolders, filenames in os.walk(path):
             if len(line) == 0:
                 continue
 
-            if strLen(line) < 20:
+            if strLen(line) < 50:
                 time.sleep(1)
                 addword = browser.find_element_by_id('addword')
                 time.sleep(1)

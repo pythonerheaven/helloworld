@@ -1,3 +1,6 @@
 futuquant
 PyPDF2
 chardet
+nltk
+
+missingno

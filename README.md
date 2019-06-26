@@ -34,3 +34,16 @@ pip3 install lxml
 pip3 install urllib2
 pip3 install futuquant --upgrade
 pip3 install matplotlib 显示各种图表， http://matplotlib.org
+
+
+# QA
+
+```
+SSL: CERTIFICATE_VERIFY_FAILED certificate verify failed(_ssl.c:749)
+
+cd /Applications/Python 3.6 
+./Install Certificates.command
+
+https://blog.csdn.net/blueheart20/article/details/72824921
+
+```
