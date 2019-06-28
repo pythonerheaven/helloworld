@@ -33,7 +33,7 @@ def generate_chapters(chapterId, title, arr):
     browser = webdriver.Firefox(executable_path='/Applications/geckodriver')
     browser.get('http://edu.ai2boss.com/admin')
     editor = browser.find_element_by_id('login_username')
-    editor.send_keys('ai2boss@163.com')
+
     editor = browser.find_element_by_id('login_password')
     editor.send_keys('ai2boss')
     login = browser.find_element_by_class_name('js-btn-login')
